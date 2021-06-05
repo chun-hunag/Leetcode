@@ -11,4 +11,5 @@ personal leetcode solving record
 * [204. Count Primes](./Algorithms/Array/204.Count-Primes.md)
 ### String
 * [415. Add Strings](./Algorithms/String/415.Add-Strings.md)
-
+### Hash Table
+* [1512. Number of Good Pairs](./Algorithms/HashTable/1512.Number-of-Good-Pairs.md)
