@@ -15,3 +15,5 @@ personal leetcode solving record
 * [415. Add Strings](./Algorithms/String/415.Add-Strings.md)
 ### Hash Table
 * [1512. Number of Good Pairs](./Algorithms/HashTable/1512.Number-of-Good-Pairs.md)
+### Tree
+* [101. Symmetric Tree](./Algorithms/Tree/101.Symmetric-Tree.md)
