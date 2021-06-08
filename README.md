@@ -13,6 +13,7 @@ personal leetcode solving record
 * [14. Longest Common Prefix](./Algorithms/String/14.Longest-Common-Prefix.md)
 * [67. Add Binary](Algorithms/String/67.Add-Binary.md)
 * [415. Add Strings](./Algorithms/String/415.Add-Strings.md)
+* [521. Longest Uncommon Subsequence I](./Algorithms/String/521.Longest-Uncommon-Subsequence-I.md)
 ### Hash Table
 * [1512. Number of Good Pairs](./Algorithms/HashTable/1512.Number-of-Good-Pairs.md)
 ### Tree
