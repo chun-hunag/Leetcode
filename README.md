@@ -14,6 +14,7 @@ personal leetcode solving record
 * [67. Add Binary](Algorithms/String/67.Add-Binary.md)
 * [415. Add Strings](./Algorithms/String/415.Add-Strings.md)
 * [521. Longest Uncommon Subsequence I](./Algorithms/String/521.Longest-Uncommon-Subsequence-I.md)
+* [522. Longest Uncommon Subsequence II](./Algorithms/String/522.Longest-Uncommon-Subsequence-II.md)
 ### Hash Table
 * [1512. Number of Good Pairs](./Algorithms/HashTable/1512.Number-of-Good-Pairs.md)
 ### Tree
