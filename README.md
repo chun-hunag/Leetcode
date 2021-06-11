@@ -11,7 +11,8 @@ personal leetcode solving record
 ### String
 * [14. Longest Common Prefix](./Algorithms/String/14.Longest-Common-Prefix.md)
 * [17. Letter Combinations of a PhoneNumber](./Algorithms/String/17.Letter-Combinations-of-a-Phone-Number.md)
-* [67. Add Binary](Algorithms/String/67.Add-Binary.md)
+* [67. Add Binary](./Algorithms/String/67.Add-Binary.md)
+* [344. Reverse String](./Algorithms/String/344.Reverse-String.md)
 * [415. Add Strings](./Algorithms/String/415.Add-Strings.md)
 * [521. Longest Uncommon Subsequence I](./Algorithms/String/521.Longest-Uncommon-Subsequence-I.md)
 * [522. Longest Uncommon Subsequence II](./Algorithms/String/522.Longest-Uncommon-Subsequence-II.md)
