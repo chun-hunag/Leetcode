@@ -23,3 +23,5 @@ personal leetcode solving record
 * [101. Symmetric Tree](./Algorithms/Tree/101.Symmetric-Tree.md)
 ### Linked List
 * [2. Add Two Numbers](./Algorithms/LinkedList/2.Add-Two-Numbers.md)
+### Binary Search
+* [349. Intersection of Two Arrays](./Algorithms/BinarySearch/349.Intersection-of-Two-Arrays.md)
