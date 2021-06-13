@@ -7,6 +7,7 @@ personal leetcode solving record
 * [15. 3Sum](./Algorithms/15.3Sum.md)
 * [26. Remove Duplicates from Sorted Array](./Algorithms/26.Remove-Duplicates-from-Sorted-Array.md)
 * [118. Pascal's Triangle](./Algorithms/118.Pascal's-Triangle.md)
+* [167. Two Sum II - Input array is sorted](./Algorithms/167.Two-Sum-II-Input-array-is-sorted.md)
 * [1512. Number of Good Pairs](./Algorithms/1512.Number-of-Good-Pairs.md)
 
 ### String
@@ -32,11 +33,13 @@ personal leetcode solving record
 * [2. Add Two Numbers](./Algorithms/2.Add-Two-Numbers.md)
 
 ### Binary Search
+* [167. Two Sum II - Input array is sorted](./Algorithms/167.Two-Sum-II-Input-array-is-sorted.md)
 * [349. Intersection of Two Arrays](./Algorithms/349.Intersection-of-Two-Arrays.md)
 
 ### Two Pointers
 * [15. 3Sum](./Algorithms/15.3Sum.md)
 * [26. Remove Duplicates from Sorted Array](./Algorithms/26.Remove-Duplicates-from-Sorted-Array.md)
+* [167. Two Sum II - Input array is sorted](./Algorithms/167.Two-Sum-II-Input-array-is-sorted.md)
 * [344. Reverse String](./Algorithms/344.Reverse-String.md)
 * [349. Intersection of Two Arrays](./Algorithms/349.Intersection-of-Two-Arrays.md)
 
