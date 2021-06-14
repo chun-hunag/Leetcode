@@ -22,6 +22,7 @@ personal leetcode solving record
 
 ### Hash Table
 * [1. Two Sum](./Algorithms/1.Two-Sum.md)
+* [136. Single Number](./Algorithms/136.Single-Number.md)
 * [204. Count Primes](./Algorithms/204.Count-Primes.md)
 * [349. Intersection of Two Arrays](./Algorithms/349.Intersection-of-Two-Arrays.md)
 * [1512. Number of Good Pairs](./Algorithms/1512.Number-of-Good-Pairs.md)
@@ -56,7 +57,6 @@ personal leetcode solving record
 ### Sort
 * [349. Intersection of Two Arrays](./Algorithms/349.Intersection-of-Two-Arrays.md)
 
-
 ### Backtracking
 * [17. Letter Combinations of a PhoneNumber](./Algorithms/17.Letter-Combinations-of-a-Phone-Number.md)
 
@@ -69,3 +69,6 @@ personal leetcode solving record
 
 ### Brainteaser
 * [521. Longest Uncommon Subsequence I](./Algorithms/521.Longest-Uncommon-Subsequence-I.md)
+
+### Bit Manipulation
+* [136. Single Number](./Algorithms/136.Single-Number.md)
