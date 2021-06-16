@@ -23,6 +23,7 @@ personal leetcode solving record
 ### Hash Table
 * [1. Two Sum](./Algorithms/1.Two-Sum.md)
 * [136. Single Number](./Algorithms/136.Single-Number.md)
+* [202. Happy Number](./Algorithms/202.Happy-Number.md)
 * [204. Count Primes](./Algorithms/204.Count-Primes.md)
 * [349. Intersection of Two Arrays](./Algorithms/349.Intersection-of-Two-Arrays.md)
 * [1512. Number of Good Pairs](./Algorithms/1512.Number-of-Good-Pairs.md)
@@ -47,6 +48,7 @@ personal leetcode solving record
 ### Math
 * [2. Add Two Numbers](./Algorithms/2.Add-Two-Numbers.md)
 * [67. Add Binary](./Algorithms/67.Add-Binary.md)
+* [202. Happy Number](./Algorithms/202.Happy-Number.md)
 * [204. Count Primes](./Algorithms/204.Count-Primes.md)
 * [1512. Number of Good Pairs](./Algorithms/1512.Number-of-Good-Pairs.md)
 
