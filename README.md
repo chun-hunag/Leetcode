@@ -6,6 +6,7 @@ personal leetcode solving record
 * [1. Two Sum](./Algorithms/1.Two-Sum.md)
 * [15. 3Sum](./Algorithms/15.3Sum.md)
 * [26. Remove Duplicates from Sorted Array](./Algorithms/26.Remove-Duplicates-from-Sorted-Array.md)
+* [53. Maximum Subarray](./Algorithms/53.Maximum-Subarray.md)
 * [118. Pascal's Triangle](./Algorithms/118.Pascal's-Triangle.md)
 * [167. Two Sum II - Input array is sorted](./Algorithms/167.Two-Sum-II-Input-array-is-sorted.md)
 * [1512. Number of Good Pairs](./Algorithms/1512.Number-of-Good-Pairs.md)
@@ -74,3 +75,8 @@ personal leetcode solving record
 
 ### Bit Manipulation
 * [136. Single Number](./Algorithms/136.Single-Number.md)
+
+### Divide and Conquer
+* [53. Maximum Subarray](./Algorithms/53.Maximum-Subarray.md)
+### Dynamic Programming
+* [53. Maximum Subarray](./Algorithms/53.Maximum-Subarray.md)
