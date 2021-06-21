@@ -13,6 +13,7 @@ personal leetcode solving record
 
 ### String
 * [14. Longest Common Prefix](./Algorithms/14.Longest-Common-Prefix.md)
+* [13. Roman to Integer](./Algorithms/13.Roman-to-Integer.md)
 * [17. Letter Combinations of a PhoneNumber](./Algorithms/17.Letter-Combinations-of-a-Phone-Number.md)
 * [67. Add Binary](./Algorithms/67.Add-Binary.md)
 * [344. Reverse String](./Algorithms/344.Reverse-String.md)
@@ -48,6 +49,7 @@ personal leetcode solving record
 
 ### Math
 * [2. Add Two Numbers](./Algorithms/2.Add-Two-Numbers.md)
+* [13. Roman to Integer](./Algorithms/13.Roman-to-Integer.md)
 * [67. Add Binary](./Algorithms/67.Add-Binary.md)
 * [202. Happy Number](./Algorithms/202.Happy-Number.md)
 * [204. Count Primes](./Algorithms/204.Count-Primes.md)
