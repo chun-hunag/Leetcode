@@ -8,6 +8,7 @@ personal leetcode solving record
 * [26. Remove Duplicates from Sorted Array](./Algorithms/26.Remove-Duplicates-from-Sorted-Array.md)
 * [53. Maximum Subarray](./Algorithms/53.Maximum-Subarray.md)
 * [118. Pascal's Triangle](./Algorithms/118.Pascal's-Triangle.md)
+* [122. Best Time to Buy and Sell Stock II](./Algorithms/122.Best-Time-to-Buy-and-Sell-Stock-II.md)
 * [167. Two Sum II - Input array is sorted](./Algorithms/167.Two-Sum-II-Input-array-is-sorted.md)
 * [1512. Number of Good Pairs](./Algorithms/1512.Number-of-Good-Pairs.md)
 
@@ -80,5 +81,9 @@ personal leetcode solving record
 
 ### Divide and Conquer
 * [53. Maximum Subarray](./Algorithms/53.Maximum-Subarray.md)
+
 ### Dynamic Programming
 * [53. Maximum Subarray](./Algorithms/53.Maximum-Subarray.md)
+
+### Greedy
+* [122. Best Time to Buy and Sell Stock II](./Algorithms/122.Best-Time-to-Buy-and-Sell-Stock-II.md)
