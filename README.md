@@ -5,6 +5,7 @@ personal leetcode solving record
 ### Array
 * [1. Two Sum](./Algorithms/1.Two-Sum.md)
 * [15. 3Sum](./Algorithms/15.3Sum.md)
+* [20. Valid Parentheses](./Algorithms/20.Valid-Parentheses.md)
 * [26. Remove Duplicates from Sorted Array](./Algorithms/26.Remove-Duplicates-from-Sorted-Array.md)
 * [53. Maximum Subarray](./Algorithms/53.Maximum-Subarray.md)
 * [118. Pascal's Triangle](./Algorithms/118.Pascal's-Triangle.md)
@@ -87,3 +88,6 @@ personal leetcode solving record
 
 ### Greedy
 * [122. Best Time to Buy and Sell Stock II](./Algorithms/122.Best-Time-to-Buy-and-Sell-Stock-II.md)
+
+### Stack
+* [15. 3Sum](./Algorithms/15.3Sum.md)
