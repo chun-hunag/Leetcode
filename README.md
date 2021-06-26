@@ -37,6 +37,7 @@ personal leetcode solving record
 
 ### Linked List
 * [2. Add Two Numbers](./Algorithms/2.Add-Two-Numbers.md)
+* [237. Delete Node in a Linked List](./Algorithms/237.Delete-Node-in-a-Linked-List.md)
 
 ### Binary Search
 * [167. Two Sum II - Input array is sorted](./Algorithms/167.Two-Sum-II-Input-array-is-sorted.md)
