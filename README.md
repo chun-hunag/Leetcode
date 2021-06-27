@@ -54,6 +54,7 @@ personal leetcode solving record
 * [2. Add Two Numbers](./Algorithms/2.Add-Two-Numbers.md)
 * [13. Roman to Integer](./Algorithms/13.Roman-to-Integer.md)
 * [67. Add Binary](./Algorithms/67.Add-Binary.md)
+* [70. Climbing Stairs](./Algorithms/70.Climbing-Stairs.md)
 * [202. Happy Number](./Algorithms/202.Happy-Number.md)
 * [204. Count Primes](./Algorithms/204.Count-Primes.md)
 * [1512. Number of Good Pairs](./Algorithms/1512.Number-of-Good-Pairs.md)
@@ -86,9 +87,13 @@ personal leetcode solving record
 
 ### Dynamic Programming
 * [53. Maximum Subarray](./Algorithms/53.Maximum-Subarray.md)
+* [70. Climbing Stairs](./Algorithms/70.Climbing-Stairs.md)
 
 ### Greedy
 * [122. Best Time to Buy and Sell Stock II](./Algorithms/122.Best-Time-to-Buy-and-Sell-Stock-II.md)
 
 ### Stack
 * [15. 3Sum](./Algorithms/15.3Sum.md)
+
+### Memoization
+* [70. Climbing Stairs](./Algorithms/70.Climbing-Stairs.md)
