@@ -37,6 +37,7 @@ personal leetcode solving record
 
 ### Linked List
 * [2. Add Two Numbers](./Algorithms/2.Add-Two-Numbers.md)
+* [206. Reverse Linked List](./Algorithms/206.Reverse-Linked-List.md)
 * [234. Palindrome Linked List](./Algorithms/234.Palindrome-Linked-List.md)
 * [237. Delete Node in a Linked List](./Algorithms/237.Delete-Node-in-a-Linked-List.md)
 
@@ -64,6 +65,7 @@ personal leetcode solving record
 ### Recursion
 * [2. Add Two Numbers](./Algorithms/2.Add-Two-Numbers.md)
 * [17. Letter Combinations of a PhoneNumber](./Algorithms/17.Letter-Combinations-of-a-Phone-Number.md)
+* [206. Reverse Linked List](./Algorithms/206.Reverse-Linked-List.md)
 * [234. Palindrome Linked List](./Algorithms/234.Palindrome-Linked-List.md)
 
 ### Sort
