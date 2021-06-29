@@ -9,6 +9,7 @@ personal leetcode solving record
 * [26. Remove Duplicates from Sorted Array](./Algorithms/26.Remove-Duplicates-from-Sorted-Array.md)
 * [53. Maximum Subarray](./Algorithms/53.Maximum-Subarray.md)
 * [118. Pascal's Triangle](./Algorithms/118.Pascal's-Triangle.md)
+* [121. Best Time to Buy and Sell Stock](./Algorithms/121.Best-Time-to-Buy-and-Sell-Stock.md)
 * [122. Best Time to Buy and Sell Stock II](./Algorithms/122.Best-Time-to-Buy-and-Sell-Stock-II.md)
 * [167. Two Sum II - Input array is sorted](./Algorithms/167.Two-Sum-II-Input-array-is-sorted.md)
 * [1512. Number of Good Pairs](./Algorithms/1512.Number-of-Good-Pairs.md)
@@ -93,6 +94,7 @@ personal leetcode solving record
 ### Dynamic Programming
 * [53. Maximum Subarray](./Algorithms/53.Maximum-Subarray.md)
 * [70. Climbing Stairs](./Algorithms/70.Climbing-Stairs.md)
+* [121. Best Time to Buy and Sell Stock](./Algorithms/121.Best-Time-to-Buy-and-Sell-Stock.md)
 
 ### Greedy
 * [122. Best Time to Buy and Sell Stock II](./Algorithms/122.Best-Time-to-Buy-and-Sell-Stock-II.md)
