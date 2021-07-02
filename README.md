@@ -29,6 +29,7 @@ personal leetcode solving record
 ### Hash Table
 * [1. Two Sum](./Algorithms/1.Two-Sum.md)
 * [136. Single Number](./Algorithms/136.Single-Number.md)
+* [160. Intersection of Two Linked Lists](./Algorithms/160.Intersection-of-Two-Linked-Lists.md)
 * [202. Happy Number](./Algorithms/202.Happy-Number.md)
 * [204. Count Primes](./Algorithms/204.Count-Primes.md)
 * [349. Intersection of Two Arrays](./Algorithms/349.Intersection-of-Two-Arrays.md)
@@ -39,6 +40,7 @@ personal leetcode solving record
 
 ### Linked List
 * [2. Add Two Numbers](./Algorithms/2.Add-Two-Numbers.md)
+* [160. Intersection of Two Linked Lists](./Algorithms/160.Intersection-of-Two-Linked-Lists.md)
 * [206. Reverse Linked List](./Algorithms/206.Reverse-Linked-List.md)
 * [234. Palindrome Linked List](./Algorithms/234.Palindrome-Linked-List.md)
 * [237. Delete Node in a Linked List](./Algorithms/237.Delete-Node-in-a-Linked-List.md)
@@ -50,6 +52,7 @@ personal leetcode solving record
 ### Two Pointers
 * [15. 3Sum](./Algorithms/15.3Sum.md)
 * [26. Remove Duplicates from Sorted Array](./Algorithms/26.Remove-Duplicates-from-Sorted-Array.md)
+* [160. Intersection of Two Linked Lists](./Algorithms/160.Intersection-of-Two-Linked-Lists.md)
 * [167. Two Sum II - Input array is sorted](./Algorithms/167.Two-Sum-II-Input-array-is-sorted.md)
 * [234. Palindrome Linked List](./Algorithms/234.Palindrome-Linked-List.md)
 * [344. Reverse String](./Algorithms/344.Reverse-String.md)
