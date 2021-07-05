@@ -8,6 +8,7 @@ personal leetcode solving record
 * [20. Valid Parentheses](./Algorithms/20.Valid-Parentheses.md)
 * [26. Remove Duplicates from Sorted Array](./Algorithms/26.Remove-Duplicates-from-Sorted-Array.md)
 * [53. Maximum Subarray](./Algorithms/53.Maximum-Subarray.md)
+* [66. Plus One](./Algorithms/66.Plus-One.md)
 * [118. Pascal's Triangle](./Algorithms/118.Pascal's-Triangle.md)
 * [121. Best Time to Buy and Sell Stock](./Algorithms/121.Best-Time-to-Buy-and-Sell-Stock.md)
 * [122. Best Time to Buy and Sell Stock II](./Algorithms/122.Best-Time-to-Buy-and-Sell-Stock-II.md)
@@ -62,6 +63,7 @@ personal leetcode solving record
 ### Math
 * [2. Add Two Numbers](./Algorithms/2.Add-Two-Numbers.md)
 * [13. Roman to Integer](./Algorithms/13.Roman-to-Integer.md)
+* [66. Plus One](./Algorithms/66.Plus-One.md)
 * [67. Add Binary](./Algorithms/67.Add-Binary.md)
 * [70. Climbing Stairs](./Algorithms/70.Climbing-Stairs.md)
 * [202. Happy Number](./Algorithms/202.Happy-Number.md)
