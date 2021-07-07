@@ -9,6 +9,7 @@ personal leetcode solving record
 * [26. Remove Duplicates from Sorted Array](./Algorithms/26.Remove-Duplicates-from-Sorted-Array.md)
 * [53. Maximum Subarray](./Algorithms/53.Maximum-Subarray.md)
 * [66. Plus One](./Algorithms/66.Plus-One.md)
+* [88. Merge Sorted Array](./Algorithms/88.Merge-Sorted-Array.md)
 * [118. Pascal's Triangle](./Algorithms/118.Pascal's-Triangle.md)
 * [121. Best Time to Buy and Sell Stock](./Algorithms/121.Best-Time-to-Buy-and-Sell-Stock.md)
 * [122. Best Time to Buy and Sell Stock II](./Algorithms/122.Best-Time-to-Buy-and-Sell-Stock-II.md)
@@ -54,6 +55,7 @@ personal leetcode solving record
 ### Two Pointers
 * [15. 3Sum](./Algorithms/15.3Sum.md)
 * [26. Remove Duplicates from Sorted Array](./Algorithms/26.Remove-Duplicates-from-Sorted-Array.md)
+* [88. Merge Sorted Array](./Algorithms/88.Merge-Sorted-Array.md)
 * [160. Intersection of Two Linked Lists](./Algorithms/160.Intersection-of-Two-Linked-Lists.md)
 * [167. Two Sum II - Input array is sorted](./Algorithms/167.Two-Sum-II-Input-array-is-sorted.md)
 * [234. Palindrome Linked List](./Algorithms/234.Palindrome-Linked-List.md)
@@ -78,6 +80,7 @@ personal leetcode solving record
 * [234. Palindrome Linked List](./Algorithms/234.Palindrome-Linked-List.md)
 
 ### Sort
+* [88. Merge Sorted Array](./Algorithms/88.Merge-Sorted-Array.md)
 * [349. Intersection of Two Arrays](./Algorithms/349.Intersection-of-Two-Arrays.md)
 
 ### Backtracking
