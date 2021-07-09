@@ -14,6 +14,7 @@ personal leetcode solving record
 * [121. Best Time to Buy and Sell Stock](./Algorithms/121.Best-Time-to-Buy-and-Sell-Stock.md)
 * [122. Best Time to Buy and Sell Stock II](./Algorithms/122.Best-Time-to-Buy-and-Sell-Stock-II.md)
 * [167. Two Sum II - Input array is sorted](./Algorithms/167.Two-Sum-II-Input-array-is-sorted.md)
+* [561. Array Partition I](./Algorithms/561.Array-Partition-I.md)
 * [717. 1-bit and 2-bit Characters](./Algorithms/717.1-bit-and-2-bit-Characters.md)
 * [1512. Number of Good Pairs](./Algorithms/1512.Number-of-Good-Pairs.md)
 
@@ -82,6 +83,10 @@ personal leetcode solving record
 ### Sort
 * [88. Merge Sorted Array](./Algorithms/88.Merge-Sorted-Array.md)
 * [349. Intersection of Two Arrays](./Algorithms/349.Intersection-of-Two-Arrays.md)
+* [561. Array Partition I](./Algorithms/561.Array-Partition-I.md)
+
+### Counting Sort
+* [561. Array Partition I](./Algorithms/561.Array-Partition-I.md)
 
 ### Backtracking
 * [17. Letter Combinations of a PhoneNumber](./Algorithms/17.Letter-Combinations-of-a-Phone-Number.md)
@@ -109,6 +114,7 @@ personal leetcode solving record
 
 ### Greedy
 * [122. Best Time to Buy and Sell Stock II](./Algorithms/122.Best-Time-to-Buy-and-Sell-Stock-II.md)
+* [561. Array Partition I](./Algorithms/561.Array-Partition-I.md)
 
 ### Stack
 * [15. 3Sum](./Algorithms/15.3Sum.md)
