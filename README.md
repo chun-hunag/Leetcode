@@ -71,6 +71,7 @@ personal leetcode solving record
 * [70. Climbing Stairs](./Algorithms/70.Climbing-Stairs.md)
 * [202. Happy Number](./Algorithms/202.Happy-Number.md)
 * [204. Count Primes](./Algorithms/204.Count-Primes.md)
+* [372. Super Pow](./Algorithms/372.Super-Pow.md)
 * [1512. Number of Good Pairs](./Algorithms/1512.Number-of-Good-Pairs.md)
 
 ### Recursion
@@ -106,6 +107,7 @@ personal leetcode solving record
 
 ### Divide and Conquer
 * [53. Maximum Subarray](./Algorithms/53.Maximum-Subarray.md)
+* [372. Super Pow](./Algorithms/372.Super-Pow.md)
 
 ### Dynamic Programming
 * [53. Maximum Subarray](./Algorithms/53.Maximum-Subarray.md)
