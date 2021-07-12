@@ -43,6 +43,7 @@ personal leetcode solving record
 
 ### Linked List
 * [2. Add Two Numbers](./Algorithms/2.Add-Two-Numbers.md)
+* [21. Merge Two Sorted Lists](./Algorithms/21.Merge-Two-Sorted-Lists.md)
 * [24. Swap Nodes in Pairs](./Algorithms/24.Swap-Nodes-in-Pairs.md)
 * [160. Intersection of Two Linked Lists](./Algorithms/160.Intersection-of-Two-Linked-Lists.md)
 * [206. Reverse Linked List](./Algorithms/206.Reverse-Linked-List.md)
@@ -77,6 +78,7 @@ personal leetcode solving record
 ### Recursion
 * [2. Add Two Numbers](./Algorithms/2.Add-Two-Numbers.md)
 * [17. Letter Combinations of a PhoneNumber](./Algorithms/17.Letter-Combinations-of-a-Phone-Number.md)
+* [21. Merge Two Sorted Lists](./Algorithms/21.Merge-Two-Sorted-Lists.md)
 * [24. Swap Nodes in Pairs](./Algorithms/24.Swap-Nodes-in-Pairs.md)
 * [206. Reverse Linked List](./Algorithms/206.Reverse-Linked-List.md)
 * [234. Palindrome Linked List](./Algorithms/234.Palindrome-Linked-List.md)
