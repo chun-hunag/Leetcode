@@ -14,6 +14,7 @@ personal leetcode solving record
 * [121. Best Time to Buy and Sell Stock](./Algorithms/121.Best-Time-to-Buy-and-Sell-Stock.md)
 * [122. Best Time to Buy and Sell Stock II](./Algorithms/122.Best-Time-to-Buy-and-Sell-Stock-II.md)
 * [167. Two Sum II - Input array is sorted](./Algorithms/167.Two-Sum-II-Input-array-is-sorted.md)
+* [169. Majority Element](./Algorithms/169.Majority-Element.md)
 * [561. Array Partition I](./Algorithms/561.Array-Partition-I.md)
 * [717. 1-bit and 2-bit Characters](./Algorithms/717.1-bit-and-2-bit-Characters.md)
 * [1512. Number of Good Pairs](./Algorithms/1512.Number-of-Good-Pairs.md)
@@ -33,6 +34,7 @@ personal leetcode solving record
 * [1. Two Sum](./Algorithms/1.Two-Sum.md)
 * [136. Single Number](./Algorithms/136.Single-Number.md)
 * [160. Intersection of Two Linked Lists](./Algorithms/160.Intersection-of-Two-Linked-Lists.md)
+* [169. Majority Element](./Algorithms/169.Majority-Element.md)
 * [202. Happy Number](./Algorithms/202.Happy-Number.md)
 * [204. Count Primes](./Algorithms/204.Count-Primes.md)
 * [349. Intersection of Two Arrays](./Algorithms/349.Intersection-of-Two-Arrays.md)
@@ -85,6 +87,7 @@ personal leetcode solving record
 
 ### Sort
 * [88. Merge Sorted Array](./Algorithms/88.Merge-Sorted-Array.md)
+* [169. Majority Element](./Algorithms/169.Majority-Element.md)
 * [349. Intersection of Two Arrays](./Algorithms/349.Intersection-of-Two-Arrays.md)
 * [561. Array Partition I](./Algorithms/561.Array-Partition-I.md)
 
@@ -109,6 +112,7 @@ personal leetcode solving record
 
 ### Divide and Conquer
 * [53. Maximum Subarray](./Algorithms/53.Maximum-Subarray.md)
+* [169. Majority Element](./Algorithms/169.Majority-Element.md)
 * [372. Super Pow](./Algorithms/372.Super-Pow.md)
 
 ### Dynamic Programming
@@ -126,3 +130,6 @@ personal leetcode solving record
 
 ### Memoization
 * [70. Climbing Stairs](./Algorithms/70.Climbing-Stairs.md)
+
+### Counting
+* [169. Majority Element](./Algorithms/169.Majority-Element.md)
