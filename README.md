@@ -53,6 +53,7 @@ personal leetcode solving record
 * [237. Delete Node in a Linked List](./Algorithms/237.Delete-Node-in-a-Linked-List.md)
 
 ### Binary Search
+* [69. Sqrt(x)](./Algorithms/69.Sqrt(x).md)
 * [167. Two Sum II - Input array is sorted](./Algorithms/167.Two-Sum-II-Input-array-is-sorted.md)
 * [349. Intersection of Two Arrays](./Algorithms/349.Intersection-of-Two-Arrays.md)
 
@@ -71,6 +72,7 @@ personal leetcode solving record
 * [13. Roman to Integer](./Algorithms/13.Roman-to-Integer.md)
 * [66. Plus One](./Algorithms/66.Plus-One.md)
 * [67. Add Binary](./Algorithms/67.Add-Binary.md)
+* [69. Sqrt(x)](./Algorithms/69.Sqrt(x).md)
 * [70. Climbing Stairs](./Algorithms/70.Climbing-Stairs.md)
 * [202. Happy Number](./Algorithms/202.Happy-Number.md)
 * [204. Count Primes](./Algorithms/204.Count-Primes.md)
