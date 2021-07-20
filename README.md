@@ -15,6 +15,7 @@ personal leetcode solving record
 * [122. Best Time to Buy and Sell Stock II](./Algorithms/122.Best-Time-to-Buy-and-Sell-Stock-II.md)
 * [167. Two Sum II - Input array is sorted](./Algorithms/167.Two-Sum-II-Input-array-is-sorted.md)
 * [169. Majority Element](./Algorithms/169.Majority-Element.md)
+* [475. Heaters](./Algorithms/475.Heaters.md)
 * [561. Array Partition I](./Algorithms/561.Array-Partition-I.md)
 * [717. 1-bit and 2-bit Characters](./Algorithms/717.1-bit-and-2-bit-Characters.md)
 * [1512. Number of Good Pairs](./Algorithms/1512.Number-of-Good-Pairs.md)
@@ -56,6 +57,7 @@ personal leetcode solving record
 * [69. Sqrt(x)](./Algorithms/69.Sqrt(x).md)
 * [167. Two Sum II - Input array is sorted](./Algorithms/167.Two-Sum-II-Input-array-is-sorted.md)
 * [349. Intersection of Two Arrays](./Algorithms/349.Intersection-of-Two-Arrays.md)
+* [475. Heaters](./Algorithms/475.Heaters.md)
 
 ### Two Pointers
 * [15. 3Sum](./Algorithms/15.3Sum.md)
@@ -91,6 +93,7 @@ personal leetcode solving record
 * [88. Merge Sorted Array](./Algorithms/88.Merge-Sorted-Array.md)
 * [169. Majority Element](./Algorithms/169.Majority-Element.md)
 * [349. Intersection of Two Arrays](./Algorithms/349.Intersection-of-Two-Arrays.md)
+* [475. Heaters](./Algorithms/475.Heaters.md)
 * [561. Array Partition I](./Algorithms/561.Array-Partition-I.md)
 
 ### Counting Sort
