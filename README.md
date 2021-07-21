@@ -18,6 +18,7 @@ personal leetcode solving record
 * [475. Heaters](./Algorithms/475.Heaters.md)
 * [561. Array Partition I](./Algorithms/561.Array-Partition-I.md)
 * [717. 1-bit and 2-bit Characters](./Algorithms/717.1-bit-and-2-bit-Characters.md)
+* [747. Largest Number At Least Twice of Others](./Algorithms/747.Largest-Number-At-Least-Twice-of-Others.md)
 * [1512. Number of Good Pairs](./Algorithms/1512.Number-of-Good-Pairs.md)
 
 ### String
@@ -95,6 +96,7 @@ personal leetcode solving record
 * [349. Intersection of Two Arrays](./Algorithms/349.Intersection-of-Two-Arrays.md)
 * [475. Heaters](./Algorithms/475.Heaters.md)
 * [561. Array Partition I](./Algorithms/561.Array-Partition-I.md)
+* [747. Largest Number At Least Twice of Others](./Algorithms/747.Largest-Number-At-Least-Twice-of-Others.md)
 
 ### Counting Sort
 * [561. Array Partition I](./Algorithms/561.Array-Partition-I.md)
