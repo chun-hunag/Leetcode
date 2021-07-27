@@ -15,6 +15,7 @@ personal leetcode solving record
 * [122. Best Time to Buy and Sell Stock II](./Algorithms/122.Best-Time-to-Buy-and-Sell-Stock-II.md)
 * [167. Two Sum II - Input array is sorted](./Algorithms/167.Two-Sum-II-Input-array-is-sorted.md)
 * [169. Majority Element](./Algorithms/169.Majority-Element.md)
+* [287. Find the Duplicate Number](./Algorithms/287.Find-the-Duplicate-Number.md)
 * [448. Find All Numbers Disappeared in an Array](./Algorithms\448.Find-All-Numbers-Disappeared-in-an-Array.md)
 * [475. Heaters](./Algorithms/475.Heaters.md)
 * [561. Array Partition I](./Algorithms/561.Array-Partition-I.md)
@@ -59,6 +60,7 @@ personal leetcode solving record
 ### Binary Search
 * [69. Sqrt(x)](./Algorithms/69.Sqrt(x).md)
 * [167. Two Sum II - Input array is sorted](./Algorithms/167.Two-Sum-II-Input-array-is-sorted.md)
+* [287. Find the Duplicate Number](./Algorithms/287.Find-the-Duplicate-Number.md)
 * [349. Intersection of Two Arrays](./Algorithms/349.Intersection-of-Two-Arrays.md)
 * [475. Heaters](./Algorithms/475.Heaters.md)
 
@@ -69,6 +71,7 @@ personal leetcode solving record
 * [160. Intersection of Two Linked Lists](./Algorithms/160.Intersection-of-Two-Linked-Lists.md)
 * [167. Two Sum II - Input array is sorted](./Algorithms/167.Two-Sum-II-Input-array-is-sorted.md)
 * [234. Palindrome Linked List](./Algorithms/234.Palindrome-Linked-List.md)
+* [287. Find the Duplicate Number](./Algorithms/287.Find-the-Duplicate-Number.md)
 * [344. Reverse String](./Algorithms/344.Reverse-String.md)
 * [349. Intersection of Two Arrays](./Algorithms/349.Intersection-of-Two-Arrays.md)
 
@@ -118,6 +121,7 @@ personal leetcode solving record
 
 ### Bit Manipulation
 * [136. Single Number](./Algorithms/136.Single-Number.md)
+* [287. Find the Duplicate Number](./Algorithms/287.Find-the-Duplicate-Number.md)
 
 ### Divide and Conquer
 * [53. Maximum Subarray](./Algorithms/53.Maximum-Subarray.md)
