@@ -19,6 +19,7 @@ personal leetcode solving record
 * [448. Find All Numbers Disappeared in an Array](./Algorithms\448.Find-All-Numbers-Disappeared-in-an-Array.md)
 * [475. Heaters](./Algorithms/475.Heaters.md)
 * [561. Array Partition I](./Algorithms/561.Array-Partition-I.md)
+* [628. Maximum Product of Three Numbers](./Algorithms/628.Maximum-Product-of-Three-Numbers.md)
 * [717. 1-bit and 2-bit Characters](./Algorithms/717.1-bit-and-2-bit-Characters.md)
 * [747. Largest Number At Least Twice of Others](./Algorithms/747.Largest-Number-At-Least-Twice-of-Others.md)
 * [1512. Number of Good Pairs](./Algorithms/1512.Number-of-Good-Pairs.md)
@@ -85,6 +86,7 @@ personal leetcode solving record
 * [202. Happy Number](./Algorithms/202.Happy-Number.md)
 * [204. Count Primes](./Algorithms/204.Count-Primes.md)
 * [372. Super Pow](./Algorithms/372.Super-Pow.md)
+* [628. Maximum Product of Three Numbers](./Algorithms/628.Maximum-Product-of-Three-Numbers.md)
 * [1512. Number of Good Pairs](./Algorithms/1512.Number-of-Good-Pairs.md)
 
 ### Recursion
@@ -101,6 +103,7 @@ personal leetcode solving record
 * [349. Intersection of Two Arrays](./Algorithms/349.Intersection-of-Two-Arrays.md)
 * [475. Heaters](./Algorithms/475.Heaters.md)
 * [561. Array Partition I](./Algorithms/561.Array-Partition-I.md)
+* [628. Maximum Product of Three Numbers](./Algorithms/628.Maximum-Product-of-Three-Numbers.md)
 * [747. Largest Number At Least Twice of Others](./Algorithms/747.Largest-Number-At-Least-Twice-of-Others.md)
 
 ### Counting Sort
