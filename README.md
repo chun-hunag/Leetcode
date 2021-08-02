@@ -7,6 +7,7 @@ personal leetcode solving record
 * [15. 3Sum](./Algorithms/15.3Sum.md)
 * [20. Valid Parentheses](./Algorithms/20.Valid-Parentheses.md)
 * [26. Remove Duplicates from Sorted Array](./Algorithms/26.Remove-Duplicates-from-Sorted-Array.md)
+* [35. Search Insert Position](./Algorithms/35.Search-Insert-Position.md)
 * [53. Maximum Subarray](./Algorithms/53.Maximum-Subarray.md)
 * [66. Plus One](./Algorithms/66.Plus-One.md)
 * [88. Merge Sorted Array](./Algorithms/88.Merge-Sorted-Array.md)
@@ -59,6 +60,7 @@ personal leetcode solving record
 * [237. Delete Node in a Linked List](./Algorithms/237.Delete-Node-in-a-Linked-List.md)
 
 ### Binary Search
+* [35. Search Insert Position](./Algorithms/35.Search-Insert-Position.md)
 * [69. Sqrt(x)](./Algorithms/69.Sqrt(x).md)
 * [167. Two Sum II - Input array is sorted](./Algorithms/167.Two-Sum-II-Input-array-is-sorted.md)
 * [287. Find the Duplicate Number](./Algorithms/287.Find-the-Duplicate-Number.md)
