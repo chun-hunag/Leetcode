@@ -7,6 +7,7 @@ personal leetcode solving record
 * [15. 3Sum](./Algorithms/15.3Sum.md)
 * [20. Valid Parentheses](./Algorithms/20.Valid-Parentheses.md)
 * [26. Remove Duplicates from Sorted Array](./Algorithms/26.Remove-Duplicates-from-Sorted-Array.md)
+* [27. Remove Element](./Algorithms/27.Remove-Element.md)
 * [35. Search Insert Position](./Algorithms/35.Search-Insert-Position.md)
 * [53. Maximum Subarray](./Algorithms/53.Maximum-Subarray.md)
 * [66. Plus One](./Algorithms/66.Plus-One.md)
@@ -72,6 +73,7 @@ personal leetcode solving record
 ### Two Pointers
 * [15. 3Sum](./Algorithms/15.3Sum.md)
 * [26. Remove Duplicates from Sorted Array](./Algorithms/26.Remove-Duplicates-from-Sorted-Array.md)
+* [27. Remove Element](./Algorithms/27.Remove-Element.md)
 * [88. Merge Sorted Array](./Algorithms/88.Merge-Sorted-Array.md)
 * [160. Intersection of Two Linked Lists](./Algorithms/160.Intersection-of-Two-Linked-Lists.md)
 * [167. Two Sum II - Input array is sorted](./Algorithms/167.Two-Sum-II-Input-array-is-sorted.md)
