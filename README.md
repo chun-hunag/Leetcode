@@ -24,6 +24,7 @@ personal leetcode solving record
 * [561. Array Partition I](./Algorithms/561.Array-Partition-I.md)
 * [628. Maximum Product of Three Numbers](./Algorithms/628.Maximum-Product-of-Three-Numbers.md)
 * [717. 1-bit and 2-bit Characters](./Algorithms/717.1-bit-and-2-bit-Characters.md)
+* [718. Maximum Length of Repeated Subarray](./Algorithms\718.Maximum-Length-of-Repeated-Subarray.md)
 * [747. Largest Number At Least Twice of Others](./Algorithms/747.Largest-Number-At-Least-Twice-of-Others.md)
 * [1512. Number of Good Pairs](./Algorithms/1512.Number-of-Good-Pairs.md)
 
@@ -69,6 +70,7 @@ personal leetcode solving record
 * [300. Longest Increasing Subsequence](./Algorithms/300.Longest-Increasing-Subsequence.md)
 * [349. Intersection of Two Arrays](./Algorithms/349.Intersection-of-Two-Arrays.md)
 * [475. Heaters](./Algorithms/475.Heaters.md)
+* [718. Maximum Length of Repeated Subarray](./Algorithms\718.Maximum-Length-of-Repeated-Subarray.md)
 
 ### Two Pointers
 * [15. 3Sum](./Algorithms/15.3Sum.md)
@@ -142,6 +144,7 @@ personal leetcode solving record
 * [70. Climbing Stairs](./Algorithms/70.Climbing-Stairs.md)
 * [121. Best Time to Buy and Sell Stock](./Algorithms/121.Best-Time-to-Buy-and-Sell-Stock.md)
 * [300. Longest Increasing Subsequence](./Algorithms/300.Longest-Increasing-Subsequence.md)
+* [718. Maximum Length of Repeated Subarray](./Algorithms\718.Maximum-Length-of-Repeated-Subarray.md)
 
 ### Greedy
 * [122. Best Time to Buy and Sell Stock II](./Algorithms/122.Best-Time-to-Buy-and-Sell-Stock-II.md)
@@ -156,3 +159,12 @@ personal leetcode solving record
 
 ### Counting
 * [169. Majority Element](./Algorithms/169.Majority-Element.md)
+
+### Sliding Window
+* [718. Maximum Length of Repeated Subarray](./Algorithms\718.Maximum-Length-of-Repeated-Subarray.md)
+
+### Rolling Hash
+* [718. Maximum Length of Repeated Subarray](./Algorithms\718.Maximum-Length-of-Repeated-Subarray.md)
+
+### Hash Function
+* [718. Maximum Length of Repeated Subarray](./Algorithms\718.Maximum-Length-of-Repeated-Subarray.md)
