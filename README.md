@@ -93,6 +93,7 @@ personal leetcode solving record
 ### Math
 * [2. Add Two Numbers](./Algorithms/2.Add-Two-Numbers.md)
 * [13. Roman to Integer](./Algorithms/13.Roman-to-Integer.md)
+* [29. Divide Two Integers](./Algorithms/29.Divide-Two-Integers.md)
 * [66. Plus One](./Algorithms/66.Plus-One.md)
 * [67. Add Binary](./Algorithms/67.Add-Binary.md)
 * [69. Sqrt(x)](./Algorithms/69.Sqrt(x).md)
@@ -137,6 +138,7 @@ personal leetcode solving record
 * [521. Longest Uncommon Subsequence I](./Algorithms/521.Longest-Uncommon-Subsequence-I.md)
 
 ### Bit Manipulation
+* [29. Divide Two Integers](./Algorithms/29.Divide-Two-Integers.md)
 * [136. Single Number](./Algorithms/136.Single-Number.md)
 * [287. Find the Duplicate Number](./Algorithms/287.Find-the-Duplicate-Number.md)
 
