@@ -18,6 +18,7 @@ personal leetcode solving record
 * [122. Best Time to Buy and Sell Stock II](./Algorithms/122.Best-Time-to-Buy-and-Sell-Stock-II.md)
 * [167. Two Sum II - Input array is sorted](./Algorithms/167.Two-Sum-II-Input-array-is-sorted.md)
 * [169. Majority Element](./Algorithms/169.Majority-Element.md)
+* [268. Missing Number](./Algorithms/268.Missing-Number.md)
 * [283. Move Zeroes](./Algorithms/283.Move-Zeroes.md)
 * [287. Find the Duplicate Number](./Algorithms/287.Find-the-Duplicate-Number.md)
 * [300. Longest Increasing Subsequence](./Algorithms/300.Longest-Increasing-Subsequence.md)
@@ -49,6 +50,7 @@ personal leetcode solving record
 * [169. Majority Element](./Algorithms/169.Majority-Element.md)
 * [202. Happy Number](./Algorithms/202.Happy-Number.md)
 * [204. Count Primes](./Algorithms/204.Count-Primes.md)
+* [268. Missing Number](./Algorithms/268.Missing-Number.md)
 * [349. Intersection of Two Arrays](./Algorithms/349.Intersection-of-Two-Arrays.md)
 * [448. Find All Numbers Disappeared in an Array](./Algorithms\448.Find-All-Numbers-Disappeared-in-an-Array.md)
 * [697. Degree of an Array](./Algorithms/697.Degree-of-an-Array.md)
@@ -103,6 +105,7 @@ personal leetcode solving record
 * [70. Climbing Stairs](./Algorithms/70.Climbing-Stairs.md)
 * [202. Happy Number](./Algorithms/202.Happy-Number.md)
 * [204. Count Primes](./Algorithms/204.Count-Primes.md)
+* [268. Missing Number](./Algorithms/268.Missing-Number.md)
 * [372. Super Pow](./Algorithms/372.Super-Pow.md)
 * [628. Maximum Product of Three Numbers](./Algorithms/628.Maximum-Product-of-Three-Numbers.md)
 * [1512. Number of Good Pairs](./Algorithms/1512.Number-of-Good-Pairs.md)
@@ -118,6 +121,7 @@ personal leetcode solving record
 ### Sort
 * [88. Merge Sorted Array](./Algorithms/88.Merge-Sorted-Array.md)
 * [169. Majority Element](./Algorithms/169.Majority-Element.md)
+* [268. Missing Number](./Algorithms/268.Missing-Number.md)
 * [349. Intersection of Two Arrays](./Algorithms/349.Intersection-of-Two-Arrays.md)
 * [475. Heaters](./Algorithms/475.Heaters.md)
 * [561. Array Partition I](./Algorithms/561.Array-Partition-I.md)
@@ -143,6 +147,7 @@ personal leetcode solving record
 ### Bit Manipulation
 * [29. Divide Two Integers](./Algorithms/29.Divide-Two-Integers.md)
 * [136. Single Number](./Algorithms/136.Single-Number.md)
+* [268. Missing Number](./Algorithms/268.Missing-Number.md)
 * [287. Find the Duplicate Number](./Algorithms/287.Find-the-Duplicate-Number.md)
 
 ### Divide and Conquer
