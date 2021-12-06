@@ -187,6 +187,12 @@ personal leetcode solving record
 
 ## Database
 
-### JOIN
+### Join
 * [175. Combine Two Tables](./Database/175.Combine-Two-Tables.md)
 * [181. Employees Earning More Than Their Managers](./Database/181.Employees-Earning-More-Than-Their-Managers.md)
+
+### Function
+* [176. Second Highest Salary](./Database/176.Second-Highest-Salary.md)
+
+### Window Function
+* [176. Second Highest Salary](./Database/176.Second-Highest-Salary.md)
