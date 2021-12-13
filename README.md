@@ -193,6 +193,11 @@ personal leetcode solving record
 
 ### Function
 * [176. Second Highest Salary](./Database/176.Second-Highest-Salary.md)
+* [180. Consecutive Numbers](./Database/180.Consecutive-Numbers.md)
 
 ### Window Function
 * [176. Second Highest Salary](./Database/176.Second-Highest-Salary.md)
+* [180. Consecutive Numbers](./Database/180.Consecutive-Numbers.md)
+
+### LAG()
+* [180. Consecutive Numbers](./Database/180.Consecutive-Numbers.md)
