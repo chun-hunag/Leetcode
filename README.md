@@ -191,21 +191,25 @@ personal leetcode solving record
 * [175. Combine Two Tables](./Database/175.Combine-Two-Tables.md)
 * [181. Employees Earning More Than Their Managers](./Database/181.Employees-Earning-More-Than-Their-Managers.md)
 * [183. Customers Who Never Order](./Database/183.Customers-Who-Never-Order.md)
+* [184. Department Highest Salary](./Database/184.Department-Highest-Salary.md)
 
 ### Grouping
 * [182. Duplicate Emails](./Database/182.Duplicate-Emails.md)
+* [184. Department Highest Salary](./Database/184.Department-Highest-Salary.md)
 * [511. Game Play Analysis I](./Database/511.Game-Play-Analysis-I.md)
 * [512. Game Play Analysis II](./Database/512.Game-Play-Analysis-II.md)
 
 ### Function
 * [176. Second Highest Salary](./Database/176.Second-Highest-Salary.md)
 * [180. Consecutive Numbers](./Database/180.Consecutive-Numbers.md)
+* [184. Department Highest Salary](./Database/184.Department-Highest-Salary.md)
 * [511. Game Play Analysis I](./Database/511.Game-Play-Analysis-I.md)
 * [512. Game Play Analysis II](./Database/512.Game-Play-Analysis-II.md)
 
 ### Window Function
 * [176. Second Highest Salary](./Database/176.Second-Highest-Salary.md)
 * [180. Consecutive Numbers](./Database/180.Consecutive-Numbers.md)
+* [184. Department Highest Salary](./Database/184.Department-Highest-Salary.md)
 
 ### LAG()
 * [180. Consecutive Numbers](./Database/180.Consecutive-Numbers.md)
