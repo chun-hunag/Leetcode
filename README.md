@@ -204,6 +204,7 @@ personal leetcode solving record
 
 ### Function
 * [176. Second Highest Salary](./Database/176.Second-Highest-Salary.md)
+* [177. Nth Highest Salary](./Database/177.Nth-Highest-Salary.md)
 * [180. Consecutive Numbers](./Database/180.Consecutive-Numbers.md)
 * [184. Department Highest Salary](./Database/184.Department-Highest-Salary.md)
 * [196. Delete Duplicate Emails](./Database/196.Delete-Duplicate-Emails.md)
@@ -213,11 +214,13 @@ personal leetcode solving record
 
 ### Window Function
 * [176. Second Highest Salary](./Database/176.Second-Highest-Salary.md)
+* [177. Nth Highest Salary](./Database/177.Nth-Highest-Salary.md)
 * [180. Consecutive Numbers](./Database/180.Consecutive-Numbers.md)
 * [184. Department Highest Salary](./Database/184.Department-Highest-Salary.md)
 
 ### LAG()
 * [180. Consecutive Numbers](./Database/180.Consecutive-Numbers.md)
 
-### RANK()
+### RANKING
+* [177. Nth Highest Salary](./Database/177.Nth-Highest-Salary.md)
 * [184. Department Highest Salary](./Database/184.Department-Highest-Salary.md)
