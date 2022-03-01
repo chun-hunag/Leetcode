@@ -187,6 +187,9 @@ personal leetcode solving record
 
 ## Database
 
+### Where
+* [595. Big Countries](./Database/595.Big-Countries.md)
+
 ### Join
 * [175. Combine Two Tables](./Database/175.Combine-Two-Tables.md)
 * [181. Employees Earning More Than Their Managers](./Database/181.Employees-Earning-More-Than-Their-Managers.md)
