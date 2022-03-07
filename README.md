@@ -198,6 +198,7 @@ personal leetcode solving record
 * [196. Delete Duplicate Emails](./Database/196.Delete-Duplicate-Emails.md)
 * [197. Rising Temperature](./Database/197.Rising-Temperature.md)
 * [534. Game Play Analysis III](./Database/534.Game-Play-Analysis-III.md)
+* [550. Game Play Analysis IV](./Database/550.Game-Play-Analysis-IV.md)
 
 ### Grouping
 * [182. Duplicate Emails](./Database/182.Duplicate-Emails.md)
@@ -206,6 +207,7 @@ personal leetcode solving record
 * [511. Game Play Analysis I](./Database/511.Game-Play-Analysis-I.md)
 * [512. Game Play Analysis II](./Database/512.Game-Play-Analysis-II.md)
 * [534. Game Play Analysis III](./Database/534.Game-Play-Analysis-III.md)
+* [550. Game Play Analysis IV](./Database/550.Game-Play-Analysis-IV.md)
 
 ### Function
 * [176. Second Highest Salary](./Database/176.Second-Highest-Salary.md)
@@ -217,6 +219,7 @@ personal leetcode solving record
 * [511. Game Play Analysis I](./Database/511.Game-Play-Analysis-I.md)
 * [512. Game Play Analysis II](./Database/512.Game-Play-Analysis-II.md)
 * [534. Game Play Analysis III](./Database/534.Game-Play-Analysis-III.md)
+* [550. Game Play Analysis IV](./Database/550.Game-Play-Analysis-IV.md)
 
 ### Window Function
 * [176. Second Highest Salary](./Database/176.Second-Highest-Salary.md)
