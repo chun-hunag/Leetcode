@@ -208,6 +208,7 @@ personal leetcode solving record
 * [512. Game Play Analysis II](./Database/512.Game-Play-Analysis-II.md)
 * [534. Game Play Analysis III](./Database/534.Game-Play-Analysis-III.md)
 * [550. Game Play Analysis IV](./Database/550.Game-Play-Analysis-IV.md)
+* [596. Classes More Than 5 Students](./Database/596.Classes-More-Than-5-Students.md)
 
 ### Function
 * [176. Second Highest Salary](./Database/176.Second-Highest-Salary.md)
