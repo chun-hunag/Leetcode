@@ -189,6 +189,7 @@ personal leetcode solving record
 
 ### Where
 * [584. Find Customer Referee](./Database/584.Find-Customer-Referee.md)
+* [585. Investments in 2016](./Database/585.Investments-in-2016.md)
 * [595. Big Countries](./Database/595.Big-Countries.md)
 
 ### Join
@@ -209,6 +210,7 @@ personal leetcode solving record
 * [512. Game Play Analysis II](./Database/512.Game-Play-Analysis-II.md)
 * [534. Game Play Analysis III](./Database/534.Game-Play-Analysis-III.md)
 * [550. Game Play Analysis IV](./Database/550.Game-Play-Analysis-IV.md)
+* [585. Investments in 2016](./Database/585.Investments-in-2016.md)
 * [596. Classes More Than 5 Students](./Database/596.Classes-More-Than-5-Students.md)
 
 ### Function
