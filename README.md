@@ -228,6 +228,7 @@ personal leetcode solving record
 ### Window Function
 * [176. Second Highest Salary](./Database/176.Second-Highest-Salary.md)
 * [177. Nth Highest Salary](./Database/177.Nth-Highest-Salary.md)
+* [178. Rank Scores](./Database/178.Rank-Scores.md)
 * [180. Consecutive Numbers](./Database/180.Consecutive-Numbers.md)
 * [184. Department Highest Salary](./Database/184.Department-Highest-Salary.md)
 * [534. Game Play Analysis III](./Database/534.Game-Play-Analysis-III.md)
