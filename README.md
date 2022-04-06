@@ -33,6 +33,7 @@ personal leetcode solving record
 * [1512. Number of Good Pairs](./Algorithms/1512.Number-of-Good-Pairs.md)
 
 ### String
+* [3. Longest Substring Without Repeating Characters](./Algorithms/3.Longest-Substring-Without-Repeating-Characters.md)
 * [14. Longest Common Prefix](./Algorithms/14.Longest-Common-Prefix.md)
 * [13. Roman to Integer](./Algorithms/13.Roman-to-Integer.md)
 * [17. Letter Combinations of a PhoneNumber](./Algorithms/17.Letter-Combinations-of-a-Phone-Number.md)
@@ -45,6 +46,7 @@ personal leetcode solving record
 
 ### Hash Table
 * [1. Two Sum](./Algorithms/1.Two-Sum.md)
+* [3. Longest Substring Without Repeating Characters](./Algorithms/3.Longest-Substring-Without-Repeating-Characters.md)
 * [136. Single Number](./Algorithms/136.Single-Number.md)
 * [160. Intersection of Two Linked Lists](./Algorithms/160.Intersection-of-Two-Linked-Lists.md)
 * [169. Majority Element](./Algorithms/169.Majority-Element.md)
@@ -177,6 +179,7 @@ personal leetcode solving record
 * [169. Majority Element](./Algorithms/169.Majority-Element.md)
 
 ### Sliding Window
+* [3. Longest Substring Without Repeating Characters](./Algorithms/3.Longest-Substring-Without-Repeating-Characters.md)
 * [718. Maximum Length of Repeated Subarray](./Algorithms\718.Maximum-Length-of-Repeated-Subarray.md)
 
 ### Rolling Hash
