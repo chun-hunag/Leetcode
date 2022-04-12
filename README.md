@@ -4,6 +4,7 @@ personal leetcode solving record
 ## Algorithms
 ### Array
 * [1. Two Sum](./Algorithms/1.Two-Sum.md)
+* [4. Median of Two Sorted Arrays](./Algorithms/4.Median-of-Two-Sorted-Arrays.md)
 * [15. 3Sum](./Algorithms/15.3Sum.md)
 * [20. Valid Parentheses](./Algorithms/20.Valid-Parentheses.md)
 * [26. Remove Duplicates from Sorted Array](./Algorithms/26.Remove-Duplicates-from-Sorted-Array.md)
@@ -73,6 +74,7 @@ personal leetcode solving record
 * [237. Delete Node in a Linked List](./Algorithms/237.Delete-Node-in-a-Linked-List.md)
 
 ### Binary Search
+* [4. Median of Two Sorted Arrays](./Algorithms/4.Median-of-Two-Sorted-Arrays.md)
 * [33. Search in Rotated Sorted Array](./Algorithms/33.Search-in-Rotated-Sorted-Array.md)
 * [35. Search Insert Position](./Algorithms/35.Search-Insert-Position.md)
 * [69. Sqrt(x)](./Algorithms/69.Sqrt(x).md)
@@ -153,6 +155,7 @@ personal leetcode solving record
 * [287. Find the Duplicate Number](./Algorithms/287.Find-the-Duplicate-Number.md)
 
 ### Divide and Conquer
+* [4. Median of Two Sorted Arrays](./Algorithms/4.Median-of-Two-Sorted-Arrays.md)
 * [53. Maximum Subarray](./Algorithms/53.Maximum-Subarray.md)
 * [169. Majority Element](./Algorithms/169.Majority-Element.md)
 * [372. Super Pow](./Algorithms/372.Super-Pow.md)
@@ -245,3 +248,4 @@ personal leetcode solving record
 ### RANKING
 * [177. Nth Highest Salary](./Database/177.Nth-Highest-Salary.md)
 * [184. Department Highest Salary](./Database/184.Department-Highest-Salary.md)
+* [185. Department Top Three Salaries](./Database/185.Department-Top-Three-Salaries.md)
