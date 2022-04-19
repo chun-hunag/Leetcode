@@ -35,6 +35,7 @@ personal leetcode solving record
 
 ### String
 * [3. Longest Substring Without Repeating Characters](./Algorithms/3.Longest-Substring-Without-Repeating-Characters.md)
+* [5. Longest Palindromic Substring](./Algorithms/5.Longest-Palindromic-Substring.md)
 * [14. Longest Common Prefix](./Algorithms/14.Longest-Common-Prefix.md)
 * [13. Roman to Integer](./Algorithms/13.Roman-to-Integer.md)
 * [17. Letter Combinations of a PhoneNumber](./Algorithms/17.Letter-Combinations-of-a-Phone-Number.md)
@@ -161,6 +162,7 @@ personal leetcode solving record
 * [372. Super Pow](./Algorithms/372.Super-Pow.md)
 
 ### Dynamic Programming
+* [5. Longest Palindromic Substring](./Algorithms/5.Longest-Palindromic-Substring.md)
 * [53. Maximum Subarray](./Algorithms/53.Maximum-Subarray.md)
 * [70. Climbing Stairs](./Algorithms/70.Climbing-Stairs.md)
 * [121. Best Time to Buy and Sell Stock](./Algorithms/121.Best-Time-to-Buy-and-Sell-Stock.md)
