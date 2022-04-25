@@ -36,6 +36,7 @@ personal leetcode solving record
 ### String
 * [3. Longest Substring Without Repeating Characters](./Algorithms/3.Longest-Substring-Without-Repeating-Characters.md)
 * [5. Longest Palindromic Substring](./Algorithms/5.Longest-Palindromic-Substring.md)
+* [6. Zigzag Conversion](./Algorithms/6.Zigzag-Conversion.md)
 * [14. Longest Common Prefix](./Algorithms/14.Longest-Common-Prefix.md)
 * [13. Roman to Integer](./Algorithms/13.Roman-to-Integer.md)
 * [17. Letter Combinations of a PhoneNumber](./Algorithms/17.Letter-Combinations-of-a-Phone-Number.md)
