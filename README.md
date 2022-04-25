@@ -196,6 +196,7 @@ personal leetcode solving record
 ## Database
 
 ### Where
+* [262. Trips and Users](./Database/262.Trips-and-Users.md)
 * [584. Find Customer Referee](./Database/584.Find-Customer-Referee.md)
 * [585. Investments in 2016](./Database/585.Investments-in-2016.md)
 * [595. Big Countries](./Database/595.Big-Countries.md)
@@ -216,6 +217,7 @@ personal leetcode solving record
 * [184. Department Highest Salary](./Database/184.Department-Highest-Salary.md)
 * [185. Department Top Three Salaries](./Database/185.Department-Top-Three-Salaries.md)
 * [196. Delete Duplicate Emails](./Database/196.Delete-Duplicate-Emails.md)
+* [262. Trips and Users](./Database/262.Trips-and-Users.md)
 * [511. Game Play Analysis I](./Database/511.Game-Play-Analysis-I.md)
 * [512. Game Play Analysis II](./Database/512.Game-Play-Analysis-II.md)
 * [534. Game Play Analysis III](./Database/534.Game-Play-Analysis-III.md)
@@ -230,6 +232,7 @@ personal leetcode solving record
 * [184. Department Highest Salary](./Database/184.Department-Highest-Salary.md)
 * [196. Delete Duplicate Emails](./Database/196.Delete-Duplicate-Emails.md)
 * [197. Rising Temperature](./Database/197.Rising-Temperature.md)
+* [262. Trips and Users](./Database/262.Trips-and-Users.md)
 * [511. Game Play Analysis I](./Database/511.Game-Play-Analysis-I.md)
 * [512. Game Play Analysis II](./Database/512.Game-Play-Analysis-II.md)
 * [534. Game Play Analysis III](./Database/534.Game-Play-Analysis-III.md)
