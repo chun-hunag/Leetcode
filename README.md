@@ -216,6 +216,7 @@ personal leetcode solving record
 * [197. Rising Temperature](./Database/197.Rising-Temperature.md)
 * [534. Game Play Analysis III](./Database/534.Game-Play-Analysis-III.md)
 * [550. Game Play Analysis IV](./Database/550.Game-Play-Analysis-IV.md)
+* [570. Managers with at Least 5 Direct Reports](./Database/570.Managers-with-at-Least-5-Direct-Reports.md)
 
 ### Grouping
 * [182. Duplicate Emails](./Database/182.Duplicate-Emails.md)
@@ -228,6 +229,7 @@ personal leetcode solving record
 * [534. Game Play Analysis III](./Database/534.Game-Play-Analysis-III.md)
 * [550. Game Play Analysis IV](./Database/550.Game-Play-Analysis-IV.md)
 * [569. Median Employee Salary](./Database/569.Median-Employee-Salary.md)
+* [570. Managers with at Least 5 Direct Reports](./Database/570.Managers-with-at-Least-5-Direct-Reports.md)
 * [585. Investments in 2016](./Database/585.Investments-in-2016.md)
 * [596. Classes More Than 5 Students](./Database/596.Classes-More-Than-5-Students.md)
 
