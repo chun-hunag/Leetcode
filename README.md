@@ -105,6 +105,7 @@ personal leetcode solving record
 ### Math
 * [2. Add Two Numbers](./Algorithms/2.Add-Two-Numbers.md)
 * [7. Reverse Integer](./Algorithms/7.Reverse-Integer.md)
+* [9. Palindrome Number](./Algorithms/9.Palindrome-Number.md)
 * [13. Roman to Integer](./Algorithms/13.Roman-to-Integer.md)
 * [29. Divide Two Integers](./Algorithms/29.Divide-Two-Integers.md)
 * [66. Plus One](./Algorithms/66.Plus-One.md)
