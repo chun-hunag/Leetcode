@@ -202,6 +202,7 @@ personal leetcode solving record
 ### Where
 * [262. Trips and Users](./Database/262.Trips-and-Users.md)
 * [569. Median Employee Salary](./Database/569.Median-Employee-Salary.md)
+* [571. Find Median Given Frequency Of Numbers Problem](./Database/571.Find-Median-Given-Frequency-Of-Numbers-Problem.md)
 * [584. Find Customer Referee](./Database/584.Find-Customer-Referee.md)
 * [585. Investments in 2016](./Database/585.Investments-in-2016.md)
 * [595. Big Countries](./Database/595.Big-Countries.md)
@@ -217,6 +218,7 @@ personal leetcode solving record
 * [534. Game Play Analysis III](./Database/534.Game-Play-Analysis-III.md)
 * [550. Game Play Analysis IV](./Database/550.Game-Play-Analysis-IV.md)
 * [570. Managers with at Least 5 Direct Reports](./Database/570.Managers-with-at-Least-5-Direct-Reports.md)
+* [571. Find Median Given Frequency Of Numbers Problem](./Database/571.Find-Median-Given-Frequency-Of-Numbers-Problem.md)
 
 ### Grouping
 * [182. Duplicate Emails](./Database/182.Duplicate-Emails.md)
@@ -245,6 +247,7 @@ personal leetcode solving record
 * [512. Game Play Analysis II](./Database/512.Game-Play-Analysis-II.md)
 * [534. Game Play Analysis III](./Database/534.Game-Play-Analysis-III.md)
 * [550. Game Play Analysis IV](./Database/550.Game-Play-Analysis-IV.md)
+* [571. Find Median Given Frequency Of Numbers Problem](./Database/571.Find-Median-Given-Frequency-Of-Numbers-Problem.md)
 
 ### Window Function
 * [176. Second Highest Salary](./Database/176.Second-Highest-Salary.md)
@@ -255,6 +258,7 @@ personal leetcode solving record
 * [185. Department Top Three Salaries](./Database/185.Department-Top-Three-Salaries.md)
 * [534. Game Play Analysis III](./Database/534.Game-Play-Analysis-III.md)
 * [569. Median Employee Salary](./Database/569.Median-Employee-Salary.md)
+* [571. Find Median Given Frequency Of Numbers Problem](./Database/571.Find-Median-Given-Frequency-Of-Numbers-Problem.md)
 
 ### LAG()
 * [180. Consecutive Numbers](./Database/180.Consecutive-Numbers.md)
