@@ -38,6 +38,7 @@ personal leetcode solving record
 * [5. Longest Palindromic Substring](./Algorithms/5.Longest-Palindromic-Substring.md)
 * [6. Zigzag Conversion](./Algorithms/6.Zigzag-Conversion.md)
 * [8. String to Integer(atoi)](./Algorithms/8.String-to-Integer(atoi).md)
+* [10. Regular Expression Matching](./Algorithms/10.Regular-Expression-Matching.md)
 * [14. Longest Common Prefix](./Algorithms/14.Longest-Common-Prefix.md)
 * [13. Roman to Integer](./Algorithms/13.Roman-to-Integer.md)
 * [17. Letter Combinations of a PhoneNumber](./Algorithms/17.Letter-Combinations-of-a-Phone-Number.md)
@@ -121,6 +122,7 @@ personal leetcode solving record
 
 ### Recursion
 * [2. Add Two Numbers](./Algorithms/2.Add-Two-Numbers.md)
+* [10. Regular Expression Matching](./Algorithms/10.Regular-Expression-Matching.md)
 * [17. Letter Combinations of a PhoneNumber](./Algorithms/17.Letter-Combinations-of-a-Phone-Number.md)
 * [21. Merge Two Sorted Lists](./Algorithms/21.Merge-Two-Sorted-Lists.md)
 * [24. Swap Nodes in Pairs](./Algorithms/24.Swap-Nodes-in-Pairs.md)
@@ -167,6 +169,7 @@ personal leetcode solving record
 
 ### Dynamic Programming
 * [5. Longest Palindromic Substring](./Algorithms/5.Longest-Palindromic-Substring.md)
+* [10. Regular Expression Matching](./Algorithms/10.Regular-Expression-Matching.md)
 * [53. Maximum Subarray](./Algorithms/53.Maximum-Subarray.md)
 * [70. Climbing Stairs](./Algorithms/70.Climbing-Stairs.md)
 * [121. Best Time to Buy and Sell Stock](./Algorithms/121.Best-Time-to-Buy-and-Sell-Stock.md)
