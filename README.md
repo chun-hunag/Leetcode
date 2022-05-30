@@ -206,6 +206,7 @@ personal leetcode solving record
 * [262. Trips and Users](./Database/262.Trips-and-Users.md)
 * [569. Median Employee Salary](./Database/569.Median-Employee-Salary.md)
 * [571. Find Median Given Frequency Of Numbers Problem](./Database/571.Find-Median-Given-Frequency-Of-Numbers-Problem.md)
+* [574. Winning Candidate](./Database/574.Winning-Candidate.md)
 * [584. Find Customer Referee](./Database/584.Find-Customer-Referee.md)
 * [585. Investments in 2016](./Database/585.Investments-in-2016.md)
 * [595. Big Countries](./Database/595.Big-Countries.md)
@@ -222,6 +223,8 @@ personal leetcode solving record
 * [550. Game Play Analysis IV](./Database/550.Game-Play-Analysis-IV.md)
 * [570. Managers with at Least 5 Direct Reports](./Database/570.Managers-with-at-Least-5-Direct-Reports.md)
 * [571. Find Median Given Frequency Of Numbers Problem](./Database/571.Find-Median-Given-Frequency-Of-Numbers-Problem.md)
+* [574. Winning Candidate](./Database/574.Winning-Candidate.md)
+
 
 ### Grouping
 * [182. Duplicate Emails](./Database/182.Duplicate-Emails.md)
@@ -235,6 +238,7 @@ personal leetcode solving record
 * [550. Game Play Analysis IV](./Database/550.Game-Play-Analysis-IV.md)
 * [569. Median Employee Salary](./Database/569.Median-Employee-Salary.md)
 * [570. Managers with at Least 5 Direct Reports](./Database/570.Managers-with-at-Least-5-Direct-Reports.md)
+* [574. Winning Candidate](./Database/574.Winning-Candidate.md)
 * [585. Investments in 2016](./Database/585.Investments-in-2016.md)
 * [596. Classes More Than 5 Students](./Database/596.Classes-More-Than-5-Students.md)
 
@@ -270,3 +274,4 @@ personal leetcode solving record
 * [177. Nth Highest Salary](./Database/177.Nth-Highest-Salary.md)
 * [184. Department Highest Salary](./Database/184.Department-Highest-Salary.md)
 * [185. Department Top Three Salaries](./Database/185.Department-Top-Three-Salaries.md)
+* [574. Winning Candidate](./Database/574.Winning-Candidate.md)
