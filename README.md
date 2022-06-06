@@ -7,6 +7,7 @@ personal leetcode solving record
 * [4. Median of Two Sorted Arrays](./Algorithms/4.Median-of-Two-Sorted-Arrays.md)
 * [11. Container With Most Water](./Algorithms/11.Container-With-Most-Water.md)
 * [15. 3Sum](./Algorithms/15.3Sum.md)
+* [16. 3Sum Closest](./Algorithms/16.3Sum-Closest.md)
 * [20. Valid Parentheses](./Algorithms/20.Valid-Parentheses.md)
 * [26. Remove Duplicates from Sorted Array](./Algorithms/26.Remove-Duplicates-from-Sorted-Array.md)
 * [27. Remove Element](./Algorithms/27.Remove-Element.md)
@@ -93,6 +94,7 @@ personal leetcode solving record
 ### Two Pointers
 * [11. Container With Most Water](./Algorithms/11.Container-With-Most-Water.md)
 * [15. 3Sum](./Algorithms/15.3Sum.md)
+* [16. 3Sum Closest](./Algorithms/16.3Sum-Closest.md)
 * [26. Remove Duplicates from Sorted Array](./Algorithms/26.Remove-Duplicates-from-Sorted-Array.md)
 * [27. Remove Element](./Algorithms/27.Remove-Element.md)
 * [86. Partition List](./Algorithms/86.Partition-List.md)
@@ -132,6 +134,7 @@ personal leetcode solving record
 * [234. Palindrome Linked List](./Algorithms/234.Palindrome-Linked-List.md)
 
 ### Sort
+* [16. 3Sum Closest](./Algorithms/16.3Sum-Closest.md)
 * [88. Merge Sorted Array](./Algorithms/88.Merge-Sorted-Array.md)
 * [169. Majority Element](./Algorithms/169.Majority-Element.md)
 * [268. Missing Number](./Algorithms/268.Missing-Number.md)
