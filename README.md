@@ -210,6 +210,7 @@ personal leetcode solving record
 * [569. Median Employee Salary](./Database/569.Median-Employee-Salary.md)
 * [571. Find Median Given Frequency Of Numbers Problem](./Database/571.Find-Median-Given-Frequency-Of-Numbers-Problem.md)
 * [574. Winning Candidate](./Database/574.Winning-Candidate.md)
+* [577. Employee Bonus](./Database/577.Employee-Bonus.md)
 * [584. Find Customer Referee](./Database/584.Find-Customer-Referee.md)
 * [585. Investments in 2016](./Database/585.Investments-in-2016.md)
 * [595. Big Countries](./Database/595.Big-Countries.md)
@@ -227,6 +228,7 @@ personal leetcode solving record
 * [570. Managers with at Least 5 Direct Reports](./Database/570.Managers-with-at-Least-5-Direct-Reports.md)
 * [571. Find Median Given Frequency Of Numbers Problem](./Database/571.Find-Median-Given-Frequency-Of-Numbers-Problem.md)
 * [574. Winning Candidate](./Database/574.Winning-Candidate.md)
+* [577. Employee Bonus](./Database/577.Employee-Bonus.md)
 
 
 ### Grouping
