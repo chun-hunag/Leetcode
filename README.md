@@ -247,6 +247,7 @@ personal leetcode solving record
 * [569. Median Employee Salary](./Database/569.Median-Employee-Salary.md)
 * [570. Managers with at Least 5 Direct Reports](./Database/570.Managers-with-at-Least-5-Direct-Reports.md)
 * [574. Winning Candidate](./Database/574.Winning-Candidate.md)
+* [578. Get Highest Answer Rate Question](./Database/578.Get-Highest-Answer-Rate-Question.md)
 * [585. Investments in 2016](./Database/585.Investments-in-2016.md)
 * [596. Classes More Than 5 Students](./Database/596.Classes-More-Than-5-Students.md)
 
@@ -263,6 +264,7 @@ personal leetcode solving record
 * [534. Game Play Analysis III](./Database/534.Game-Play-Analysis-III.md)
 * [550. Game Play Analysis IV](./Database/550.Game-Play-Analysis-IV.md)
 * [571. Find Median Given Frequency Of Numbers Problem](./Database/571.Find-Median-Given-Frequency-Of-Numbers-Problem.md)
+* [578. Get Highest Answer Rate Question](./Database/578.Get-Highest-Answer-Rate-Question.md)
 
 ### Window Function
 * [176. Second Highest Salary](./Database/176.Second-Highest-Salary.md)
