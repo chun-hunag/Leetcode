@@ -30,6 +30,7 @@ personal leetcode solving record
 * [475. Heaters](./Algorithms/475.Heaters.md)
 * [561. Array Partition I](./Algorithms/561.Array-Partition-I.md)
 * [628. Maximum Product of Three Numbers](./Algorithms/628.Maximum-Product-of-Three-Numbers.md)
+* [665. Non-decreasing Array](./Algorithms/665.Non-decreasing-Array.md)
 * [697. Degree of an Array](./Algorithms/697.Degree-of-an-Array.md)
 * [717. 1-bit and 2-bit Characters](./Algorithms/717.1-bit-and-2-bit-Characters.md)
 * [718. Maximum Length of Repeated Subarray](./Algorithms\718.Maximum-Length-of-Repeated-Subarray.md)
