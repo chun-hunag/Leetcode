@@ -169,6 +169,7 @@ personal leetcode solving record
 * [136. Single Number](./Algorithms/136.Single-Number.md)
 * [268. Missing Number](./Algorithms/268.Missing-Number.md)
 * [287. Find the Duplicate Number](./Algorithms/287.Find-the-Duplicate-Number.md)
+* [868. Binary Gap](./Algorithms/868.Binary-Gap.md)
 
 ### Divide and Conquer
 * [4. Median of Two Sorted Arrays](./Algorithms/4.Median-of-Two-Sorted-Arrays.md)
