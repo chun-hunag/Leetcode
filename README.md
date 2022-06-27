@@ -221,6 +221,7 @@ personal leetcode solving record
 * [577. Employee Bonus](./Database/577.Employee-Bonus.md)
 * [584. Find Customer Referee](./Database/584.Find-Customer-Referee.md)
 * [585. Investments in 2016](./Database/585.Investments-in-2016.md)
+* [586. Customer Placing the Largest Number of Orders](./Database/586.Customer-Placing-the-Largest-Number-of-Orders.md)
 * [595. Big Countries](./Database/595.Big-Countries.md)
 
 ### Join
@@ -290,3 +291,4 @@ personal leetcode solving record
 * [184. Department Highest Salary](./Database/184.Department-Highest-Salary.md)
 * [185. Department Top Three Salaries](./Database/185.Department-Top-Three-Salaries.md)
 * [574. Winning Candidate](./Database/574.Winning-Candidate.md)
+* [586. Customer Placing the Largest Number of Orders](./Database/586.Customer-Placing-the-Largest-Number-of-Orders.md)
