@@ -225,6 +225,7 @@ personal leetcode solving record
 * [585. Investments in 2016](./Database/585.Investments-in-2016.md)
 * [586. Customer Placing the Largest Number of Orders](./Database/586.Customer-Placing-the-Largest-Number-of-Orders.md)
 * [595. Big Countries](./Database/595.Big-Countries.md)
+* [607. Sales Person](./Database/607.Sales-Person.md)
 
 ### Join
 * [175. Combine Two Tables](./Database/175.Combine-Two-Tables.md)
@@ -240,6 +241,7 @@ personal leetcode solving record
 * [571. Find Median Given Frequency Of Numbers Problem](./Database/571.Find-Median-Given-Frequency-Of-Numbers-Problem.md)
 * [574. Winning Candidate](./Database/574.Winning-Candidate.md)
 * [577. Employee Bonus](./Database/577.Employee-Bonus.md)
+* [607. Sales Person](./Database/607.Sales-Person.md)
 
 
 ### Grouping
