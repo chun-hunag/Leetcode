@@ -231,6 +231,7 @@ personal leetcode solving record
 * [595. Big Countries](./Database/595.Big-Countries.md)
 * [607. Sales Person](./Database/607.Sales-Person.md)
 * [608. Tree Node](./Database/607.Sales-Person.md)
+* [620. Not Boring Movies](./Database/620.Not-Boring-Movies.md)
 
 ### Join
 * [175. Combine Two Tables](./Database/175.Combine-Two-Tables.md)
