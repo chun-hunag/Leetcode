@@ -302,3 +302,6 @@ personal leetcode solving record
 * [185. Department Top Three Salaries](./Database/185.Department-Top-Three-Salaries.md)
 * [574. Winning Candidate](./Database/574.Winning-Candidate.md)
 * [586. Customer Placing the Largest Number of Orders](./Database/586.Customer-Placing-the-Largest-Number-of-Orders.md)
+
+### CASE-WHEN-ELSE
+* [626. Exchange Seats](./Database/626.Exchange-Seats.md)
