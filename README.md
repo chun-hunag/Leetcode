@@ -20,6 +20,7 @@ personal leetcode solving record
 * [118. Pascal's Triangle](./Algorithms/118.Pascal's-Triangle.md)
 * [121. Best Time to Buy and Sell Stock](./Algorithms/121.Best-Time-to-Buy-and-Sell-Stock.md)
 * [122. Best Time to Buy and Sell Stock II](./Algorithms/122.Best-Time-to-Buy-and-Sell-Stock-II.md)
+* [152. Maximum Product Subarray](./Algorithms/152.Maximum-Product-Subarray.md)
 * [167. Two Sum II - Input array is sorted](./Algorithms/167.Two-Sum-II-Input-array-is-sorted.md)
 * [169. Majority Element](./Algorithms/169.Majority-Element.md)
 * [217. Contains Duplicate](./Algorithms/217.Contains-Duplicate.md)
@@ -189,6 +190,7 @@ personal leetcode solving record
 * [53. Maximum Subarray](./Algorithms/53.Maximum-Subarray.md)
 * [70. Climbing Stairs](./Algorithms/70.Climbing-Stairs.md)
 * [121. Best Time to Buy and Sell Stock](./Algorithms/121.Best-Time-to-Buy-and-Sell-Stock.md)
+* [152. Maximum Product Subarray](./Algorithms/152.Maximum-Product-Subarray.md)
 * [300. Longest Increasing Subsequence](./Algorithms/300.Longest-Increasing-Subsequence.md)
 * [718. Maximum Length of Repeated Subarray](./Algorithms\718.Maximum-Length-of-Repeated-Subarray.md)
 
