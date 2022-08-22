@@ -131,6 +131,7 @@ personal leetcode solving record
 * [202. Happy Number](./Algorithms/202.Happy-Number.md)
 * [204. Count Primes](./Algorithms/204.Count-Primes.md)
 * [268. Missing Number](./Algorithms/268.Missing-Number.md)
+* [371. Sum of Two Integers](./Algorithms/371.Sum-of-Two-Integers.md)
 * [372. Super Pow](./Algorithms/372.Super-Pow.md)
 * [628. Maximum Product of Three Numbers](./Algorithms/628.Maximum-Product-of-Three-Numbers.md)
 * [1512. Number of Good Pairs](./Algorithms/1512.Number-of-Good-Pairs.md)
@@ -178,6 +179,7 @@ personal leetcode solving record
 * [136. Single Number](./Algorithms/136.Single-Number.md)
 * [268. Missing Number](./Algorithms/268.Missing-Number.md)
 * [287. Find the Duplicate Number](./Algorithms/287.Find-the-Duplicate-Number.md)
+* [371. Sum of Two Integers](./Algorithms/371.Sum-of-Two-Integers.md)
 * [868. Binary Gap](./Algorithms/868.Binary-Gap.md)
 
 ### Divide and Conquer
