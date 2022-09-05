@@ -180,6 +180,7 @@ personal leetcode solving record
 * [191. Number of 1 Bits](./Algorithms/191.Number-of-1-Bits.md)
 * [268. Missing Number](./Algorithms/268.Missing-Number.md)
 * [287. Find the Duplicate Number](./Algorithms/287.Find-the-Duplicate-Number.md)
+* [338. Counting Bits](./Algorithms/338.Counting-Bits.md)
 * [371. Sum of Two Integers](./Algorithms/371.Sum-of-Two-Integers.md)
 * [868. Binary Gap](./Algorithms/868.Binary-Gap.md)
 
@@ -198,6 +199,7 @@ personal leetcode solving record
 * [121. Best Time to Buy and Sell Stock](./Algorithms/121.Best-Time-to-Buy-and-Sell-Stock.md)
 * [152. Maximum Product Subarray](./Algorithms/152.Maximum-Product-Subarray.md)
 * [300. Longest Increasing Subsequence](./Algorithms/300.Longest-Increasing-Subsequence.md)
+* [338. Counting Bits](./Algorithms/338.Counting-Bits.md)
 * [718. Maximum Length of Repeated Subarray](./Algorithms\718.Maximum-Length-of-Repeated-Subarray.md)
 
 ### Greedy
