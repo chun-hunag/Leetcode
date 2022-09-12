@@ -177,6 +177,7 @@ personal leetcode solving record
 ### Bit Manipulation
 * [29. Divide Two Integers](./Algorithms/29.Divide-Two-Integers.md)
 * [136. Single Number](./Algorithms/136.Single-Number.md)
+* [190. Reverse Bits](./Algorithms/190.Reverse-Bits.md)
 * [191. Number of 1 Bits](./Algorithms/191.Number-of-1-Bits.md)
 * [268. Missing Number](./Algorithms/268.Missing-Number.md)
 * [287. Find the Duplicate Number](./Algorithms/287.Find-the-Duplicate-Number.md)
@@ -188,6 +189,7 @@ personal leetcode solving record
 * [4. Median of Two Sorted Arrays](./Algorithms/4.Median-of-Two-Sorted-Arrays.md)
 * [53. Maximum Subarray](./Algorithms/53.Maximum-Subarray.md)
 * [169. Majority Element](./Algorithms/169.Majority-Element.md)
+* [190. Reverse Bits](./Algorithms/190.Reverse-Bits.md)
 * [191. Number of 1 Bits](./Algorithms/191.Number-of-1-Bits.md)
 * [372. Super Pow](./Algorithms/372.Super-Pow.md)
 
