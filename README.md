@@ -30,6 +30,7 @@ personal leetcode solving record
 * [283. Move Zeroes](./Algorithms/283.Move-Zeroes.md)
 * [287. Find the Duplicate Number](./Algorithms/287.Find-the-Duplicate-Number.md)
 * [300. Longest Increasing Subsequence](./Algorithms/300.Longest-Increasing-Subsequence.md)
+* [322. Coin Change](./Algorithms/322.Coin-Change.md)
 * [448. Find All Numbers Disappeared in an Array](./Algorithms\448.Find-All-Numbers-Disappeared-in-an-Array.md)
 * [475. Heaters](./Algorithms/475.Heaters.md)
 * [561. Array Partition I](./Algorithms/561.Array-Partition-I.md)
@@ -170,6 +171,7 @@ personal leetcode solving record
 
 ### Breadth-first Search
 * [101. Symmetric Tree](./Algorithms/101.Symmetric-Tree.md)
+* [322. Coin Change](./Algorithms/322.Coin-Change.md)
 
 ### Brainteaser
 * [521. Longest Uncommon Subsequence I](./Algorithms/521.Longest-Uncommon-Subsequence-I.md)
@@ -201,6 +203,7 @@ personal leetcode solving record
 * [121. Best Time to Buy and Sell Stock](./Algorithms/121.Best-Time-to-Buy-and-Sell-Stock.md)
 * [152. Maximum Product Subarray](./Algorithms/152.Maximum-Product-Subarray.md)
 * [300. Longest Increasing Subsequence](./Algorithms/300.Longest-Increasing-Subsequence.md)
+* [322. Coin Change](./Algorithms/322.Coin-Change.md)
 * [338. Counting Bits](./Algorithms/338.Counting-Bits.md)
 * [718. Maximum Length of Repeated Subarray](./Algorithms\718.Maximum-Length-of-Repeated-Subarray.md)
 
