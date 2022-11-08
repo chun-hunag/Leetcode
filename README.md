@@ -57,6 +57,7 @@ personal leetcode solving record
 * [521. Longest Uncommon Subsequence I](./Algorithms/521.Longest-Uncommon-Subsequence-I.md)
 * [522. Longest Uncommon Subsequence II](./Algorithms/522.Longest-Uncommon-Subsequence-II.md)
 * [557. Reverse Words in a String III](./Algorithms/557.Reverse-Words-in-a-String-III.md)
+* [1143. Longest Common Subsequence](./Algorithms/1143.Longest-Common-Subsequence.md)
 
 ### Hash Table
 * [1. Two Sum](./Algorithms/1.Two-Sum.md)
@@ -206,6 +207,7 @@ personal leetcode solving record
 * [322. Coin Change](./Algorithms/322.Coin-Change.md)
 * [338. Counting Bits](./Algorithms/338.Counting-Bits.md)
 * [718. Maximum Length of Repeated Subarray](./Algorithms\718.Maximum-Length-of-Repeated-Subarray.md)
+* [1143. Longest Common Subsequence](./Algorithms/1143.Longest-Common-Subsequence.md)
 
 ### Greedy
 * [11. Container With Most Water](./Algorithms/11.Container-With-Most-Water.md)
