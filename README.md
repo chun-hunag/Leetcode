@@ -52,6 +52,7 @@ personal leetcode solving record
 * [13. Roman to Integer](./Algorithms/13.Roman-to-Integer.md)
 * [17. Letter Combinations of a PhoneNumber](./Algorithms/17.Letter-Combinations-of-a-Phone-Number.md)
 * [67. Add Binary](./Algorithms/67.Add-Binary.md)
+* [139. Word Break](./Algorithms/139.Word-Break.md)
 * [344. Reverse String](./Algorithms/344.Reverse-String.md)
 * [415. Add Strings](./Algorithms/415.Add-Strings.md)
 * [521. Longest Uncommon Subsequence I](./Algorithms/521.Longest-Uncommon-Subsequence-I.md)
@@ -63,6 +64,7 @@ personal leetcode solving record
 * [1. Two Sum](./Algorithms/1.Two-Sum.md)
 * [3. Longest Substring Without Repeating Characters](./Algorithms/3.Longest-Substring-Without-Repeating-Characters.md)
 * [136. Single Number](./Algorithms/136.Single-Number.md)
+* [139. Word Break](./Algorithms/139.Word-Break.md)
 * [160. Intersection of Two Linked Lists](./Algorithms/160.Intersection-of-Two-Linked-Lists.md)
 * [169. Majority Element](./Algorithms/169.Majority-Element.md)
 * [202. Happy Number](./Algorithms/202.Happy-Number.md)
@@ -202,6 +204,7 @@ personal leetcode solving record
 * [53. Maximum Subarray](./Algorithms/53.Maximum-Subarray.md)
 * [70. Climbing Stairs](./Algorithms/70.Climbing-Stairs.md)
 * [121. Best Time to Buy and Sell Stock](./Algorithms/121.Best-Time-to-Buy-and-Sell-Stock.md)
+* [139. Word Break](./Algorithms/139.Word-Break.md)
 * [152. Maximum Product Subarray](./Algorithms/152.Maximum-Product-Subarray.md)
 * [300. Longest Increasing Subsequence](./Algorithms/300.Longest-Increasing-Subsequence.md)
 * [322. Coin Change](./Algorithms/322.Coin-Change.md)
@@ -233,6 +236,12 @@ personal leetcode solving record
 
 ### Hash Function
 * [718. Maximum Length of Repeated Subarray](./Algorithms\718.Maximum-Length-of-Repeated-Subarray.md)
+
+### Trie
+* [139. Word Break](./Algorithms/139.Word-Break.md)
+
+### Memoization
+* [139. Word Break](./Algorithms/139.Word-Break.md)
 
 ## Database
 
