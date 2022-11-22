@@ -31,6 +31,7 @@ personal leetcode solving record
 * [287. Find the Duplicate Number](./Algorithms/287.Find-the-Duplicate-Number.md)
 * [300. Longest Increasing Subsequence](./Algorithms/300.Longest-Increasing-Subsequence.md)
 * [322. Coin Change](./Algorithms/322.Coin-Change.md)
+* [377. Combination Sum IV](./Algorithms/377.Combination-Sum-IV.md)
 * [448. Find All Numbers Disappeared in an Array](./Algorithms\448.Find-All-Numbers-Disappeared-in-an-Array.md)
 * [475. Heaters](./Algorithms/475.Heaters.md)
 * [561. Array Partition I](./Algorithms/561.Array-Partition-I.md)
@@ -209,6 +210,7 @@ personal leetcode solving record
 * [300. Longest Increasing Subsequence](./Algorithms/300.Longest-Increasing-Subsequence.md)
 * [322. Coin Change](./Algorithms/322.Coin-Change.md)
 * [338. Counting Bits](./Algorithms/338.Counting-Bits.md)
+* [377. Combination Sum IV](./Algorithms/377.Combination-Sum-IV.md)
 * [718. Maximum Length of Repeated Subarray](./Algorithms\718.Maximum-Length-of-Repeated-Subarray.md)
 * [1143. Longest Common Subsequence](./Algorithms/1143.Longest-Common-Subsequence.md)
 
