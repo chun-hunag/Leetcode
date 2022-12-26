@@ -132,6 +132,7 @@ personal leetcode solving record
 * [9. Palindrome Number](./Algorithms/9.Palindrome-Number.md)
 * [13. Roman to Integer](./Algorithms/13.Roman-to-Integer.md)
 * [29. Divide Two Integers](./Algorithms/29.Divide-Two-Integers.md)
+* [62. Unique Paths](./Algorithms/62.Unique-Paths.md)
 * [66. Plus One](./Algorithms/66.Plus-One.md)
 * [67. Add Binary](./Algorithms/67.Add-Binary.md)
 * [69. Sqrt(x)](./Algorithms/69.Sqrt(x).md)
@@ -206,6 +207,7 @@ personal leetcode solving record
 * [5. Longest Palindromic Substring](./Algorithms/5.Longest-Palindromic-Substring.md)
 * [10. Regular Expression Matching](./Algorithms/10.Regular-Expression-Matching.md)
 * [53. Maximum Subarray](./Algorithms/53.Maximum-Subarray.md)
+* [62. Unique Paths](./Algorithms/62.Unique-Paths.md)
 * [70. Climbing Stairs](./Algorithms/70.Climbing-Stairs.md)
 * [91. Decode Ways](./Algorithms/91.Decode-Ways.md)
 * [121. Best Time to Buy and Sell Stock](./Algorithms/121.Best-Time-to-Buy-and-Sell-Stock.md)
@@ -250,6 +252,9 @@ personal leetcode solving record
 
 ### Memoization
 * [139. Word Break](./Algorithms/139.Word-Break.md)
+
+### Combinatorics
+* [62. Unique Paths](./Algorithms/62.Unique-Paths.md)
 
 ## Database
 
