@@ -15,6 +15,7 @@ personal leetcode solving record
 * [33. Search in Rotated Sorted Array](./Algorithms/33.Search-in-Rotated-Sorted-Array.md)
 * [35. Search Insert Position](./Algorithms/35.Search-Insert-Position.md)
 * [53. Maximum Subarray](./Algorithms/53.Maximum-Subarray.md)
+* [55. Jump Game](./Algorithms/55.Jump-Game.md)
 * [66. Plus One](./Algorithms/66.Plus-One.md)
 * [88. Merge Sorted Array](./Algorithms/88.Merge-Sorted-Array.md)
 * [118. Pascal's Triangle](./Algorithms/118.Pascal's-Triangle.md)
@@ -207,6 +208,7 @@ personal leetcode solving record
 * [5. Longest Palindromic Substring](./Algorithms/5.Longest-Palindromic-Substring.md)
 * [10. Regular Expression Matching](./Algorithms/10.Regular-Expression-Matching.md)
 * [53. Maximum Subarray](./Algorithms/53.Maximum-Subarray.md)
+* [55. Jump Game](./Algorithms/55.Jump-Game.md)
 * [62. Unique Paths](./Algorithms/62.Unique-Paths.md)
 * [70. Climbing Stairs](./Algorithms/70.Climbing-Stairs.md)
 * [91. Decode Ways](./Algorithms/91.Decode-Ways.md)
@@ -224,6 +226,7 @@ personal leetcode solving record
 
 ### Greedy
 * [11. Container With Most Water](./Algorithms/11.Container-With-Most-Water.md)
+* [55. Jump Game](./Algorithms/55.Jump-Game.md)
 * [122. Best Time to Buy and Sell Stock II](./Algorithms/122.Best-Time-to-Buy-and-Sell-Stock-II.md)
 * [561. Array Partition I](./Algorithms/561.Array-Partition-I.md)
 
