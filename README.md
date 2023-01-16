@@ -68,6 +68,7 @@ personal leetcode solving record
 ### Hash Table
 * [1. Two Sum](./Algorithms/1.Two-Sum.md)
 * [3. Longest Substring Without Repeating Characters](./Algorithms/3.Longest-Substring-Without-Repeating-Characters.md)
+* [133. Clone Graph](./Algorithms/133.Clone-Graph.md)
 * [136. Single Number](./Algorithms/136.Single-Number.md)
 * [139. Word Break](./Algorithms/139.Word-Break.md)
 * [160. Intersection of Two Linked Lists](./Algorithms/160.Intersection-of-Two-Linked-Lists.md)
@@ -177,9 +178,11 @@ personal leetcode solving record
 ### Depth-first Search
 * [17. Letter Combinations of a PhoneNumber](./Algorithms/17.Letter-Combinations-of-a-Phone-Number.md)
 * [101. Symmetric Tree](./Algorithms/101.Symmetric-Tree.md)
+* [133. Clone Graph](./Algorithms/133.Clone-Graph.md)
 
 ### Breadth-first Search
 * [101. Symmetric Tree](./Algorithms/101.Symmetric-Tree.md)
+* [133. Clone Graph](./Algorithms/133.Clone-Graph.md)
 * [322. Coin Change](./Algorithms/322.Coin-Change.md)
 
 ### Brainteaser
@@ -229,6 +232,9 @@ personal leetcode solving record
 * [55. Jump Game](./Algorithms/55.Jump-Game.md)
 * [122. Best Time to Buy and Sell Stock II](./Algorithms/122.Best-Time-to-Buy-and-Sell-Stock-II.md)
 * [561. Array Partition I](./Algorithms/561.Array-Partition-I.md)
+
+### Graph
+* [133. Clone Graph](./Algorithms/133.Clone-Graph.md)
 
 ### Stack
 * [15. 3Sum](./Algorithms/15.3Sum.md)
