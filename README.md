@@ -26,6 +26,7 @@ personal leetcode solving record
 * [167. Two Sum II - Input array is sorted](./Algorithms/167.Two-Sum-II-Input-array-is-sorted.md)
 * [169. Majority Element](./Algorithms/169.Majority-Element.md)
 * [198. House Robber](./Algorithms/198.House-Robber.md)
+* [200. Number of Islands](./Algorithms/200.Numberof-Islands.md)
 * [213. House Robber II](./Algorithms/213.House-Robber-II.md)
 * [217. Contains Duplicate](./Algorithms/217.Contains-Duplicate.md)
 * [238. Product of Array Except Self](./Algorithms/238.Product-of-Array-Except-Self.md)
@@ -179,10 +180,12 @@ personal leetcode solving record
 * [17. Letter Combinations of a PhoneNumber](./Algorithms/17.Letter-Combinations-of-a-Phone-Number.md)
 * [101. Symmetric Tree](./Algorithms/101.Symmetric-Tree.md)
 * [133. Clone Graph](./Algorithms/133.Clone-Graph.md)
+* [200. Number of Islands](./Algorithms/200.Numberof-Islands.md)
 
 ### Breadth-first Search
 * [101. Symmetric Tree](./Algorithms/101.Symmetric-Tree.md)
 * [133. Clone Graph](./Algorithms/133.Clone-Graph.md)
+* [200. Number of Islands](./Algorithms/200.Numberof-Islands.md)
 * [322. Coin Change](./Algorithms/322.Coin-Change.md)
 
 ### Brainteaser
@@ -264,6 +267,12 @@ personal leetcode solving record
 
 ### Combinatorics
 * [62. Unique Paths](./Algorithms/62.Unique-Paths.md)
+
+### Union Find
+* [200. Number of Islands](./Algorithms/200.Numberof-Islands.md)
+
+### Matrix
+* [200. Number of Islands](./Algorithms/200.Numberof-Islands.md)
 
 ## Database
 
