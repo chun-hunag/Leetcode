@@ -174,6 +174,9 @@ personal leetcode solving record
 ### Counting Sort
 * [561. Array Partition I](./Algorithms/561.Array-Partition-I.md)
 
+### Topologic Sort
+* [207. Course Schedule](./Algorithms/207.Course-Schedule.md)
+
 ### Backtracking
 * [17. Letter Combinations of a PhoneNumber](./Algorithms/17.Letter-Combinations-of-a-Phone-Number.md)
 
@@ -182,12 +185,14 @@ personal leetcode solving record
 * [101. Symmetric Tree](./Algorithms/101.Symmetric-Tree.md)
 * [133. Clone Graph](./Algorithms/133.Clone-Graph.md)
 * [200. Number of Islands](./Algorithms/200.Numberof-Islands.md)
+* [207. Course Schedule](./Algorithms/207.Course-Schedule.md)
 * [417. Pacific Atlantic Water Flow](./Algorithms/417.Pacific-Atlantic-Water-Flow.md)
 
 ### Breadth-first Search
 * [101. Symmetric Tree](./Algorithms/101.Symmetric-Tree.md)
 * [133. Clone Graph](./Algorithms/133.Clone-Graph.md)
 * [200. Number of Islands](./Algorithms/200.Numberof-Islands.md)
+* [207. Course Schedule](./Algorithms/207.Course-Schedule.md)
 * [322. Coin Change](./Algorithms/322.Coin-Change.md)
 * [417. Pacific Atlantic Water Flow](./Algorithms/417.Pacific-Atlantic-Water-Flow.md)
 
@@ -241,6 +246,7 @@ personal leetcode solving record
 
 ### Graph
 * [133. Clone Graph](./Algorithms/133.Clone-Graph.md)
+* [207. Course Schedule](./Algorithms/207.Course-Schedule.md)
 
 ### Stack
 * [15. 3Sum](./Algorithms/15.3Sum.md)
