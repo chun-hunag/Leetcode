@@ -186,6 +186,7 @@ personal leetcode solving record
 * [133. Clone Graph](./Algorithms/133.Clone-Graph.md)
 * [200. Number of Islands](./Algorithms/200.Numberof-Islands.md)
 * [207. Course Schedule](./Algorithms/207.Course-Schedule.md)
+* [323. Number of Connected Components in an Undirected Graph](./Algorithms/323.Number-of-Connected-Components-in-an-Undirecte.md)
 * [417. Pacific Atlantic Water Flow](./Algorithms/417.Pacific-Atlantic-Water-Flow.md)
 
 ### Breadth-first Search
@@ -194,6 +195,7 @@ personal leetcode solving record
 * [200. Number of Islands](./Algorithms/200.Numberof-Islands.md)
 * [207. Course Schedule](./Algorithms/207.Course-Schedule.md)
 * [322. Coin Change](./Algorithms/322.Coin-Change.md)
+* [323. Number of Connected Components in an Undirected Graph](./Algorithms/323.Number-of-Connected-Components-in-an-Undirecte.md)
 * [417. Pacific Atlantic Water Flow](./Algorithms/417.Pacific-Atlantic-Water-Flow.md)
 
 ### Brainteaser
@@ -247,6 +249,7 @@ personal leetcode solving record
 ### Graph
 * [133. Clone Graph](./Algorithms/133.Clone-Graph.md)
 * [207. Course Schedule](./Algorithms/207.Course-Schedule.md)
+* [323. Number of Connected Components in an Undirected Graph](./Algorithms/323.Number-of-Connected-Components-in-an-Undirecte.md)
 
 ### Stack
 * [15. 3Sum](./Algorithms/15.3Sum.md)
@@ -279,6 +282,7 @@ personal leetcode solving record
 
 ### Union Find
 * [200. Number of Islands](./Algorithms/200.Numberof-Islands.md)
+* [323. Number of Connected Components in an Undirected Graph](./Algorithms/323.Number-of-Connected-Components-in-an-Undirecte.md)
 
 ### Matrix
 * [200. Number of Islands](./Algorithms/200.Numberof-Islands.md)
