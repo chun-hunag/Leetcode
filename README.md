@@ -184,6 +184,7 @@ personal leetcode solving record
 * [17. Letter Combinations of a PhoneNumber](./Algorithms/17.Letter-Combinations-of-a-Phone-Number.md)
 * [101. Symmetric Tree](./Algorithms/101.Symmetric-Tree.md)
 * [133. Clone Graph](./Algorithms/133.Clone-Graph.md)
+* [178. Graph Valid Tree](./Algorithms/178.%20Graph-Valid-Tree.md)
 * [200. Number of Islands](./Algorithms/200.Numberof-Islands.md)
 * [207. Course Schedule](./Algorithms/207.Course-Schedule.md)
 * [323. Number of Connected Components in an Undirected Graph](./Algorithms/323.Number-of-Connected-Components-in-an-Undirecte.md)
@@ -192,6 +193,7 @@ personal leetcode solving record
 ### Breadth-first Search
 * [101. Symmetric Tree](./Algorithms/101.Symmetric-Tree.md)
 * [133. Clone Graph](./Algorithms/133.Clone-Graph.md)
+* [178. Graph Valid Tree](./Algorithms/178.%20Graph-Valid-Tree.md)
 * [200. Number of Islands](./Algorithms/200.Numberof-Islands.md)
 * [207. Course Schedule](./Algorithms/207.Course-Schedule.md)
 * [322. Coin Change](./Algorithms/322.Coin-Change.md)
@@ -248,6 +250,7 @@ personal leetcode solving record
 
 ### Graph
 * [133. Clone Graph](./Algorithms/133.Clone-Graph.md)
+* [178. Graph Valid Tree](./Algorithms/178.%20Graph-Valid-Tree.md)
 * [207. Course Schedule](./Algorithms/207.Course-Schedule.md)
 * [323. Number of Connected Components in an Undirected Graph](./Algorithms/323.Number-of-Connected-Components-in-an-Undirecte.md)
 
@@ -282,6 +285,7 @@ personal leetcode solving record
 
 ### Union Find
 * [200. Number of Islands](./Algorithms/200.Numberof-Islands.md)
+* [178. Graph Valid Tree](./Algorithms/178.%20Graph-Valid-Tree.md)
 * [323. Number of Connected Components in an Undirected Graph](./Algorithms/323.Number-of-Connected-Components-in-an-Undirecte.md)
 
 ### Matrix
