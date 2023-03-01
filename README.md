@@ -86,6 +86,7 @@ personal leetcode solving record
 
 ### Tree
 * [101. Symmetric Tree](./Algorithms/101.Symmetric-Tree.md)
+* [226. Invert Binary Tree](./Algorithms/226.Invert-Binary-Tree.md)
 
 ### Linked List
 * [2. Add Two Numbers](./Algorithms/2.Add-Two-Numbers.md)
@@ -106,6 +107,7 @@ personal leetcode solving record
 * [69. Sqrt(x)](./Algorithms/69.Sqrt(x).md)
 * [153. Find Minimum in Rotated Sorted Array](./Algorithms/153.Find-Minimum-in-Rotated-Sorted-Array.md)
 * [167. Two Sum II - Input array is sorted](./Algorithms/167.Two-Sum-II-Input-array-is-sorted.md)
+* [226. Invert Binary Tree](./Algorithms/226.Invert-Binary-Tree.md)
 * [287. Find the Duplicate Number](./Algorithms/287.Find-the-Duplicate-Number.md)
 * [300. Longest Increasing Subsequence](./Algorithms/300.Longest-Increasing-Subsequence.md)
 * [349. Intersection of Two Arrays](./Algorithms/349.Intersection-of-Two-Arrays.md)
@@ -187,6 +189,7 @@ personal leetcode solving record
 * [178. Graph Valid Tree](./Algorithms/178.%20Graph-Valid-Tree.md)
 * [200. Number of Islands](./Algorithms/200.Numberof-Islands.md)
 * [207. Course Schedule](./Algorithms/207.Course-Schedule.md)
+* [226. Invert Binary Tree](./Algorithms/226.Invert-Binary-Tree.md)
 * [323. Number of Connected Components in an Undirected Graph](./Algorithms/323.Number-of-Connected-Components-in-an-Undirecte.md)
 * [417. Pacific Atlantic Water Flow](./Algorithms/417.Pacific-Atlantic-Water-Flow.md)
 
@@ -196,6 +199,7 @@ personal leetcode solving record
 * [178. Graph Valid Tree](./Algorithms/178.%20Graph-Valid-Tree.md)
 * [200. Number of Islands](./Algorithms/200.Numberof-Islands.md)
 * [207. Course Schedule](./Algorithms/207.Course-Schedule.md)
+* [226. Invert Binary Tree](./Algorithms/226.Invert-Binary-Tree.md)
 * [322. Coin Change](./Algorithms/322.Coin-Change.md)
 * [323. Number of Connected Components in an Undirected Graph](./Algorithms/323.Number-of-Connected-Components-in-an-Undirecte.md)
 * [417. Pacific Atlantic Water Flow](./Algorithms/417.Pacific-Atlantic-Water-Flow.md)
@@ -284,8 +288,8 @@ personal leetcode solving record
 * [62. Unique Paths](./Algorithms/62.Unique-Paths.md)
 
 ### Union Find
-* [200. Number of Islands](./Algorithms/200.Numberof-Islands.md)
 * [178. Graph Valid Tree](./Algorithms/178.%20Graph-Valid-Tree.md)
+* [200. Number of Islands](./Algorithms/200.Numberof-Islands.md)
 * [323. Number of Connected Components in an Undirected Graph](./Algorithms/323.Number-of-Connected-Components-in-an-Undirecte.md)
 
 ### Matrix
