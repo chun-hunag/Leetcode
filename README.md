@@ -87,7 +87,11 @@ personal leetcode solving record
 
 ### Tree
 * [101. Symmetric Tree](./Algorithms/101.Symmetric-Tree.md)
+* [104. Maximum Depth of Binary Tree](./Algorithms/104.Maximum-Depth-of-Binary-Tree.md)
 * [226. Invert Binary Tree](./Algorithms/226.Invert-Binary-Tree.md)
+
+### Binary
+* [104. Maximum Depth of Binary Tree](./Algorithms/104.Maximum-Depth-of-Binary-Tree.md)
 
 ### Linked List
 * [2. Add Two Numbers](./Algorithms/2.Add-Two-Numbers.md)
@@ -187,6 +191,7 @@ personal leetcode solving record
 ### Depth-first Search
 * [17. Letter Combinations of a PhoneNumber](./Algorithms/17.Letter-Combinations-of-a-Phone-Number.md)
 * [101. Symmetric Tree](./Algorithms/101.Symmetric-Tree.md)
+* [104. Maximum Depth of Binary Tree](./Algorithms/104.Maximum-Depth-of-Binary-Tree.md)
 * [133. Clone Graph](./Algorithms/133.Clone-Graph.md)
 * [178. Graph Valid Tree](./Algorithms/178.%20Graph-Valid-Tree.md)
 * [200. Number of Islands](./Algorithms/200.Numberof-Islands.md)
@@ -197,6 +202,7 @@ personal leetcode solving record
 
 ### Breadth-first Search
 * [101. Symmetric Tree](./Algorithms/101.Symmetric-Tree.md)
+* [104. Maximum Depth of Binary Tree](./Algorithms/104.Maximum-Depth-of-Binary-Tree.md)
 * [133. Clone Graph](./Algorithms/133.Clone-Graph.md)
 * [178. Graph Valid Tree](./Algorithms/178.%20Graph-Valid-Tree.md)
 * [200. Number of Islands](./Algorithms/200.Numberof-Islands.md)
