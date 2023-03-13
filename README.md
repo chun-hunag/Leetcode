@@ -89,9 +89,11 @@ personal leetcode solving record
 * [101. Symmetric Tree](./Algorithms/101.Symmetric-Tree.md)
 * [104. Maximum Depth of Binary Tree](./Algorithms/104.Maximum-Depth-of-Binary-Tree.md)
 * [226. Invert Binary Tree](./Algorithms/226.Invert-Binary-Tree.md)
+* [235. Lowest Common Ancestor of a Binary Search Tree](./Algorithms/235.Lowest-Common-Ancestor-of-a-Binary-Search-Tree.md)
 
-### Binary
+### Binary Tree
 * [104. Maximum Depth of Binary Tree](./Algorithms/104.Maximum-Depth-of-Binary-Tree.md)
+* [235. Lowest Common Ancestor of a Binary Search Tree](./Algorithms/235.Lowest-Common-Ancestor-of-a-Binary-Search-Tree.md)
 
 ### Linked List
 * [2. Add Two Numbers](./Algorithms/2.Add-Two-Numbers.md)
@@ -197,6 +199,7 @@ personal leetcode solving record
 * [200. Number of Islands](./Algorithms/200.Numberof-Islands.md)
 * [207. Course Schedule](./Algorithms/207.Course-Schedule.md)
 * [226. Invert Binary Tree](./Algorithms/226.Invert-Binary-Tree.md)
+* [235. Lowest Common Ancestor of a Binary Search Tree](./Algorithms/235.Lowest-Common-Ancestor-of-a-Binary-Search-Tree.md)
 * [323. Number of Connected Components in an Undirected Graph](./Algorithms/323.Number-of-Connected-Components-in-an-Undirecte.md)
 * [417. Pacific Atlantic Water Flow](./Algorithms/417.Pacific-Atlantic-Water-Flow.md)
 
@@ -208,6 +211,7 @@ personal leetcode solving record
 * [200. Number of Islands](./Algorithms/200.Numberof-Islands.md)
 * [207. Course Schedule](./Algorithms/207.Course-Schedule.md)
 * [226. Invert Binary Tree](./Algorithms/226.Invert-Binary-Tree.md)
+* [235. Lowest Common Ancestor of a Binary Search Tree](./Algorithms/235.Lowest-Common-Ancestor-of-a-Binary-Search-Tree.md)
 * [322. Coin Change](./Algorithms/322.Coin-Change.md)
 * [323. Number of Connected Components in an Undirected Graph](./Algorithms/323.Number-of-Connected-Components-in-an-Undirecte.md)
 * [417. Pacific Atlantic Water Flow](./Algorithms/417.Pacific-Atlantic-Water-Flow.md)
