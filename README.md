@@ -35,6 +35,7 @@ personal leetcode solving record
 * [287. Find the Duplicate Number](./Algorithms/287.Find-the-Duplicate-Number.md)
 * [300. Longest Increasing Subsequence](./Algorithms/300.Longest-Increasing-Subsequence.md)
 * [322. Coin Change](./Algorithms/322.Coin-Change.md)
+* [347. Top K Frequent Elements](./Algorithms/347.Top-K-Frequent-Elements.md)
 * [377. Combination Sum IV](./Algorithms/377.Combination-Sum-IV.md)
 * [417. Pacific Atlantic Water Flow](./Algorithms/417.Pacific-Atlantic-Water-Flow.md)
 * [448. Find All Numbers Disappeared in an Array](./Algorithms\448.Find-All-Numbers-Disappeared-in-an-Array.md)
@@ -82,6 +83,7 @@ personal leetcode solving record
 * [217. Contains Duplicate](./Algorithms/217.Contains-Duplicate.md)
 * [242. Valid Anagram](./Algorithms/242.Valid-Anagram.md)
 * [268. Missing Number](./Algorithms/268.Missing-Number.md)
+* [347. Top K Frequent Elements](./Algorithms/347.Top-K-Frequent-Elements.md)
 * [349. Intersection of Two Arrays](./Algorithms/349.Intersection-of-Two-Arrays.md)
 * [448. Find All Numbers Disappeared in an Array](./Algorithms\448.Find-All-Numbers-Disappeared-in-an-Array.md)
 * [697. Degree of an Array](./Algorithms/697.Degree-of-an-Array.md)
@@ -180,6 +182,7 @@ personal leetcode solving record
 * [217. Contains Duplicate](./Algorithms/217.Contains-Duplicate.md)
 * [242. Valid Anagram](./Algorithms/242.Valid-Anagram.md)
 * [268. Missing Number](./Algorithms/268.Missing-Number.md)
+* [347. Top K Frequent Elements](./Algorithms/347.Top-K-Frequent-Elements.md)
 * [349. Intersection of Two Arrays](./Algorithms/349.Intersection-of-Two-Arrays.md)
 * [475. Heaters](./Algorithms/475.Heaters.md)
 * [561. Array Partition I](./Algorithms/561.Array-Partition-I.md)
@@ -191,6 +194,9 @@ personal leetcode solving record
 
 ### Topologic Sort
 * [207. Course Schedule](./Algorithms/207.Course-Schedule.md)
+
+### Bucket Sort
+* [347. Top K Frequent Elements](./Algorithms/347.Top-K-Frequent-Elements.md)
 
 ### Backtracking
 * [17. Letter Combinations of a PhoneNumber](./Algorithms/17.Letter-Combinations-of-a-Phone-Number.md)
@@ -242,6 +248,7 @@ personal leetcode solving record
 * [169. Majority Element](./Algorithms/169.Majority-Element.md)
 * [190. Reverse Bits](./Algorithms/190.Reverse-Bits.md)
 * [191. Number of 1 Bits](./Algorithms/191.Number-of-1-Bits.md)
+* [347. Top K Frequent Elements](./Algorithms/347.Top-K-Frequent-Elements.md)
 * [372. Super Pow](./Algorithms/372.Super-Pow.md)
 
 ### Dynamic Programming
@@ -280,11 +287,15 @@ personal leetcode solving record
 * [15. 3Sum](./Algorithms/15.3Sum.md)
 * [234. Palindrome Linked List](./Algorithms/234.Palindrome-Linked-List.md)
 
+### Heap
+* [347. Top K Frequent Elements](./Algorithms/347.Top-K-Frequent-Elements.md)
+
 ### Memoization
 * [70. Climbing Stairs](./Algorithms/70.Climbing-Stairs.md)
 
 ### Counting
 * [169. Majority Element](./Algorithms/169.Majority-Element.md)
+* [347. Top K Frequent Elements](./Algorithms/347.Top-K-Frequent-Elements.md)
 
 ### Sliding Window
 * [3. Longest Substring Without Repeating Characters](./Algorithms/3.Longest-Substring-Without-Repeating-Characters.md)
@@ -313,6 +324,9 @@ personal leetcode solving record
 ### Matrix
 * [200. Number of Islands](./Algorithms/200.Numberof-Islands.md)
 * [417. Pacific Atlantic Water Flow](./Algorithms/417.Pacific-Atlantic-Water-Flow.md)
+
+### Quickselect
+* [347. Top K Frequent Elements](./Algorithms/347.Top-K-Frequent-Elements.md)
 
 ## Database
 
