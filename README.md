@@ -90,6 +90,7 @@ personal leetcode solving record
 * [1512. Number of Good Pairs](./Algorithms/1512.Number-of-Good-Pairs.md)
 
 ### Tree
+* [100. Same Tree](./Algorithms/100.Same-Tree.md)
 * [101. Symmetric Tree](./Algorithms/101.Symmetric-Tree.md)
 * [102. Binary Tree Level Order Traversal](./Algorithms/102.Binary-Tree-Level-Order-Traversal.md)
 * [104. Maximum Depth of Binary Tree](./Algorithms/104.Maximum-Depth-of-Binary-Tree.md)
@@ -97,6 +98,7 @@ personal leetcode solving record
 * [235. Lowest Common Ancestor of a Binary Search Tree](./Algorithms/235.Lowest-Common-Ancestor-of-a-Binary-Search-Tree.md)
 
 ### Binary Tree
+* [100. Same Tree](./Algorithms/100.Same-Tree.md)
 * [102. Binary Tree Level Order Traversal](./Algorithms/102.Binary-Tree-Level-Order-Traversal.md)
 * [104. Maximum Depth of Binary Tree](./Algorithms/104.Maximum-Depth-of-Binary-Tree.md)
 * [235. Lowest Common Ancestor of a Binary Search Tree](./Algorithms/235.Lowest-Common-Ancestor-of-a-Binary-Search-Tree.md)
@@ -203,6 +205,7 @@ personal leetcode solving record
 
 ### Depth-first Search
 * [17. Letter Combinations of a PhoneNumber](./Algorithms/17.Letter-Combinations-of-a-Phone-Number.md)
+* [100. Same Tree](./Algorithms/100.Same-Tree.md)
 * [101. Symmetric Tree](./Algorithms/101.Symmetric-Tree.md)
 * [104. Maximum Depth of Binary Tree](./Algorithms/104.Maximum-Depth-of-Binary-Tree.md)
 * [133. Clone Graph](./Algorithms/133.Clone-Graph.md)
@@ -215,6 +218,7 @@ personal leetcode solving record
 * [417. Pacific Atlantic Water Flow](./Algorithms/417.Pacific-Atlantic-Water-Flow.md)
 
 ### Breadth-first Search
+* [100. Same Tree](./Algorithms/100.Same-Tree.md)
 * [101. Symmetric Tree](./Algorithms/101.Symmetric-Tree.md)
 * [102. Binary Tree Level Order Traversal](./Algorithms/102.Binary-Tree-Level-Order-Traversal.md)
 * [104. Maximum Depth of Binary Tree](./Algorithms/104.Maximum-Depth-of-Binary-Tree.md)
