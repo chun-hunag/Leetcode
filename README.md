@@ -90,6 +90,7 @@ personal leetcode solving record
 * [1512. Number of Good Pairs](./Algorithms/1512.Number-of-Good-Pairs.md)
 
 ### Tree
+* [98. Validate Binary Search Tree](./Algorithms/98.Validate%20Binary-Search-Tree.md)
 * [100. Same Tree](./Algorithms/100.Same-Tree.md)
 * [101. Symmetric Tree](./Algorithms/101.Symmetric-Tree.md)
 * [102. Binary Tree Level Order Traversal](./Algorithms/102.Binary-Tree-Level-Order-Traversal.md)
@@ -98,6 +99,7 @@ personal leetcode solving record
 * [235. Lowest Common Ancestor of a Binary Search Tree](./Algorithms/235.Lowest-Common-Ancestor-of-a-Binary-Search-Tree.md)
 
 ### Binary Tree
+* [98. Validate Binary Search Tree](./Algorithms/98.Validate%20Binary-Search-Tree.md)
 * [100. Same Tree](./Algorithms/100.Same-Tree.md)
 * [102. Binary Tree Level Order Traversal](./Algorithms/102.Binary-Tree-Level-Order-Traversal.md)
 * [104. Maximum Depth of Binary Tree](./Algorithms/104.Maximum-Depth-of-Binary-Tree.md)
@@ -128,6 +130,9 @@ personal leetcode solving record
 * [349. Intersection of Two Arrays](./Algorithms/349.Intersection-of-Two-Arrays.md)
 * [475. Heaters](./Algorithms/475.Heaters.md)
 * [718. Maximum Length of Repeated Subarray](./Algorithms\718.Maximum-Length-of-Repeated-Subarray.md)
+
+### Binary Search Tree
+* [98. Validate Binary Search Tree](./Algorithms/98.Validate%20Binary-Search-Tree.md)
 
 ### Two Pointers
 * [11. Container With Most Water](./Algorithms/11.Container-With-Most-Water.md)
@@ -205,6 +210,7 @@ personal leetcode solving record
 
 ### Depth-first Search
 * [17. Letter Combinations of a PhoneNumber](./Algorithms/17.Letter-Combinations-of-a-Phone-Number.md)
+* [98. Validate Binary Search Tree](./Algorithms/98.Validate%20Binary-Search-Tree.md)
 * [100. Same Tree](./Algorithms/100.Same-Tree.md)
 * [101. Symmetric Tree](./Algorithms/101.Symmetric-Tree.md)
 * [104. Maximum Depth of Binary Tree](./Algorithms/104.Maximum-Depth-of-Binary-Tree.md)
@@ -218,6 +224,7 @@ personal leetcode solving record
 * [417. Pacific Atlantic Water Flow](./Algorithms/417.Pacific-Atlantic-Water-Flow.md)
 
 ### Breadth-first Search
+* [98. Validate Binary Search Tree](./Algorithms/98.Validate%20Binary-Search-Tree.md)
 * [100. Same Tree](./Algorithms/100.Same-Tree.md)
 * [101. Symmetric Tree](./Algorithms/101.Symmetric-Tree.md)
 * [102. Binary Tree Level Order Traversal](./Algorithms/102.Binary-Tree-Level-Order-Traversal.md)
