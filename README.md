@@ -97,6 +97,7 @@ personal leetcode solving record
 * [104. Maximum Depth of Binary Tree](./Algorithms/104.Maximum-Depth-of-Binary-Tree.md)
 * [226. Invert Binary Tree](./Algorithms/226.Invert-Binary-Tree.md)
 * [235. Lowest Common Ancestor of a Binary Search Tree](./Algorithms/235.Lowest-Common-Ancestor-of-a-Binary-Search-Tree.md)
+* [572. Subtree of Another Tree](./Algorithms/572.Subtree-of-Another-Tree.md)
 
 ### Binary Tree
 * [98. Validate Binary Search Tree](./Algorithms/98.Validate%20Binary-Search-Tree.md)
@@ -104,6 +105,7 @@ personal leetcode solving record
 * [102. Binary Tree Level Order Traversal](./Algorithms/102.Binary-Tree-Level-Order-Traversal.md)
 * [104. Maximum Depth of Binary Tree](./Algorithms/104.Maximum-Depth-of-Binary-Tree.md)
 * [235. Lowest Common Ancestor of a Binary Search Tree](./Algorithms/235.Lowest-Common-Ancestor-of-a-Binary-Search-Tree.md)
+* [572. Subtree of Another Tree](./Algorithms/572.Subtree-of-Another-Tree.md)
 
 ### Linked List
 * [2. Add Two Numbers](./Algorithms/2.Add-Two-Numbers.md)
@@ -222,6 +224,7 @@ personal leetcode solving record
 * [235. Lowest Common Ancestor of a Binary Search Tree](./Algorithms/235.Lowest-Common-Ancestor-of-a-Binary-Search-Tree.md)
 * [323. Number of Connected Components in an Undirected Graph](./Algorithms/323.Number-of-Connected-Components-in-an-Undirecte.md)
 * [417. Pacific Atlantic Water Flow](./Algorithms/417.Pacific-Atlantic-Water-Flow.md)
+* [572. Subtree of Another Tree](./Algorithms/572.Subtree-of-Another-Tree.md)
 
 ### Breadth-first Search
 * [98. Validate Binary Search Tree](./Algorithms/98.Validate%20Binary-Search-Tree.md)
@@ -338,6 +341,12 @@ personal leetcode solving record
 
 ### Quickselect
 * [347. Top K Frequent Elements](./Algorithms/347.Top-K-Frequent-Elements.md)
+
+### String Matching
+* [572. Subtree of Another Tree](./Algorithms/572.Subtree-of-Another-Tree.md)
+  
+### Hash Function
+* [572. Subtree of Another Tree](./Algorithms/572.Subtree-of-Another-Tree.md)
 
 ## Database
 
