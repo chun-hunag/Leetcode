@@ -96,6 +96,7 @@ personal leetcode solving record
 * [102. Binary Tree Level Order Traversal](./Algorithms/102.Binary-Tree-Level-Order-Traversal.md)
 * [104. Maximum Depth of Binary Tree](./Algorithms/104.Maximum-Depth-of-Binary-Tree.md)
 * [226. Invert Binary Tree](./Algorithms/226.Invert-Binary-Tree.md)
+* [230. Kth Smallest Element in a BST](./Algorithms/230.Kth-Smallest-Element-in-a-BST.md)
 * [235. Lowest Common Ancestor of a Binary Search Tree](./Algorithms/235.Lowest-Common-Ancestor-of-a-Binary-Search-Tree.md)
 * [572. Subtree of Another Tree](./Algorithms/572.Subtree-of-Another-Tree.md)
 
@@ -104,6 +105,7 @@ personal leetcode solving record
 * [100. Same Tree](./Algorithms/100.Same-Tree.md)
 * [102. Binary Tree Level Order Traversal](./Algorithms/102.Binary-Tree-Level-Order-Traversal.md)
 * [104. Maximum Depth of Binary Tree](./Algorithms/104.Maximum-Depth-of-Binary-Tree.md)
+* [230. Kth Smallest Element in a BST](./Algorithms/230.Kth-Smallest-Element-in-a-BST.md)
 * [235. Lowest Common Ancestor of a Binary Search Tree](./Algorithms/235.Lowest-Common-Ancestor-of-a-Binary-Search-Tree.md)
 * [572. Subtree of Another Tree](./Algorithms/572.Subtree-of-Another-Tree.md)
 
@@ -135,6 +137,7 @@ personal leetcode solving record
 
 ### Binary Search Tree
 * [98. Validate Binary Search Tree](./Algorithms/98.Validate%20Binary-Search-Tree.md)
+* [230. Kth Smallest Element in a BST](./Algorithms/230.Kth-Smallest-Element-in-a-BST.md)
 
 ### Two Pointers
 * [11. Container With Most Water](./Algorithms/11.Container-With-Most-Water.md)
@@ -221,6 +224,7 @@ personal leetcode solving record
 * [200. Number of Islands](./Algorithms/200.Numberof-Islands.md)
 * [207. Course Schedule](./Algorithms/207.Course-Schedule.md)
 * [226. Invert Binary Tree](./Algorithms/226.Invert-Binary-Tree.md)
+* [230. Kth Smallest Element in a BST](./Algorithms/230.Kth-Smallest-Element-in-a-BST.md)
 * [235. Lowest Common Ancestor of a Binary Search Tree](./Algorithms/235.Lowest-Common-Ancestor-of-a-Binary-Search-Tree.md)
 * [323. Number of Connected Components in an Undirected Graph](./Algorithms/323.Number-of-Connected-Components-in-an-Undirecte.md)
 * [417. Pacific Atlantic Water Flow](./Algorithms/417.Pacific-Atlantic-Water-Flow.md)
