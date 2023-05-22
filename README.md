@@ -64,6 +64,7 @@ personal leetcode solving record
 * [125. Valid Palindrome](./Algorithms/125.Valid-Palindrome.md)
 * [139. Word Break](./Algorithms/139.Word-Break.md)
 * [242. Valid Anagram](./Algorithms/242.Valid-Anagram.md)
+* [297. Serialize and Deserialize Binary Tree](./Algorithms/297.Serialize-and-Deserialize-Binary-Tree.md)
 * [344. Reverse String](./Algorithms/344.Reverse-String.md)
 * [415. Add Strings](./Algorithms/415.Add-Strings.md)
 * [521. Longest Uncommon Subsequence I](./Algorithms/521.Longest-Uncommon-Subsequence-I.md)
@@ -102,6 +103,7 @@ personal leetcode solving record
 * [226. Invert Binary Tree](./Algorithms/226.Invert-Binary-Tree.md)
 * [230. Kth Smallest Element in a BST](./Algorithms/230.Kth-Smallest-Element-in-a-BST.md)
 * [235. Lowest Common Ancestor of a Binary Search Tree](./Algorithms/235.Lowest-Common-Ancestor-of-a-Binary-Search-Tree.md)
+* [297. Serialize and Deserialize Binary Tree](./Algorithms/297.Serialize-and-Deserialize-Binary-Tree.md)
 * [572. Subtree of Another Tree](./Algorithms/572.Subtree-of-Another-Tree.md)
 
 ### Binary Tree
@@ -113,6 +115,7 @@ personal leetcode solving record
 * [124. Binary Tree Maximum Path Sum](./Algorithms/124.Binary-Tree-Maximum-Path-Sum.md)
 * [230. Kth Smallest Element in a BST](./Algorithms/230.Kth-Smallest-Element-in-a-BST.md)
 * [235. Lowest Common Ancestor of a Binary Search Tree](./Algorithms/235.Lowest-Common-Ancestor-of-a-Binary-Search-Tree.md)
+* [297. Serialize and Deserialize Binary Tree](./Algorithms/297.Serialize-and-Deserialize-Binary-Tree.md)
 * [572. Subtree of Another Tree](./Algorithms/572.Subtree-of-Another-Tree.md)
 
 ### Linked List
@@ -233,6 +236,7 @@ personal leetcode solving record
 * [226. Invert Binary Tree](./Algorithms/226.Invert-Binary-Tree.md)
 * [230. Kth Smallest Element in a BST](./Algorithms/230.Kth-Smallest-Element-in-a-BST.md)
 * [235. Lowest Common Ancestor of a Binary Search Tree](./Algorithms/235.Lowest-Common-Ancestor-of-a-Binary-Search-Tree.md)
+* [297. Serialize and Deserialize Binary Tree](./Algorithms/297.Serialize-and-Deserialize-Binary-Tree.md)
 * [323. Number of Connected Components in an Undirected Graph](./Algorithms/323.Number-of-Connected-Components-in-an-Undirecte.md)
 * [417. Pacific Atlantic Water Flow](./Algorithms/417.Pacific-Atlantic-Water-Flow.md)
 * [572. Subtree of Another Tree](./Algorithms/572.Subtree-of-Another-Tree.md)
@@ -249,6 +253,7 @@ personal leetcode solving record
 * [207. Course Schedule](./Algorithms/207.Course-Schedule.md)
 * [226. Invert Binary Tree](./Algorithms/226.Invert-Binary-Tree.md)
 * [235. Lowest Common Ancestor of a Binary Search Tree](./Algorithms/235.Lowest-Common-Ancestor-of-a-Binary-Search-Tree.md)
+* [297. Serialize and Deserialize Binary Tree](./Algorithms/297.Serialize-and-Deserialize-Binary-Tree.md)
 * [322. Coin Change](./Algorithms/322.Coin-Change.md)
 * [323. Number of Connected Components in an Undirected Graph](./Algorithms/323.Number-of-Connected-Components-in-an-Undirecte.md)
 * [417. Pacific Atlantic Water Flow](./Algorithms/417.Pacific-Atlantic-Water-Flow.md)
@@ -360,6 +365,9 @@ personal leetcode solving record
   
 ### Hash Function
 * [572. Subtree of Another Tree](./Algorithms/572.Subtree-of-Another-Tree.md)
+
+### Design
+* [297. Serialize and Deserialize Binary Tree](./Algorithms/297.Serialize-and-Deserialize-Binary-Tree.md)
 
 ## Database
 
