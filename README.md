@@ -164,6 +164,7 @@ personal leetcode solving record
 * [234. Palindrome Linked List](./Algorithms/234.Palindrome-Linked-List.md)
 * [283. Move Zeroes](./Algorithms/283.Move-Zeroes.md)
 * [287. Find the Duplicate Number](./Algorithms/287.Find-the-Duplicate-Number.md)
+* [295. Find Median from Data Stream](./Algorithms/295.Find-Median-from-Data-Stream.md)
 * [344. Reverse String](./Algorithms/344.Reverse-String.md)
 * [349. Intersection of Two Arrays](./Algorithms/349.Intersection-of-Two-Arrays.md)
 
@@ -203,6 +204,7 @@ personal leetcode solving record
 * [217. Contains Duplicate](./Algorithms/217.Contains-Duplicate.md)
 * [242. Valid Anagram](./Algorithms/242.Valid-Anagram.md)
 * [268. Missing Number](./Algorithms/268.Missing-Number.md)
+* [295. Find Median from Data Stream](./Algorithms/295.Find-Median-from-Data-Stream.md)
 * [347. Top K Frequent Elements](./Algorithms/347.Top-K-Frequent-Elements.md)
 * [349. Intersection of Two Arrays](./Algorithms/349.Intersection-of-Two-Arrays.md)
 * [475. Heaters](./Algorithms/475.Heaters.md)
@@ -320,6 +322,7 @@ personal leetcode solving record
 * [234. Palindrome Linked List](./Algorithms/234.Palindrome-Linked-List.md)
 
 ### Heap
+* [295. Find Median from Data Stream](./Algorithms/295.Find-Median-from-Data-Stream.md)
 * [347. Top K Frequent Elements](./Algorithms/347.Top-K-Frequent-Elements.md)
 
 ### Memoization
@@ -367,7 +370,11 @@ personal leetcode solving record
 * [572. Subtree of Another Tree](./Algorithms/572.Subtree-of-Another-Tree.md)
 
 ### Design
+* [295. Find Median from Data Stream](./Algorithms/295.Find-Median-from-Data-Stream.md)
 * [297. Serialize and Deserialize Binary Tree](./Algorithms/297.Serialize-and-Deserialize-Binary-Tree.md)
+
+### Data Stream
+* [295. Find Median from Data Stream](./Algorithms/295.Find-Median-from-Data-Stream.md)
 
 ## Database
 
