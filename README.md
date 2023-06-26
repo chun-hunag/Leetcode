@@ -125,6 +125,7 @@ personal leetcode solving record
 * [24. Swap Nodes in Pairs](./Algorithms/24.Swap-Nodes-in-Pairs.md)
 * [86. Partition List](./Algorithms/86.Partition-List.md)
 * [92. Reverse Linked List II](./Algorithms/92.Reverse-Linked-List-II.md)
+* [143. Reorder List](./Algorithms/143.Reorder-List.md)
 * [160. Intersection of Two Linked Lists](./Algorithms/160.Intersection-of-Two-Linked-Lists.md)
 * [206. Reverse Linked List](./Algorithms/206.Reverse-Linked-List.md)
 * [234. Palindrome Linked List](./Algorithms/234.Palindrome-Linked-List.md)
@@ -159,6 +160,7 @@ personal leetcode solving record
 * [86. Partition List](./Algorithms/86.Partition-List.md)
 * [88. Merge Sorted Array](./Algorithms/88.Merge-Sorted-Array.md)
 * [125. Valid Palindrome](./Algorithms/125.Valid-Palindrome.md)
+* [143. Reorder List](./Algorithms/143.Reorder-List.md)
 * [160. Intersection of Two Linked Lists](./Algorithms/160.Intersection-of-Two-Linked-Lists.md)
 * [167. Two Sum II - Input array is sorted](./Algorithms/167.Two-Sum-II-Input-array-is-sorted.md)
 * [234. Palindrome Linked List](./Algorithms/234.Palindrome-Linked-List.md)
@@ -193,6 +195,7 @@ personal leetcode solving record
 * [17. Letter Combinations of a PhoneNumber](./Algorithms/17.Letter-Combinations-of-a-Phone-Number.md)
 * [21. Merge Two Sorted Lists](./Algorithms/21.Merge-Two-Sorted-Lists.md)
 * [24. Swap Nodes in Pairs](./Algorithms/24.Swap-Nodes-in-Pairs.md)
+* [143. Reorder List](./Algorithms/143.Reorder-List.md)
 * [206. Reverse Linked List](./Algorithms/206.Reverse-Linked-List.md)
 * [234. Palindrome Linked List](./Algorithms/234.Palindrome-Linked-List.md)
 
@@ -319,6 +322,7 @@ personal leetcode solving record
 
 ### Stack
 * [15. 3Sum](./Algorithms/15.3Sum.md)
+* [143. Reorder List](./Algorithms/143.Reorder-List.md)
 * [234. Palindrome Linked List](./Algorithms/234.Palindrome-Linked-List.md)
 
 ### Heap
