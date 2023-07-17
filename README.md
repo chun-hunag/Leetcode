@@ -123,6 +123,7 @@ personal leetcode solving record
 * [2. Add Two Numbers](./Algorithms/2.Add-Two-Numbers.md)
 * [19. Remove Nth Node From End of List](./Algorithms/19.Remove-Nth-Node-From-End-of-List.md)
 * [21. Merge Two Sorted Lists](./Algorithms/21.Merge-Two-Sorted-Lists.md)
+* [23. Merge k Sorted Lists](./Algorithms/23.Merge-k-Sorted-Lists.md)
 * [24. Swap Nodes in Pairs](./Algorithms/24.Swap-Nodes-in-Pairs.md)
 * [86. Partition List](./Algorithms/86.Partition-List.md)
 * [92. Reverse Linked List II](./Algorithms/92.Reverse-Linked-List-II.md)
@@ -205,6 +206,7 @@ personal leetcode solving record
 ### Sort
 * [16. 3Sum Closest](./Algorithms/16.3Sum-Closest.md)
 * [18. 4Sum](./Algorithms/18.4Sum.md)
+* [23. Merge k Sorted Lists](./Algorithms/23.Merge-k-Sorted-Lists.md)
 * [88. Merge Sorted Array](./Algorithms/88.Merge-Sorted-Array.md)
 * [169. Majority Element](./Algorithms/169.Majority-Element.md)
 * [217. Contains Duplicate](./Algorithms/217.Contains-Duplicate.md)
@@ -282,6 +284,7 @@ personal leetcode solving record
 
 ### Divide and Conquer
 * [4. Median of Two Sorted Arrays](./Algorithms/4.Median-of-Two-Sorted-Arrays.md)
+* [23. Merge k Sorted Lists](./Algorithms/23.Merge-k-Sorted-Lists.md)
 * [53. Maximum Subarray](./Algorithms/53.Maximum-Subarray.md)
 * [105. Construct Binary Tree from Preorder and Inorder Traversal](./Algorithms/105.Construct-Binary-Tree-from-Preorder-and-Inorde.md)
 * [169. Majority Element](./Algorithms/169.Majority-Element.md)
@@ -329,6 +332,7 @@ personal leetcode solving record
 * [234. Palindrome Linked List](./Algorithms/234.Palindrome-Linked-List.md)
 
 ### Heap
+* [23. Merge k Sorted Lists](./Algorithms/23.Merge-k-Sorted-Lists.md)
 * [295. Find Median from Data Stream](./Algorithms/295.Find-Median-from-Data-Stream.md)
 * [347. Top K Frequent Elements](./Algorithms/347.Top-K-Frequent-Elements.md)
 
