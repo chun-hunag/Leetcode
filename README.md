@@ -14,6 +14,7 @@ personal leetcode solving record
 * [27. Remove Element](./Algorithms/27.Remove-Element.md)
 * [33. Search in Rotated Sorted Array](./Algorithms/33.Search-in-Rotated-Sorted-Array.md)
 * [35. Search Insert Position](./Algorithms/35.Search-Insert-Position.md)
+* [48. Rotate Image](./Algorithms/48.Rotate-Image.md)
 * [53. Maximum Subarray](./Algorithms/53.Maximum-Subarray.md)
 * [55. Jump Game](./Algorithms/55.Jump-Game.md)
 * [66. Plus One](./Algorithms/66.Plus-One.md)
@@ -180,6 +181,7 @@ personal leetcode solving record
 * [9. Palindrome Number](./Algorithms/9.Palindrome-Number.md)
 * [13. Roman to Integer](./Algorithms/13.Roman-to-Integer.md)
 * [29. Divide Two Integers](./Algorithms/29.Divide-Two-Integers.md)
+* [48. Rotate Image](./Algorithms/48.Rotate-Image.md)
 * [62. Unique Paths](./Algorithms/62.Unique-Paths.md)
 * [66. Plus One](./Algorithms/66.Plus-One.md)
 * [67. Add Binary](./Algorithms/67.Add-Binary.md)
@@ -368,6 +370,7 @@ personal leetcode solving record
 * [323. Number of Connected Components in an Undirected Graph](./Algorithms/323.Number-of-Connected-Components-in-an-Undirecte.md)
 
 ### Matrix
+* [48. Rotate Image](./Algorithms/48.Rotate-Image.md)
 * [200. Number of Islands](./Algorithms/200.Numberof-Islands.md)
 * [417. Pacific Atlantic Water Flow](./Algorithms/417.Pacific-Atlantic-Water-Flow.md)
 
