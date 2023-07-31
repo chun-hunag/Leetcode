@@ -16,6 +16,7 @@ personal leetcode solving record
 * [35. Search Insert Position](./Algorithms/35.Search-Insert-Position.md)
 * [48. Rotate Image](./Algorithms/48.Rotate-Image.md)
 * [53. Maximum Subarray](./Algorithms/53.Maximum-Subarray.md)
+* [54. Spiral Matrix](./Algorithms/54.Spiral-Matrix.md)
 * [55. Jump Game](./Algorithms/55.Jump-Game.md)
 * [66. Plus One](./Algorithms/66.Plus-One.md)
 * [88. Merge Sorted Array](./Algorithms/88.Merge-Sorted-Array.md)
@@ -371,6 +372,7 @@ personal leetcode solving record
 
 ### Matrix
 * [48. Rotate Image](./Algorithms/48.Rotate-Image.md)
+* [54. Spiral Matrix](./Algorithms/54.Spiral-Matrix.md)
 * [200. Number of Islands](./Algorithms/200.Numberof-Islands.md)
 * [417. Pacific Atlantic Water Flow](./Algorithms/417.Pacific-Atlantic-Water-Flow.md)
 
