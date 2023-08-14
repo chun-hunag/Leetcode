@@ -25,6 +25,7 @@ personal leetcode solving record
 * [118. Pascal's Triangle](./Algorithms/118.Pascal's-Triangle.md)
 * [121. Best Time to Buy and Sell Stock](./Algorithms/121.Best-Time-to-Buy-and-Sell-Stock.md)
 * [122. Best Time to Buy and Sell Stock II](./Algorithms/122.Best-Time-to-Buy-and-Sell-Stock-II.md)
+* [128. Longest Consecutive Sequence](./Algorithms/128.Longest-Consecutive-Sequence.md)
 * [152. Maximum Product Subarray](./Algorithms/152.Maximum-Product-Subarray.md)
 * [153. Find Minimum in Rotated Sorted Array](./Algorithms/153.Find-Minimum-in-Rotated-Sorted-Array.md)
 * [167. Two Sum II - Input array is sorted](./Algorithms/167.Two-Sum-II-Input-array-is-sorted.md)
@@ -81,6 +82,7 @@ personal leetcode solving record
 * [3. Longest Substring Without Repeating Characters](./Algorithms/3.Longest-Substring-Without-Repeating-Characters.md)
 * [49. Group Anagrams](./Algorithms/49.Group-Anagrams.md)
 * [105. Construct Binary Tree from Preorder and Inorder Traversal](./Algorithms/105.Construct-Binary-Tree-from-Preorder-and-Inorde.md)
+* [128. Longest Consecutive Sequence](./Algorithms/128.Longest-Consecutive-Sequence.md)
 * [133. Clone Graph](./Algorithms/133.Clone-Graph.md)
 * [136. Single Number](./Algorithms/136.Single-Number.md)
 * [139. Word Break](./Algorithms/139.Word-Break.md)
@@ -370,6 +372,7 @@ personal leetcode solving record
 * [62. Unique Paths](./Algorithms/62.Unique-Paths.md)
 
 ### Union Find
+* [128. Longest Consecutive Sequence](./Algorithms/128.Longest-Consecutive-Sequence.md)
 * [178. Graph Valid Tree](./Algorithms/178.%20Graph-Valid-Tree.md)
 * [200. Number of Islands](./Algorithms/200.Numberof-Islands.md)
 * [323. Number of Connected Components in an Undirected Graph](./Algorithms/323.Number-of-Connected-Components-in-an-Undirecte.md)
