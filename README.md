@@ -75,6 +75,7 @@ personal leetcode solving record
 * [521. Longest Uncommon Subsequence I](./Algorithms/521.Longest-Uncommon-Subsequence-I.md)
 * [522. Longest Uncommon Subsequence II](./Algorithms/522.Longest-Uncommon-Subsequence-II.md)
 * [557. Reverse Words in a String III](./Algorithms/557.Reverse-Words-in-a-String-III.md)
+* [659. Encode and Decode Strings](./Algorithms/659.Encode-and-Decode-Strings.md)
 * [1143. Longest Common Subsequence](./Algorithms/1143.Longest-Common-Subsequence.md)
 
 ### Hash Table
