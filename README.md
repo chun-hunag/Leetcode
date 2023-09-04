@@ -72,6 +72,7 @@ personal leetcode solving record
 * [297. Serialize and Deserialize Binary Tree](./Algorithms/297.Serialize-and-Deserialize-Binary-Tree.md)
 * [344. Reverse String](./Algorithms/344.Reverse-String.md)
 * [415. Add Strings](./Algorithms/415.Add-Strings.md)
+* [424. Longest Repeating Character Replacement](./Algorithms/424.Longest-Repeating-Character-Replacement.md)
 * [521. Longest Uncommon Subsequence I](./Algorithms/521.Longest-Uncommon-Subsequence-I.md)
 * [522. Longest Uncommon Subsequence II](./Algorithms/522.Longest-Uncommon-Subsequence-II.md)
 * [557. Reverse Words in a String III](./Algorithms/557.Reverse-Words-in-a-String-III.md)
@@ -97,6 +98,7 @@ personal leetcode solving record
 * [268. Missing Number](./Algorithms/268.Missing-Number.md)
 * [347. Top K Frequent Elements](./Algorithms/347.Top-K-Frequent-Elements.md)
 * [349. Intersection of Two Arrays](./Algorithms/349.Intersection-of-Two-Arrays.md)
+* [424. Longest Repeating Character Replacement](./Algorithms/424.Longest-Repeating-Character-Replacement.md)
 * [448. Find All Numbers Disappeared in an Array](./Algorithms\448.Find-All-Numbers-Disappeared-in-an-Array.md)
 * [697. Degree of an Array](./Algorithms/697.Degree-of-an-Array.md)
 * [1512. Number of Good Pairs](./Algorithms/1512.Number-of-Good-Pairs.md)
@@ -355,6 +357,7 @@ personal leetcode solving record
 
 ### Sliding Window
 * [3. Longest Substring Without Repeating Characters](./Algorithms/3.Longest-Substring-Without-Repeating-Characters.md)
+* [424. Longest Repeating Character Replacement](./Algorithms/424.Longest-Repeating-Character-Replacement.md)
 * [718. Maximum Length of Repeated Subarray](./Algorithms\718.Maximum-Length-of-Repeated-Subarray.md)
 
 ### Rolling Hash
