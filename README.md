@@ -65,6 +65,7 @@ personal leetcode solving record
 * [17. Letter Combinations of a PhoneNumber](./Algorithms/17.Letter-Combinations-of-a-Phone-Number.md)
 * [49. Group Anagrams](./Algorithms/49.Group-Anagrams.md)
 * [67. Add Binary](./Algorithms/67.Add-Binary.md)
+* [76. Minimum Window Substring](./Algorithms/76.Minimum-Window-Substring.md)
 * [91. Decode Ways](./Algorithms/91.Decode-Ways.md)
 * [125. Valid Palindrome](./Algorithms/125.Valid-Palindrome.md)
 * [139. Word Break](./Algorithms/139.Word-Break.md)
@@ -83,6 +84,7 @@ personal leetcode solving record
 * [1. Two Sum](./Algorithms/1.Two-Sum.md)
 * [3. Longest Substring Without Repeating Characters](./Algorithms/3.Longest-Substring-Without-Repeating-Characters.md)
 * [49. Group Anagrams](./Algorithms/49.Group-Anagrams.md)
+* [76. Minimum Window Substring](./Algorithms/76.Minimum-Window-Substring.md)
 * [105. Construct Binary Tree from Preorder and Inorder Traversal](./Algorithms/105.Construct-Binary-Tree-from-Preorder-and-Inorde.md)
 * [128. Longest Consecutive Sequence](./Algorithms/128.Longest-Consecutive-Sequence.md)
 * [133. Clone Graph](./Algorithms/133.Clone-Graph.md)
@@ -357,6 +359,7 @@ personal leetcode solving record
 
 ### Sliding Window
 * [3. Longest Substring Without Repeating Characters](./Algorithms/3.Longest-Substring-Without-Repeating-Characters.md)
+* [76. Minimum Window Substring](./Algorithms/76.Minimum-Window-Substring.md)
 * [424. Longest Repeating Character Replacement](./Algorithms/424.Longest-Repeating-Character-Replacement.md)
 * [718. Maximum Length of Repeated Subarray](./Algorithms\718.Maximum-Length-of-Repeated-Subarray.md)
 
