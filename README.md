@@ -69,6 +69,7 @@ personal leetcode solving record
 * [91. Decode Ways](./Algorithms/91.Decode-Ways.md)
 * [125. Valid Palindrome](./Algorithms/125.Valid-Palindrome.md)
 * [139. Word Break](./Algorithms/139.Word-Break.md)
+* [208. Implement Trie (Prefix Tree)](./Algorithms/208.Implement-Trie(Prefix-Tree).md)
 * [242. Valid Anagram](./Algorithms/242.Valid-Anagram.md)
 * [297. Serialize and Deserialize Binary Tree](./Algorithms/297.Serialize-and-Deserialize-Binary-Tree.md)
 * [344. Reverse String](./Algorithms/344.Reverse-String.md)
@@ -95,6 +96,7 @@ personal leetcode solving record
 * [169. Majority Element](./Algorithms/169.Majority-Element.md)
 * [202. Happy Number](./Algorithms/202.Happy-Number.md)
 * [204. Count Primes](./Algorithms/204.Count-Primes.md)
+* [208. Implement Trie (Prefix Tree)](./Algorithms/208.Implement-Trie(Prefix-Tree).md)
 * [217. Contains Duplicate](./Algorithms/217.Contains-Duplicate.md)
 * [242. Valid Anagram](./Algorithms/242.Valid-Anagram.md)
 * [268. Missing Number](./Algorithms/268.Missing-Number.md)
@@ -390,6 +392,9 @@ personal leetcode solving record
 * [200. Number of Islands](./Algorithms/200.Numberof-Islands.md)
 * [417. Pacific Atlantic Water Flow](./Algorithms/417.Pacific-Atlantic-Water-Flow.md)
 
+### Trie
+* [208. Implement Trie (Prefix Tree)](./Algorithms/208.Implement-Trie(Prefix-Tree).md)
+
 ### Quickselect
 * [347. Top K Frequent Elements](./Algorithms/347.Top-K-Frequent-Elements.md)
 
@@ -400,6 +405,7 @@ personal leetcode solving record
 * [572. Subtree of Another Tree](./Algorithms/572.Subtree-of-Another-Tree.md)
 
 ### Design
+* [208. Implement Trie (Prefix Tree)](./Algorithms/208.Implement-Trie(Prefix-Tree).md)
 * [295. Find Median from Data Stream](./Algorithms/295.Find-Median-from-Data-Stream.md)
 * [297. Serialize and Deserialize Binary Tree](./Algorithms/297.Serialize-and-Deserialize-Binary-Tree.md)
 
