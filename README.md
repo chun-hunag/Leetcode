@@ -70,6 +70,7 @@ personal leetcode solving record
 * [125. Valid Palindrome](./Algorithms/125.Valid-Palindrome.md)
 * [139. Word Break](./Algorithms/139.Word-Break.md)
 * [208. Implement Trie (Prefix Tree)](./Algorithms/208.Implement-Trie(Prefix-Tree).md)
+* [211. Design Add and Search Words Data Structure](./Algorithms/211.Design-Add-and-Search-Words-Data-Structure.md)
 * [242. Valid Anagram](./Algorithms/242.Valid-Anagram.md)
 * [297. Serialize and Deserialize Binary Tree](./Algorithms/297.Serialize-and-Deserialize-Binary-Tree.md)
 * [344. Reverse String](./Algorithms/344.Reverse-String.md)
@@ -259,6 +260,7 @@ personal leetcode solving record
 * [178. Graph Valid Tree](./Algorithms/178.%20Graph-Valid-Tree.md)
 * [200. Number of Islands](./Algorithms/200.Numberof-Islands.md)
 * [207. Course Schedule](./Algorithms/207.Course-Schedule.md)
+* [211. Design Add and Search Words Data Structure](./Algorithms/211.Design-Add-and-Search-Words-Data-Structure.md)
 * [226. Invert Binary Tree](./Algorithms/226.Invert-Binary-Tree.md)
 * [230. Kth Smallest Element in a BST](./Algorithms/230.Kth-Smallest-Element-in-a-BST.md)
 * [235. Lowest Common Ancestor of a Binary Search Tree](./Algorithms/235.Lowest-Common-Ancestor-of-a-Binary-Search-Tree.md)
@@ -373,6 +375,8 @@ personal leetcode solving record
 
 ### Trie
 * [139. Word Break](./Algorithms/139.Word-Break.md)
+* [208. Implement Trie (Prefix Tree)](./Algorithms/208.Implement-Trie(Prefix-Tree).md)
+* [211. Design Add and Search Words Data Structure](./Algorithms/211.Design-Add-and-Search-Words-Data-Structure.md)
 
 ### Memoization
 * [139. Word Break](./Algorithms/139.Word-Break.md)
@@ -392,9 +396,6 @@ personal leetcode solving record
 * [200. Number of Islands](./Algorithms/200.Numberof-Islands.md)
 * [417. Pacific Atlantic Water Flow](./Algorithms/417.Pacific-Atlantic-Water-Flow.md)
 
-### Trie
-* [208. Implement Trie (Prefix Tree)](./Algorithms/208.Implement-Trie(Prefix-Tree).md)
-
 ### Quickselect
 * [347. Top K Frequent Elements](./Algorithms/347.Top-K-Frequent-Elements.md)
 
@@ -406,6 +407,7 @@ personal leetcode solving record
 
 ### Design
 * [208. Implement Trie (Prefix Tree)](./Algorithms/208.Implement-Trie(Prefix-Tree).md)
+* [211. Design Add and Search Words Data Structure](./Algorithms/211.Design-Add-and-Search-Words-Data-Structure.md)
 * [295. Find Median from Data Stream](./Algorithms/295.Find-Median-from-Data-Stream.md)
 * [297. Serialize and Deserialize Binary Tree](./Algorithms/297.Serialize-and-Deserialize-Binary-Tree.md)
 
