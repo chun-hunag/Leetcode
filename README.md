@@ -32,6 +32,7 @@ personal leetcode solving record
 * [169. Majority Element](./Algorithms/169.Majority-Element.md)
 * [198. House Robber](./Algorithms/198.House-Robber.md)
 * [200. Number of Islands](./Algorithms/200.Numberof-Islands.md)
+* [212. Word Search II](./Algorithms/212.Word-Search-II.md)
 * [213. House Robber II](./Algorithms/213.House-Robber-II.md)
 * [217. Contains Duplicate](./Algorithms/217.Contains-Duplicate.md)
 * [238. Product of Array Except Self](./Algorithms/238.Product-of-Array-Except-Self.md)
@@ -71,6 +72,7 @@ personal leetcode solving record
 * [139. Word Break](./Algorithms/139.Word-Break.md)
 * [208. Implement Trie (Prefix Tree)](./Algorithms/208.Implement-Trie(Prefix-Tree).md)
 * [211. Design Add and Search Words Data Structure](./Algorithms/211.Design-Add-and-Search-Words-Data-Structure.md)
+* [212. Word Search II](./Algorithms/212.Word-Search-II.md)
 * [242. Valid Anagram](./Algorithms/242.Valid-Anagram.md)
 * [297. Serialize and Deserialize Binary Tree](./Algorithms/297.Serialize-and-Deserialize-Binary-Tree.md)
 * [344. Reverse String](./Algorithms/344.Reverse-String.md)
@@ -248,6 +250,7 @@ personal leetcode solving record
 
 ### Backtracking
 * [17. Letter Combinations of a PhoneNumber](./Algorithms/17.Letter-Combinations-of-a-Phone-Number.md)
+* [212. Word Search II](./Algorithms/212.Word-Search-II.md)
 
 ### Depth-first Search
 * [17. Letter Combinations of a PhoneNumber](./Algorithms/17.Letter-Combinations-of-a-Phone-Number.md)
@@ -377,6 +380,7 @@ personal leetcode solving record
 * [139. Word Break](./Algorithms/139.Word-Break.md)
 * [208. Implement Trie (Prefix Tree)](./Algorithms/208.Implement-Trie(Prefix-Tree).md)
 * [211. Design Add and Search Words Data Structure](./Algorithms/211.Design-Add-and-Search-Words-Data-Structure.md)
+* [212. Word Search II](./Algorithms/212.Word-Search-II.md)
 
 ### Memoization
 * [139. Word Break](./Algorithms/139.Word-Break.md)
@@ -388,6 +392,7 @@ personal leetcode solving record
 * [128. Longest Consecutive Sequence](./Algorithms/128.Longest-Consecutive-Sequence.md)
 * [178. Graph Valid Tree](./Algorithms/178.%20Graph-Valid-Tree.md)
 * [200. Number of Islands](./Algorithms/200.Numberof-Islands.md)
+* [212. Word Search II](./Algorithms/212.Word-Search-II.md)
 * [323. Number of Connected Components in an Undirected Graph](./Algorithms/323.Number-of-Connected-Components-in-an-Undirecte.md)
 
 ### Matrix
