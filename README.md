@@ -14,6 +14,7 @@ personal leetcode solving record
 * [27. Remove Element](./Algorithms/27.Remove-Element.md)
 * [33. Search in Rotated Sorted Array](./Algorithms/33.Search-in-Rotated-Sorted-Array.md)
 * [35. Search Insert Position](./Algorithms/35.Search-Insert-Position.md)
+* [39. Combination Sum](./Algorithms/39.Combination-Sum.md)
 * [48. Rotate Image](./Algorithms/48.Rotate-Image.md)
 * [49. Group Anagrams](./Algorithms/49.Group-Anagrams.md)
 * [53. Maximum Subarray](./Algorithms/53.Maximum-Subarray.md)
@@ -250,6 +251,7 @@ personal leetcode solving record
 
 ### Backtracking
 * [17. Letter Combinations of a PhoneNumber](./Algorithms/17.Letter-Combinations-of-a-Phone-Number.md)
+* [39. Combination Sum](./Algorithms/39.Combination-Sum.md)
 * [212. Word Search II](./Algorithms/212.Word-Search-II.md)
 
 ### Depth-first Search
