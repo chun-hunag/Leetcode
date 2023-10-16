@@ -21,6 +21,7 @@ personal leetcode solving record
 * [54. Spiral Matrix](./Algorithms/54.Spiral-Matrix.md)
 * [55. Jump Game](./Algorithms/55.Jump-Game.md)
 * [66. Plus One](./Algorithms/66.Plus-One.md)
+* [79. Word Search](./Algorithms/79.Word-Search.md)
 * [88. Merge Sorted Array](./Algorithms/88.Merge-Sorted-Array.md)
 * [105. Construct Binary Tree from Preorder and Inorder Traversal](./Algorithms/105.Construct-Binary-Tree-from-Preorder-and-Inorde.md)
 * [118. Pascal's Triangle](./Algorithms/118.Pascal's-Triangle.md)
@@ -252,6 +253,7 @@ personal leetcode solving record
 ### Backtracking
 * [17. Letter Combinations of a PhoneNumber](./Algorithms/17.Letter-Combinations-of-a-Phone-Number.md)
 * [39. Combination Sum](./Algorithms/39.Combination-Sum.md)
+* [79. Word Search](./Algorithms/79.Word-Search.md)
 * [212. Word Search II](./Algorithms/212.Word-Search-II.md)
 
 ### Depth-first Search
@@ -400,6 +402,7 @@ personal leetcode solving record
 ### Matrix
 * [48. Rotate Image](./Algorithms/48.Rotate-Image.md)
 * [54. Spiral Matrix](./Algorithms/54.Spiral-Matrix.md)
+* [79. Word Search](./Algorithms/79.Word-Search.md)
 * [200. Number of Islands](./Algorithms/200.Numberof-Islands.md)
 * [417. Pacific Atlantic Water Flow](./Algorithms/417.Pacific-Atlantic-Water-Flow.md)
 
