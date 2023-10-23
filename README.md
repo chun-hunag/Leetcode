@@ -20,6 +20,7 @@ personal leetcode solving record
 * [53. Maximum Subarray](./Algorithms/53.Maximum-Subarray.md)
 * [54. Spiral Matrix](./Algorithms/54.Spiral-Matrix.md)
 * [55. Jump Game](./Algorithms/55.Jump-Game.md)
+* [57. Insert Interval](./Algorithms/57.Insert-Interval.md)
 * [66. Plus One](./Algorithms/66.Plus-One.md)
 * [79. Word Search](./Algorithms/79.Word-Search.md)
 * [88. Merge Sorted Array](./Algorithms/88.Merge-Sorted-Array.md)
