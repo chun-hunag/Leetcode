@@ -48,6 +48,7 @@ personal leetcode solving record
 * [347. Top K Frequent Elements](./Algorithms/347.Top-K-Frequent-Elements.md)
 * [377. Combination Sum IV](./Algorithms/377.Combination-Sum-IV.md)
 * [417. Pacific Atlantic Water Flow](./Algorithms/417.Pacific-Atlantic-Water-Flow.md)
+* [435. Non-overlapping Intervals](./Algorithms/435.Non-overlapping-Intervals.md)
 * [448. Find All Numbers Disappeared in an Array](./Algorithms\448.Find-All-Numbers-Disappeared-in-an-Array.md)
 * [475. Heaters](./Algorithms/475.Heaters.md)
 * [561. Array Partition I](./Algorithms/561.Array-Partition-I.md)
@@ -235,10 +236,12 @@ personal leetcode solving record
 * [169. Majority Element](./Algorithms/169.Majority-Element.md)
 * [217. Contains Duplicate](./Algorithms/217.Contains-Duplicate.md)
 * [242. Valid Anagram](./Algorithms/242.Valid-Anagram.md)
+* [252. Meeting Rooms](./Algorithms/252.Meeting-Rooms.md)
 * [268. Missing Number](./Algorithms/268.Missing-Number.md)
 * [295. Find Median from Data Stream](./Algorithms/295.Find-Median-from-Data-Stream.md)
 * [347. Top K Frequent Elements](./Algorithms/347.Top-K-Frequent-Elements.md)
 * [349. Intersection of Two Arrays](./Algorithms/349.Intersection-of-Two-Arrays.md)
+* [435. Non-overlapping Intervals](./Algorithms/435.Non-overlapping-Intervals.md)
 * [475. Heaters](./Algorithms/475.Heaters.md)
 * [561. Array Partition I](./Algorithms/561.Array-Partition-I.md)
 * [628. Maximum Product of Three Numbers](./Algorithms/628.Maximum-Product-of-Three-Numbers.md)
@@ -339,6 +342,7 @@ personal leetcode solving record
 * [322. Coin Change](./Algorithms/322.Coin-Change.md)
 * [338. Counting Bits](./Algorithms/338.Counting-Bits.md)
 * [377. Combination Sum IV](./Algorithms/377.Combination-Sum-IV.md)
+* [435. Non-overlapping Intervals](./Algorithms/435.Non-overlapping-Intervals.md)
 * [718. Maximum Length of Repeated Subarray](./Algorithms\718.Maximum-Length-of-Repeated-Subarray.md)
 * [1143. Longest Common Subsequence](./Algorithms/1143.Longest-Common-Subsequence.md)
 
@@ -346,6 +350,7 @@ personal leetcode solving record
 * [11. Container With Most Water](./Algorithms/11.Container-With-Most-Water.md)
 * [55. Jump Game](./Algorithms/55.Jump-Game.md)
 * [122. Best Time to Buy and Sell Stock II](./Algorithms/122.Best-Time-to-Buy-and-Sell-Stock-II.md)
+* [435. Non-overlapping Intervals](./Algorithms/435.Non-overlapping-Intervals.md)
 * [561. Array Partition I](./Algorithms/561.Array-Partition-I.md)
 
 ### Graph
