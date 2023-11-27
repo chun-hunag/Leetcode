@@ -23,6 +23,7 @@ personal leetcode solving record
 * [56. Merge Intervals](./Algorithms/56.Merge-Intervals.md)
 * [57. Insert Interval](./Algorithms/57.Insert-Interval.md)
 * [66. Plus One](./Algorithms/66.Plus-One.md)
+* [73. Set Matrix Zeroes](./Algorithms/73.Set-Matrix-Zeroes.md)
 * [79. Word Search](./Algorithms/79.Word-Search.md)
 * [88. Merge Sorted Array](./Algorithms/88.Merge-Sorted-Array.md)
 * [105. Construct Binary Tree from Preorder and Inorder Traversal](./Algorithms/105.Construct-Binary-Tree-from-Preorder-and-Inorde.md)
@@ -93,6 +94,7 @@ personal leetcode solving record
 * [1. Two Sum](./Algorithms/1.Two-Sum.md)
 * [3. Longest Substring Without Repeating Characters](./Algorithms/3.Longest-Substring-Without-Repeating-Characters.md)
 * [49. Group Anagrams](./Algorithms/49.Group-Anagrams.md)
+* [73. Set Matrix Zeroes](./Algorithms/73.Set-Matrix-Zeroes.md)
 * [76. Minimum Window Substring](./Algorithms/76.Minimum-Window-Substring.md)
 * [105. Construct Binary Tree from Preorder and Inorder Traversal](./Algorithms/105.Construct-Binary-Tree-from-Preorder-and-Inorde.md)
 * [128. Longest Consecutive Sequence](./Algorithms/128.Longest-Consecutive-Sequence.md)
@@ -413,6 +415,7 @@ personal leetcode solving record
 ### Matrix
 * [48. Rotate Image](./Algorithms/48.Rotate-Image.md)
 * [54. Spiral Matrix](./Algorithms/54.Spiral-Matrix.md)
+* [73. Set Matrix Zeroes](./Algorithms/73.Set-Matrix-Zeroes.md)
 * [79. Word Search](./Algorithms/79.Word-Search.md)
 * [200. Number of Islands](./Algorithms/200.Numberof-Islands.md)
 * [417. Pacific Atlantic Water Flow](./Algorithms/417.Pacific-Atlantic-Water-Flow.md)
