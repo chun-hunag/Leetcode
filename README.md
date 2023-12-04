@@ -255,6 +255,7 @@ personal leetcode solving record
 
 ### Topologic Sort
 * [207. Course Schedule](./Algorithms/207.Course-Schedule.md)
+* [269. Alien Dictionary](./Algorithms/269.Alien-Dictionary.md)
 
 ### Bucket Sort
 * [347. Top K Frequent Elements](./Algorithms/347.Top-K-Frequent-Elements.md)
@@ -297,6 +298,7 @@ personal leetcode solving record
 * [207. Course Schedule](./Algorithms/207.Course-Schedule.md)
 * [226. Invert Binary Tree](./Algorithms/226.Invert-Binary-Tree.md)
 * [235. Lowest Common Ancestor of a Binary Search Tree](./Algorithms/235.Lowest-Common-Ancestor-of-a-Binary-Search-Tree.md)
+* [269. Alien Dictionary](./Algorithms/269.Alien-Dictionary.md)
 * [297. Serialize and Deserialize Binary Tree](./Algorithms/297.Serialize-and-Deserialize-Binary-Tree.md)
 * [322. Coin Change](./Algorithms/322.Coin-Change.md)
 * [323. Number of Connected Components in an Undirected Graph](./Algorithms/323.Number-of-Connected-Components-in-an-Undirecte.md)
