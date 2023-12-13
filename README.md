@@ -87,6 +87,7 @@ personal leetcode solving record
 * [521. Longest Uncommon Subsequence I](./Algorithms/521.Longest-Uncommon-Subsequence-I.md)
 * [522. Longest Uncommon Subsequence II](./Algorithms/522.Longest-Uncommon-Subsequence-II.md)
 * [557. Reverse Words in a String III](./Algorithms/557.Reverse-Words-in-a-String-III.md)
+* [647. Palindromic Substrings](./Algorithms/647.Palindromic-Substrings.md)
 * [659. Encode and Decode Strings](./Algorithms/659.Encode-and-Decode-Strings.md)
 * [1143. Longest Common Subsequence](./Algorithms/1143.Longest-Common-Subsequence.md)
 
@@ -348,6 +349,7 @@ personal leetcode solving record
 * [338. Counting Bits](./Algorithms/338.Counting-Bits.md)
 * [377. Combination Sum IV](./Algorithms/377.Combination-Sum-IV.md)
 * [435. Non-overlapping Intervals](./Algorithms/435.Non-overlapping-Intervals.md)
+* [647. Palindromic Substrings](./Algorithms/647.Palindromic-Substrings.md)
 * [718. Maximum Length of Repeated Subarray](./Algorithms\718.Maximum-Length-of-Repeated-Subarray.md)
 * [1143. Longest Common Subsequence](./Algorithms/1143.Longest-Common-Subsequence.md)
 
