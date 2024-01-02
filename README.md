@@ -352,6 +352,7 @@ personal leetcode solving record
 * [435. Non-overlapping Intervals](./Algorithms/435.Non-overlapping-Intervals.md)
 * [647. Palindromic Substrings](./Algorithms/647.Palindromic-Substrings.md)
 * [718. Maximum Length of Repeated Subarray](./Algorithms\718.Maximum-Length-of-Repeated-Subarray.md)
+* [1155. Number of Dice Rolls With Target Sum](./Algorithms/1155.Number-of-Dice-Rolls-With-Target-Sum.md)
 * [1143. Longest Common Subsequence](./Algorithms/1143.Longest-Common-Subsequence.md)
 
 ### Greedy
