@@ -14,6 +14,7 @@ personal leetcode solving record
 * [27. Remove Element](./Algorithms/27.Remove-Element.md)
 * [33. Search in Rotated Sorted Array](./Algorithms/33.Search-in-Rotated-Sorted-Array.md)
 * [35. Search Insert Position](./Algorithms/35.Search-Insert-Position.md)
+* [36. Valid Sudoku](./Algorithms/36.Valid-Sudoku.md)
 * [39. Combination Sum](./Algorithms/39.Combination-Sum.md)
 * [48. Rotate Image](./Algorithms/48.Rotate-Image.md)
 * [49. Group Anagrams](./Algorithms/49.Group-Anagrams.md)
@@ -95,6 +96,7 @@ personal leetcode solving record
 ### Hash Table
 * [1. Two Sum](./Algorithms/1.Two-Sum.md)
 * [3. Longest Substring Without Repeating Characters](./Algorithms/3.Longest-Substring-Without-Repeating-Characters.md)
+* [36. Valid Sudoku](./Algorithms/36.Valid-Sudoku.md)
 * [49. Group Anagrams](./Algorithms/49.Group-Anagrams.md)
 * [73. Set Matrix Zeroes](./Algorithms/73.Set-Matrix-Zeroes.md)
 * [76. Minimum Window Substring](./Algorithms/76.Minimum-Window-Substring.md)
@@ -419,6 +421,7 @@ personal leetcode solving record
 * [323. Number of Connected Components in an Undirected Graph](./Algorithms/323.Number-of-Connected-Components-in-an-Undirecte.md)
 
 ### Matrix
+* [36. Valid Sudoku](./Algorithms/36.Valid-Sudoku.md)
 * [48. Rotate Image](./Algorithms/48.Rotate-Image.md)
 * [54. Spiral Matrix](./Algorithms/54.Spiral-Matrix.md)
 * [73. Set Matrix Zeroes](./Algorithms/73.Set-Matrix-Zeroes.md)
