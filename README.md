@@ -16,6 +16,7 @@ personal leetcode solving record
 * [35. Search Insert Position](./Algorithms/35.Search-Insert-Position.md)
 * [36. Valid Sudoku](./Algorithms/36.Valid-Sudoku.md)
 * [39. Combination Sum](./Algorithms/39.Combination-Sum.md)
+* [42. Trapping Rain Water](./Algorithms/42.Trapping-Rain-Water.md)
 * [48. Rotate Image](./Algorithms/48.Rotate-Image.md)
 * [49. Group Anagrams](./Algorithms/49.Group-Anagrams.md)
 * [53. Maximum Subarray](./Algorithms/53.Maximum-Subarray.md)
@@ -190,6 +191,7 @@ personal leetcode solving record
 * [19. Remove Nth Node From End of List](./Algorithms/19.Remove-Nth-Node-From-End-of-List.md)
 * [26. Remove Duplicates from Sorted Array](./Algorithms/26.Remove-Duplicates-from-Sorted-Array.md)
 * [27. Remove Element](./Algorithms/27.Remove-Element.md)
+* [42. Trapping Rain Water](./Algorithms/42.Trapping-Rain-Water.md)
 * [86. Partition List](./Algorithms/86.Partition-List.md)
 * [88. Merge Sorted Array](./Algorithms/88.Merge-Sorted-Array.md)
 * [125. Valid Palindrome](./Algorithms/125.Valid-Palindrome.md)
@@ -340,6 +342,7 @@ personal leetcode solving record
 ### Dynamic Programming
 * [5. Longest Palindromic Substring](./Algorithms/5.Longest-Palindromic-Substring.md)
 * [10. Regular Expression Matching](./Algorithms/10.Regular-Expression-Matching.md)
+* [42. Trapping Rain Water](./Algorithms/42.Trapping-Rain-Water.md)
 * [53. Maximum Subarray](./Algorithms/53.Maximum-Subarray.md)
 * [55. Jump Game](./Algorithms/55.Jump-Game.md)
 * [62. Unique Paths](./Algorithms/62.Unique-Paths.md)
@@ -377,8 +380,12 @@ personal leetcode solving record
 
 ### Stack
 * [15. 3Sum](./Algorithms/15.3Sum.md)
+* [42. Trapping Rain Water](./Algorithms/42.Trapping-Rain-Water.md)
 * [143. Reorder List](./Algorithms/143.Reorder-List.md)
 * [234. Palindrome Linked List](./Algorithms/234.Palindrome-Linked-List.md)
+
+### Monotonic Stack
+* [42. Trapping Rain Water](./Algorithms/42.Trapping-Rain-Water.md)
 
 ### Heap
 * [23. Merge k Sorted Lists](./Algorithms/23.Merge-k-Sorted-Lists.md)
