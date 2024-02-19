@@ -90,6 +90,7 @@ personal leetcode solving record
 * [521. Longest Uncommon Subsequence I](./Algorithms/521.Longest-Uncommon-Subsequence-I.md)
 * [522. Longest Uncommon Subsequence II](./Algorithms/522.Longest-Uncommon-Subsequence-II.md)
 * [557. Reverse Words in a String III](./Algorithms/557.Reverse-Words-in-a-String-III.md)
+* [567. Permutation in String](./Algorithms/567.Permutation-in-String.md)
 * [647. Palindromic Substrings](./Algorithms/647.Palindromic-Substrings.md)
 * [659. Encode and Decode Strings](./Algorithms/659.Encode-and-Decode-Strings.md)
 * [1143. Longest Common Subsequence](./Algorithms/1143.Longest-Common-Subsequence.md)
@@ -119,6 +120,7 @@ personal leetcode solving record
 * [349. Intersection of Two Arrays](./Algorithms/349.Intersection-of-Two-Arrays.md)
 * [424. Longest Repeating Character Replacement](./Algorithms/424.Longest-Repeating-Character-Replacement.md)
 * [448. Find All Numbers Disappeared in an Array](./Algorithms\448.Find-All-Numbers-Disappeared-in-an-Array.md)
+* [567. Permutation in String](./Algorithms/567.Permutation-in-String.md)
 * [697. Degree of an Array](./Algorithms/697.Degree-of-an-Array.md)
 * [1512. Number of Good Pairs](./Algorithms/1512.Number-of-Good-Pairs.md)
 
@@ -205,6 +207,7 @@ personal leetcode solving record
 * [295. Find Median from Data Stream](./Algorithms/295.Find-Median-from-Data-Stream.md)
 * [344. Reverse String](./Algorithms/344.Reverse-String.md)
 * [349. Intersection of Two Arrays](./Algorithms/349.Intersection-of-Two-Arrays.md)
+* [567. Permutation in String](./Algorithms/567.Permutation-in-String.md)
 
 ### Math
 * [2. Add Two Numbers](./Algorithms/2.Add-Two-Numbers.md)
@@ -404,6 +407,7 @@ personal leetcode solving record
 * [3. Longest Substring Without Repeating Characters](./Algorithms/3.Longest-Substring-Without-Repeating-Characters.md)
 * [76. Minimum Window Substring](./Algorithms/76.Minimum-Window-Substring.md)
 * [424. Longest Repeating Character Replacement](./Algorithms/424.Longest-Repeating-Character-Replacement.md)
+* [567. Permutation in String](./Algorithms/567.Permutation-in-String.md)
 * [718. Maximum Length of Repeated Subarray](./Algorithms\718.Maximum-Length-of-Repeated-Subarray.md)
 
 ### Rolling Hash
