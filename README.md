@@ -43,6 +43,7 @@ personal leetcode solving record
 * [213. House Robber II](./Algorithms/213.House-Robber-II.md)
 * [217. Contains Duplicate](./Algorithms/217.Contains-Duplicate.md)
 * [238. Product of Array Except Self](./Algorithms/238.Product-of-Array-Except-Self.md)
+* [239. Sliding Window Maximum](./Algorithms/239.Sliding-Window-Maximum.md)
 * [268. Missing Number](./Algorithms/268.Missing-Number.md)
 * [283. Move Zeroes](./Algorithms/283.Move-Zeroes.md)
 * [287. Find the Duplicate Number](./Algorithms/287.Find-the-Duplicate-Number.md)
@@ -381,6 +382,12 @@ personal leetcode solving record
 * [207. Course Schedule](./Algorithms/207.Course-Schedule.md)
 * [323. Number of Connected Components in an Undirected Graph](./Algorithms/323.Number-of-Connected-Components-in-an-Undirecte.md)
 
+### Queue
+* [239. Sliding Window Maximum](./Algorithms/239.Sliding-Window-Maximum.md)
+
+### Monotonic Queue
+* [239. Sliding Window Maximum](./Algorithms/239.Sliding-Window-Maximum.md)
+
 ### Stack
 * [15. 3Sum](./Algorithms/15.3Sum.md)
 * [42. Trapping Rain Water](./Algorithms/42.Trapping-Rain-Water.md)
@@ -392,6 +399,7 @@ personal leetcode solving record
 
 ### Heap
 * [23. Merge k Sorted Lists](./Algorithms/23.Merge-k-Sorted-Lists.md)
+* [239. Sliding Window Maximum](./Algorithms/239.Sliding-Window-Maximum.md)
 * [253. Meeting Rooms II](./Algorithms/253.Meeting-Rooms-II.md)
 * [295. Find Median from Data Stream](./Algorithms/295.Find-Median-from-Data-Stream.md)
 * [347. Top K Frequent Elements](./Algorithms/347.Top-K-Frequent-Elements.md)
@@ -406,6 +414,7 @@ personal leetcode solving record
 ### Sliding Window
 * [3. Longest Substring Without Repeating Characters](./Algorithms/3.Longest-Substring-Without-Repeating-Characters.md)
 * [76. Minimum Window Substring](./Algorithms/76.Minimum-Window-Substring.md)
+* [239. Sliding Window Maximum](./Algorithms/239.Sliding-Window-Maximum.md)
 * [424. Longest Repeating Character Replacement](./Algorithms/424.Longest-Repeating-Character-Replacement.md)
 * [567. Permutation in String](./Algorithms/567.Permutation-in-String.md)
 * [718. Maximum Length of Repeated Subarray](./Algorithms\718.Maximum-Length-of-Repeated-Subarray.md)
