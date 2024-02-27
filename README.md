@@ -62,6 +62,7 @@ personal leetcode solving record
 * [717. 1-bit and 2-bit Characters](./Algorithms/717.1-bit-and-2-bit-Characters.md)
 * [718. Maximum Length of Repeated Subarray](./Algorithms\718.Maximum-Length-of-Repeated-Subarray.md)
 * [747. Largest Number At Least Twice of Others](./Algorithms/747.Largest-Number-At-Least-Twice-of-Others.md)
+* [918. Maximum Sum Circular Subarray](./Algorithms/918.Maximum-Sum-Circular-Subarray.md)
 * [1287. Element Appearing More Than 25% In Sorted Array](./Algorithms/1287.Element-Appearing-More-Than-25%25-In-Sorted-Arr.md)
 * [1512. Number of Good Pairs](./Algorithms/1512.Number-of-Good-Pairs.md)
 
@@ -342,6 +343,7 @@ personal leetcode solving record
 * [191. Number of 1 Bits](./Algorithms/191.Number-of-1-Bits.md)
 * [347. Top K Frequent Elements](./Algorithms/347.Top-K-Frequent-Elements.md)
 * [372. Super Pow](./Algorithms/372.Super-Pow.md)
+* [918. Maximum Sum Circular Subarray](./Algorithms/918.Maximum-Sum-Circular-Subarray.md)
 
 ### Dynamic Programming
 * [5. Longest Palindromic Substring](./Algorithms/5.Longest-Palindromic-Substring.md)
@@ -365,6 +367,7 @@ personal leetcode solving record
 * [435. Non-overlapping Intervals](./Algorithms/435.Non-overlapping-Intervals.md)
 * [647. Palindromic Substrings](./Algorithms/647.Palindromic-Substrings.md)
 * [718. Maximum Length of Repeated Subarray](./Algorithms\718.Maximum-Length-of-Repeated-Subarray.md)
+* [918. Maximum Sum Circular Subarray](./Algorithms/918.Maximum-Sum-Circular-Subarray.md)
 * [1155. Number of Dice Rolls With Target Sum](./Algorithms/1155.Number-of-Dice-Rolls-With-Target-Sum.md)
 * [1143. Longest Common Subsequence](./Algorithms/1143.Longest-Common-Subsequence.md)
 
@@ -384,9 +387,11 @@ personal leetcode solving record
 
 ### Queue
 * [239. Sliding Window Maximum](./Algorithms/239.Sliding-Window-Maximum.md)
+* [918. Maximum Sum Circular Subarray](./Algorithms/918.Maximum-Sum-Circular-Subarray.md)
 
 ### Monotonic Queue
 * [239. Sliding Window Maximum](./Algorithms/239.Sliding-Window-Maximum.md)
+* [918. Maximum Sum Circular Subarray](./Algorithms/918.Maximum-Sum-Circular-Subarray.md)
 
 ### Stack
 * [15. 3Sum](./Algorithms/15.3Sum.md)
