@@ -397,6 +397,7 @@ personal leetcode solving record
 * [15. 3Sum](./Algorithms/15.3Sum.md)
 * [42. Trapping Rain Water](./Algorithms/42.Trapping-Rain-Water.md)
 * [143. Reorder List](./Algorithms/143.Reorder-List.md)
+* [155. Min Stack](./Algorithms/155.Min-Stack.md)
 * [234. Palindrome Linked List](./Algorithms/234.Palindrome-Linked-List.md)
 
 ### Monotonic Stack
@@ -468,6 +469,7 @@ personal leetcode solving record
 * [572. Subtree of Another Tree](./Algorithms/572.Subtree-of-Another-Tree.md)
 
 ### Design
+* [155. Min Stack](./Algorithms/155.Min-Stack.md)
 * [208. Implement Trie (Prefix Tree)](./Algorithms/208.Implement-Trie(Prefix-Tree).md)
 * [211. Design Add and Search Words Data Structure](./Algorithms/211.Design-Add-and-Search-Words-Data-Structure.md)
 * [295. Find Median from Data Stream](./Algorithms/295.Find-Median-from-Data-Stream.md)
