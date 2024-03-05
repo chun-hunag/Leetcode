@@ -33,6 +33,7 @@ personal leetcode solving record
 * [121. Best Time to Buy and Sell Stock](./Algorithms/121.Best-Time-to-Buy-and-Sell-Stock.md)
 * [122. Best Time to Buy and Sell Stock II](./Algorithms/122.Best-Time-to-Buy-and-Sell-Stock-II.md)
 * [128. Longest Consecutive Sequence](./Algorithms/128.Longest-Consecutive-Sequence.md)
+* [150. Evaluate Reverse Polish Notation](./Algorithms/150.Evaluate-Reverse-Polish-Notation.md)
 * [152. Maximum Product Subarray](./Algorithms/152.Maximum-Product-Subarray.md)
 * [153. Find Minimum in Rotated Sorted Array](./Algorithms/153.Find-Minimum-in-Rotated-Sorted-Array.md)
 * [167. Two Sum II - Input array is sorted](./Algorithms/167.Two-Sum-II-Input-array-is-sorted.md)
@@ -223,6 +224,7 @@ personal leetcode solving record
 * [67. Add Binary](./Algorithms/67.Add-Binary.md)
 * [69. Sqrt(x)](./Algorithms/69.Sqrt(x).md)
 * [70. Climbing Stairs](./Algorithms/70.Climbing-Stairs.md)
+* [150. Evaluate Reverse Polish Notation](./Algorithms/150.Evaluate-Reverse-Polish-Notation.md)
 * [202. Happy Number](./Algorithms/202.Happy-Number.md)
 * [204. Count Primes](./Algorithms/204.Count-Primes.md)
 * [268. Missing Number](./Algorithms/268.Missing-Number.md)
@@ -397,6 +399,7 @@ personal leetcode solving record
 * [15. 3Sum](./Algorithms/15.3Sum.md)
 * [42. Trapping Rain Water](./Algorithms/42.Trapping-Rain-Water.md)
 * [143. Reorder List](./Algorithms/143.Reorder-List.md)
+* [150. Evaluate Reverse Polish Notation](./Algorithms/150.Evaluate-Reverse-Polish-Notation.md)
 * [155. Min Stack](./Algorithms/155.Min-Stack.md)
 * [234. Palindrome Linked List](./Algorithms/234.Palindrome-Linked-List.md)
 
