@@ -76,6 +76,7 @@ personal leetcode solving record
 * [14. Longest Common Prefix](./Algorithms/14.Longest-Common-Prefix.md)
 * [13. Roman to Integer](./Algorithms/13.Roman-to-Integer.md)
 * [17. Letter Combinations of a PhoneNumber](./Algorithms/17.Letter-Combinations-of-a-Phone-Number.md)
+* [22. Generate Parentheses](./Algorithms/22.Generate-Parentheses.md)
 * [49. Group Anagrams](./Algorithms/49.Group-Anagrams.md)
 * [67. Add Binary](./Algorithms/67.Add-Binary.md)
 * [76. Minimum Window Substring](./Algorithms/76.Minimum-Window-Substring.md)
@@ -277,6 +278,7 @@ personal leetcode solving record
 
 ### Backtracking
 * [17. Letter Combinations of a PhoneNumber](./Algorithms/17.Letter-Combinations-of-a-Phone-Number.md)
+* [22. Generate Parentheses](./Algorithms/22.Generate-Parentheses.md)
 * [39. Combination Sum](./Algorithms/39.Combination-Sum.md)
 * [79. Word Search](./Algorithms/79.Word-Search.md)
 * [212. Word Search II](./Algorithms/212.Word-Search-II.md)
@@ -350,6 +352,7 @@ personal leetcode solving record
 ### Dynamic Programming
 * [5. Longest Palindromic Substring](./Algorithms/5.Longest-Palindromic-Substring.md)
 * [10. Regular Expression Matching](./Algorithms/10.Regular-Expression-Matching.md)
+* [22. Generate Parentheses](./Algorithms/22.Generate-Parentheses.md)
 * [42. Trapping Rain Water](./Algorithms/42.Trapping-Rain-Water.md)
 * [53. Maximum Subarray](./Algorithms/53.Maximum-Subarray.md)
 * [55. Jump Game](./Algorithms/55.Jump-Game.md)
