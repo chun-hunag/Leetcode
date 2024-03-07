@@ -62,6 +62,7 @@ personal leetcode solving record
 * [697. Degree of an Array](./Algorithms/697.Degree-of-an-Array.md)
 * [717. 1-bit and 2-bit Characters](./Algorithms/717.1-bit-and-2-bit-Characters.md)
 * [718. Maximum Length of Repeated Subarray](./Algorithms\718.Maximum-Length-of-Repeated-Subarray.md)
+* [739. Daily Temperatures](./Algorithms/739.Daily-Temperatures.md)
 * [747. Largest Number At Least Twice of Others](./Algorithms/747.Largest-Number-At-Least-Twice-of-Others.md)
 * [918. Maximum Sum Circular Subarray](./Algorithms/918.Maximum-Sum-Circular-Subarray.md)
 * [1287. Element Appearing More Than 25% In Sorted Array](./Algorithms/1287.Element-Appearing-More-Than-25%25-In-Sorted-Arr.md)
@@ -405,9 +406,11 @@ personal leetcode solving record
 * [150. Evaluate Reverse Polish Notation](./Algorithms/150.Evaluate-Reverse-Polish-Notation.md)
 * [155. Min Stack](./Algorithms/155.Min-Stack.md)
 * [234. Palindrome Linked List](./Algorithms/234.Palindrome-Linked-List.md)
+* [739. Daily Temperatures](./Algorithms/739.Daily-Temperatures.md)
 
 ### Monotonic Stack
 * [42. Trapping Rain Water](./Algorithms/42.Trapping-Rain-Water.md)
+* [739. Daily Temperatures](./Algorithms/739.Daily-Temperatures.md)
 
 ### Heap
 * [23. Merge k Sorted Lists](./Algorithms/23.Merge-k-Sorted-Lists.md)
