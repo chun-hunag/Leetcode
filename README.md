@@ -27,6 +27,7 @@ personal leetcode solving record
 * [66. Plus One](./Algorithms/66.Plus-One.md)
 * [73. Set Matrix Zeroes](./Algorithms/73.Set-Matrix-Zeroes.md)
 * [79. Word Search](./Algorithms/79.Word-Search.md)
+* [84. Largest Rectangle in Histogram](./Algorithms/84.Largest-Rectangle-in-Histogram.md)
 * [88. Merge Sorted Array](./Algorithms/88.Merge-Sorted-Array.md)
 * [105. Construct Binary Tree from Preorder and Inorder Traversal](./Algorithms/105.Construct-Binary-Tree-from-Preorder-and-Inorde.md)
 * [118. Pascal's Triangle](./Algorithms/118.Pascal's-Triangle.md)
@@ -404,6 +405,7 @@ personal leetcode solving record
 ### Stack
 * [15. 3Sum](./Algorithms/15.3Sum.md)
 * [42. Trapping Rain Water](./Algorithms/42.Trapping-Rain-Water.md)
+* [84. Largest Rectangle in Histogram](./Algorithms/84.Largest-Rectangle-in-Histogram.md)
 * [143. Reorder List](./Algorithms/143.Reorder-List.md)
 * [150. Evaluate Reverse Polish Notation](./Algorithms/150.Evaluate-Reverse-Polish-Notation.md)
 * [155. Min Stack](./Algorithms/155.Min-Stack.md)
@@ -413,6 +415,7 @@ personal leetcode solving record
 
 ### Monotonic Stack
 * [42. Trapping Rain Water](./Algorithms/42.Trapping-Rain-Water.md)
+* [84. Largest Rectangle in Histogram](./Algorithms/84.Largest-Rectangle-in-Histogram.md)
 * [739. Daily Temperatures](./Algorithms/739.Daily-Temperatures.md)
 * [853. Car Fleet](./Algorithms/853.Car-Fleet.md)
 
