@@ -61,6 +61,7 @@ personal leetcode solving record
 * [628. Maximum Product of Three Numbers](./Algorithms/628.Maximum-Product-of-Three-Numbers.md)
 * [665. Non-decreasing Array](./Algorithms/665.Non-decreasing-Array.md)
 * [697. Degree of an Array](./Algorithms/697.Degree-of-an-Array.md)
+* [704. Binary Search](./Algorithms/704.Binary-Search.md)
 * [717. 1-bit and 2-bit Characters](./Algorithms/717.1-bit-and-2-bit-Characters.md)
 * [718. Maximum Length of Repeated Subarray](./Algorithms\718.Maximum-Length-of-Repeated-Subarray.md)
 * [739. Daily Temperatures](./Algorithms/739.Daily-Temperatures.md)
@@ -157,6 +158,7 @@ personal leetcode solving record
 * [235. Lowest Common Ancestor of a Binary Search Tree](./Algorithms/235.Lowest-Common-Ancestor-of-a-Binary-Search-Tree.md)
 * [297. Serialize and Deserialize Binary Tree](./Algorithms/297.Serialize-and-Deserialize-Binary-Tree.md)
 * [572. Subtree of Another Tree](./Algorithms/572.Subtree-of-Another-Tree.md)
+* [704. Binary Search](./Algorithms/704.Binary-Search.md)
 * [2385. Amount of Time for Binary Tree to Be Infected](./Algorithms/2385.Amount-of-Time-for-Binary-Tree-to-Be-Infected.md)
 
 ### Linked List
