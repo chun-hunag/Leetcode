@@ -26,6 +26,7 @@ personal leetcode solving record
 * [57. Insert Interval](./Algorithms/57.Insert-Interval.md)
 * [66. Plus One](./Algorithms/66.Plus-One.md)
 * [73. Set Matrix Zeroes](./Algorithms/73.Set-Matrix-Zeroes.md)
+* [74. Search a 2D Matrix](./Algorithms/74.Search-a-2D-Matrix.md)
 * [79. Word Search](./Algorithms/79.Word-Search.md)
 * [84. Largest Rectangle in Histogram](./Algorithms/84.Largest-Rectangle-in-Histogram.md)
 * [88. Merge Sorted Array](./Algorithms/88.Merge-Sorted-Array.md)
@@ -148,6 +149,7 @@ personal leetcode solving record
 * [2385. Amount of Time for Binary Tree to Be Infected](./Algorithms/2385.Amount-of-Time-for-Binary-Tree-to-Be-Infected.md)
 
 ### Binary Tree
+* [74. Search a 2D Matrix](./Algorithms/74.Search-a-2D-Matrix.md)
 * [98. Validate Binary Search Tree](./Algorithms/98.Validate%20Binary-Search-Tree.md)
 * [100. Same Tree](./Algorithms/100.Same-Tree.md)
 * [102. Binary Tree Level Order Traversal](./Algorithms/102.Binary-Tree-Level-Order-Traversal.md)
@@ -473,6 +475,7 @@ personal leetcode solving record
 * [48. Rotate Image](./Algorithms/48.Rotate-Image.md)
 * [54. Spiral Matrix](./Algorithms/54.Spiral-Matrix.md)
 * [73. Set Matrix Zeroes](./Algorithms/73.Set-Matrix-Zeroes.md)
+* [74. Search a 2D Matrix](./Algorithms/74.Search-a-2D-Matrix.md)
 * [79. Word Search](./Algorithms/79.Word-Search.md)
 * [200. Number of Islands](./Algorithms/200.Numberof-Islands.md)
 * [417. Pacific Atlantic Water Flow](./Algorithms/417.Pacific-Atlantic-Water-Flow.md)
