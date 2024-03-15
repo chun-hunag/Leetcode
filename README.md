@@ -103,6 +103,7 @@ personal leetcode solving record
 * [567. Permutation in String](./Algorithms/567.Permutation-in-String.md)
 * [647. Palindromic Substrings](./Algorithms/647.Palindromic-Substrings.md)
 * [659. Encode and Decode Strings](./Algorithms/659.Encode-and-Decode-Strings.md)
+* [981. Time Based Key-Value Store](./Algorithms/981.Time-Based-Key-Value-Store.md)
 * [1143. Longest Common Subsequence](./Algorithms/1143.Longest-Common-Subsequence.md)
 
 ### Hash Table
@@ -132,6 +133,7 @@ personal leetcode solving record
 * [448. Find All Numbers Disappeared in an Array](./Algorithms\448.Find-All-Numbers-Disappeared-in-an-Array.md)
 * [567. Permutation in String](./Algorithms/567.Permutation-in-String.md)
 * [697. Degree of an Array](./Algorithms/697.Degree-of-an-Array.md)
+* [981. Time Based Key-Value Store](./Algorithms/981.Time-Based-Key-Value-Store.md)
 * [1512. Number of Good Pairs](./Algorithms/1512.Number-of-Good-Pairs.md)
 
 ### Tree
@@ -193,6 +195,7 @@ personal leetcode solving record
 * [475. Heaters](./Algorithms/475.Heaters.md)
 * [718. Maximum Length of Repeated Subarray](./Algorithms\718.Maximum-Length-of-Repeated-Subarray.md)
 * [875. Koko Eating Bananas](./Algorithms/875.Koko-Eating-Bananas.md)
+* [981. Time Based Key-Value Store](./Algorithms/981.Time-Based-Key-Value-Store.md)
 
 ### Binary Search Tree
 * [98. Validate Binary Search Tree](./Algorithms/98.Validate%20Binary-Search-Tree.md)
@@ -497,6 +500,7 @@ personal leetcode solving record
 * [211. Design Add and Search Words Data Structure](./Algorithms/211.Design-Add-and-Search-Words-Data-Structure.md)
 * [295. Find Median from Data Stream](./Algorithms/295.Find-Median-from-Data-Stream.md)
 * [297. Serialize and Deserialize Binary Tree](./Algorithms/297.Serialize-and-Deserialize-Binary-Tree.md)
+* [981. Time Based Key-Value Store](./Algorithms/981.Time-Based-Key-Value-Store.md)
 
 ### Data Stream
 * [295. Find Median from Data Stream](./Algorithms/295.Find-Median-from-Data-Stream.md)
