@@ -121,6 +121,7 @@ personal leetcode solving record
 * [139. Word Break](./Algorithms/139.Word-Break.md)
 * [141. Linked List Cycle](./Algorithms/141.Linked-List-Cycle.md)
 * [160. Intersection of Two Linked Lists](./Algorithms/160.Intersection-of-Two-Linked-Lists.md)
+* [146. LRU Cache](./Algorithms/146.LRU-Cache.md)
 * [169. Majority Element](./Algorithms/169.Majority-Element.md)
 * [202. Happy Number](./Algorithms/202.Happy-Number.md)
 * [204. Count Primes](./Algorithms/204.Count-Primes.md)
@@ -178,6 +179,7 @@ personal leetcode solving record
 * [138. Copy List with Random Pointer](./Algorithms/138.Copy-List-with-Random-Pointer.md)
 * [141. Linked List Cycle](./Algorithms/141.Linked-List-Cycle.md)
 * [143. Reorder List](./Algorithms/143.Reorder-List.md)
+* [146. 146. LRU Cache](./Algorithms/146.LRU-Cache.md)
 * [160. Intersection of Two Linked Lists](./Algorithms/160.Intersection-of-Two-Linked-Lists.md)
 * [206. Reverse Linked List](./Algorithms/206.Reverse-Linked-List.md)
 * [234. Palindrome Linked List](./Algorithms/234.Palindrome-Linked-List.md)
@@ -498,11 +500,15 @@ personal leetcode solving record
 
 ### Design
 * [155. Min Stack](./Algorithms/155.Min-Stack.md)
+* [146. LRU Cache](./Algorithms/146.LRU-Cache.md)
 * [208. Implement Trie (Prefix Tree)](./Algorithms/208.Implement-Trie(Prefix-Tree).md)
 * [211. Design Add and Search Words Data Structure](./Algorithms/211.Design-Add-and-Search-Words-Data-Structure.md)
 * [295. Find Median from Data Stream](./Algorithms/295.Find-Median-from-Data-Stream.md)
 * [297. Serialize and Deserialize Binary Tree](./Algorithms/297.Serialize-and-Deserialize-Binary-Tree.md)
 * [981. Time Based Key-Value Store](./Algorithms/981.Time-Based-Key-Value-Store.md)
+  
+### Doubly-Linked List
+* [146. LRU Cache](./Algorithms/146.LRU-Cache.md)
 
 ### Data Stream
 * [295. Find Median from Data Stream](./Algorithms/295.Find-Median-from-Data-Stream.md)
