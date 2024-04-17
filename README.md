@@ -151,6 +151,7 @@ personal leetcode solving record
 * [235. Lowest Common Ancestor of a Binary Search Tree](./Algorithms/235.Lowest-Common-Ancestor-of-a-Binary-Search-Tree.md)
 * [297. Serialize and Deserialize Binary Tree](./Algorithms/297.Serialize-and-Deserialize-Binary-Tree.md)
 * [572. Subtree of Another Tree](./Algorithms/572.Subtree-of-Another-Tree.md)
+* [543. Diameter of Binary Tree](./Algorithms/543.Diameter-of-Binary-Tree.md)
 * [2385. Amount of Time for Binary Tree to Be Infected](./Algorithms/2385.Amount-of-Time-for-Binary-Tree-to-Be-Infected.md)
 
 ### Binary Tree
@@ -164,6 +165,7 @@ personal leetcode solving record
 * [230. Kth Smallest Element in a BST](./Algorithms/230.Kth-Smallest-Element-in-a-BST.md)
 * [235. Lowest Common Ancestor of a Binary Search Tree](./Algorithms/235.Lowest-Common-Ancestor-of-a-Binary-Search-Tree.md)
 * [297. Serialize and Deserialize Binary Tree](./Algorithms/297.Serialize-and-Deserialize-Binary-Tree.md)
+* [543. Diameter of Binary Tree](./Algorithms/543.Diameter-of-Binary-Tree.md)
 * [572. Subtree of Another Tree](./Algorithms/572.Subtree-of-Another-Tree.md)
 * [704. Binary Search](./Algorithms/704.Binary-Search.md)
 * [2385. Amount of Time for Binary Tree to Be Infected](./Algorithms/2385.Amount-of-Time-for-Binary-Tree-to-Be-Infected.md)
@@ -320,6 +322,7 @@ personal leetcode solving record
 * [297. Serialize and Deserialize Binary Tree](./Algorithms/297.Serialize-and-Deserialize-Binary-Tree.md)
 * [323. Number of Connected Components in an Undirected Graph](./Algorithms/323.Number-of-Connected-Components-in-an-Undirecte.md)
 * [417. Pacific Atlantic Water Flow](./Algorithms/417.Pacific-Atlantic-Water-Flow.md)
+* [543. Diameter of Binary Tree](./Algorithms/543.Diameter-of-Binary-Tree.md)
 * [572. Subtree of Another Tree](./Algorithms/572.Subtree-of-Another-Tree.md)
 * [2385. Amount of Time for Binary Tree to Be Infected](./Algorithms/2385.Amount-of-Time-for-Binary-Tree-to-Be-Infected.md)
 
