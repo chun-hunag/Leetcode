@@ -139,6 +139,7 @@ personal leetcode solving record
 * [1512. Number of Good Pairs](./Algorithms/1512.Number-of-Good-Pairs.md)
 
 ### Tree
+* [94. Binary Tree Inorder Traversal](./Algorithms/98.Validate%20Binary-Search-Tree.md)
 * [98. Validate Binary Search Tree](./Algorithms/98.Validate%20Binary-Search-Tree.md)
 * [100. Same Tree](./Algorithms/100.Same-Tree.md)
 * [101. Symmetric Tree](./Algorithms/101.Symmetric-Tree.md)
@@ -157,6 +158,7 @@ personal leetcode solving record
 
 ### Binary Tree
 * [74. Search a 2D Matrix](./Algorithms/74.Search-a-2D-Matrix.md)
+* [94. Binary Tree Inorder Traversal](./Algorithms/98.Validate%20Binary-Search-Tree.md)
 * [98. Validate Binary Search Tree](./Algorithms/98.Validate%20Binary-Search-Tree.md)
 * [100. Same Tree](./Algorithms/100.Same-Tree.md)
 * [102. Binary Tree Level Order Traversal](./Algorithms/102.Binary-Tree-Level-Order-Traversal.md)
@@ -207,6 +209,7 @@ personal leetcode solving record
 * [981. Time Based Key-Value Store](./Algorithms/981.Time-Based-Key-Value-Store.md)
 
 ### Binary Search Tree
+* [94. Binary Tree Inorder Traversal](./Algorithms/98.Validate%20Binary-Search-Tree.md)
 * [98. Validate Binary Search Tree](./Algorithms/98.Validate%20Binary-Search-Tree.md)
 * [230. Kth Smallest Element in a BST](./Algorithms/230.Kth-Smallest-Element-in-a-BST.md)
 
@@ -308,6 +311,7 @@ personal leetcode solving record
 
 ### Depth-first Search
 * [17. Letter Combinations of a PhoneNumber](./Algorithms/17.Letter-Combinations-of-a-Phone-Number.md)
+* [94. Binary Tree Inorder Traversal](./Algorithms/98.Validate%20Binary-Search-Tree.md)
 * [98. Validate Binary Search Tree](./Algorithms/98.Validate%20Binary-Search-Tree.md)
 * [100. Same Tree](./Algorithms/100.Same-Tree.md)
 * [101. Symmetric Tree](./Algorithms/101.Symmetric-Tree.md)
