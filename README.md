@@ -35,7 +35,6 @@ personal leetcode solving record
 * [121. Best Time to Buy and Sell Stock](./Algorithms/121.Best-Time-to-Buy-and-Sell-Stock.md)
 * [122. Best Time to Buy and Sell Stock II](./Algorithms/122.Best-Time-to-Buy-and-Sell-Stock-II.md)
 * [128. Longest Consecutive Sequence](./Algorithms/128.Longest-Consecutive-Sequence.md)
-* [144. Binary Tree Preorder Traversal](./Algorithms/144.Binary-Tree-Preorder-Traversal.md)
 * [150. Evaluate Reverse Polish Notation](./Algorithms/150.Evaluate-Reverse-Polish-Notation.md)
 * [152. Maximum Product Subarray](./Algorithms/152.Maximum-Product-Subarray.md)
 * [153. Find Minimum in Rotated Sorted Array](./Algorithms/153.Find-Minimum-in-Rotated-Sorted-Array.md)
@@ -150,6 +149,7 @@ personal leetcode solving record
 * [110. Balanced Binary Tree](./Algorithms/110.Balanced-Binary-Tree.md)
 * [124. Binary Tree Maximum Path Sum](./Algorithms/124.Binary-Tree-Maximum-Path-Sum.md)
 * [144. Binary Tree Preorder Traversal](./Algorithms/144.Binary-Tree-Preorder-Traversal.md)
+* [145. Binary Tree Postorder Traversal](./Algorithms/145.Binary-Tree-Postorder-Traversal.md)
 * [226. Invert Binary Tree](./Algorithms/226.Invert-Binary-Tree.md)
 * [230. Kth Smallest Element in a BST](./Algorithms/230.Kth-Smallest-Element-in-a-BST.md)
 * [235. Lowest Common Ancestor of a Binary Search Tree](./Algorithms/235.Lowest-Common-Ancestor-of-a-Binary-Search-Tree.md)
@@ -169,6 +169,7 @@ personal leetcode solving record
 * [110. Balanced Binary Tree](./Algorithms/110.Balanced-Binary-Tree.md)
 * [124. Binary Tree Maximum Path Sum](./Algorithms/124.Binary-Tree-Maximum-Path-Sum.md)
 * [144. Binary Tree Preorder Traversal](./Algorithms/144.Binary-Tree-Preorder-Traversal.md)
+* [145. Binary Tree Postorder Traversal](./Algorithms/145.Binary-Tree-Postorder-Traversal.md)
 * [230. Kth Smallest Element in a BST](./Algorithms/230.Kth-Smallest-Element-in-a-BST.md)
 * [235. Lowest Common Ancestor of a Binary Search Tree](./Algorithms/235.Lowest-Common-Ancestor-of-a-Binary-Search-Tree.md)
 * [297. Serialize and Deserialize Binary Tree](./Algorithms/297.Serialize-and-Deserialize-Binary-Tree.md)
@@ -214,7 +215,6 @@ personal leetcode solving record
 ### Binary Search Tree
 * [94. Binary Tree Inorder Traversal](./Algorithms/98.Validate%20Binary-Search-Tree.md)
 * [98. Validate Binary Search Tree](./Algorithms/98.Validate%20Binary-Search-Tree.md)\
-* [144. Binary Tree Preorder Traversal](./Algorithms/144.Binary-Tree-Preorder-Traversal.md)
 * [230. Kth Smallest Element in a BST](./Algorithms/230.Kth-Smallest-Element-in-a-BST.md)
 
 ### Two Pointers
@@ -324,6 +324,7 @@ personal leetcode solving record
 * [124. Binary Tree Maximum Path Sum](./Algorithms/124.Binary-Tree-Maximum-Path-Sum.md)
 * [133. Clone Graph](./Algorithms/133.Clone-Graph.md)
 * [144. Binary Tree Preorder Traversal](./Algorithms/144.Binary-Tree-Preorder-Traversal.md)
+* [145. Binary Tree Postorder Traversal](./Algorithms/145.Binary-Tree-Postorder-Traversal.md)
 * [178. Graph Valid Tree](./Algorithms/178.%20Graph-Valid-Tree.md)
 * [200. Number of Islands](./Algorithms/200.Numberof-Islands.md)
 * [207. Course Schedule](./Algorithms/207.Course-Schedule.md)
@@ -437,6 +438,8 @@ personal leetcode solving record
 * [42. Trapping Rain Water](./Algorithms/42.Trapping-Rain-Water.md)
 * [84. Largest Rectangle in Histogram](./Algorithms/84.Largest-Rectangle-in-Histogram.md)
 * [143. Reorder List](./Algorithms/143.Reorder-List.md)
+* [144. Binary Tree Preorder Traversal](./Algorithms/144.Binary-Tree-Preorder-Traversal.md)
+* [145. Binary Tree Postorder Traversal](./Algorithms/145.Binary-Tree-Postorder-Traversal.md)
 * [150. Evaluate Reverse Polish Notation](./Algorithms/150.Evaluate-Reverse-Polish-Notation.md)
 * [155. Min Stack](./Algorithms/155.Min-Stack.md)
 * [234. Palindrome Linked List](./Algorithms/234.Palindrome-Linked-List.md)
