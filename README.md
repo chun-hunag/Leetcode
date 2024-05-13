@@ -157,6 +157,7 @@ personal leetcode solving record
 * [297. Serialize and Deserialize Binary Tree](./Algorithms/297.Serialize-and-Deserialize-Binary-Tree.md)
 * [572. Subtree of Another Tree](./Algorithms/572.Subtree-of-Another-Tree.md)
 * [543. Diameter of Binary Tree](./Algorithms/543.Diameter-of-Binary-Tree.md)
+* [1448. Count Good Nodes in Binary Tree](./Algorithms/1448.Count-Good-Nodes-in-Binary-Tree.md)
 * [2385. Amount of Time for Binary Tree to Be Infected](./Algorithms/2385.Amount-of-Time-for-Binary-Tree-to-Be-Infected.md)
 
 ### Binary Tree
@@ -177,6 +178,7 @@ personal leetcode solving record
 * [543. Diameter of Binary Tree](./Algorithms/543.Diameter-of-Binary-Tree.md)
 * [572. Subtree of Another Tree](./Algorithms/572.Subtree-of-Another-Tree.md)
 * [704. Binary Search](./Algorithms/704.Binary-Search.md)
+* [1448. Count Good Nodes in Binary Tree](./Algorithms/1448.Count-Good-Nodes-in-Binary-Tree.md)
 * [2385. Amount of Time for Binary Tree to Be Infected](./Algorithms/2385.Amount-of-Time-for-Binary-Tree-to-Be-Infected.md)
 
 ### Linked List
@@ -339,6 +341,7 @@ personal leetcode solving record
 * [417. Pacific Atlantic Water Flow](./Algorithms/417.Pacific-Atlantic-Water-Flow.md)
 * [543. Diameter of Binary Tree](./Algorithms/543.Diameter-of-Binary-Tree.md)
 * [572. Subtree of Another Tree](./Algorithms/572.Subtree-of-Another-Tree.md)
+* [1448. Count Good Nodes in Binary Tree](./Algorithms/1448.Count-Good-Nodes-in-Binary-Tree.md)
 * [2385. Amount of Time for Binary Tree to Be Infected](./Algorithms/2385.Amount-of-Time-for-Binary-Tree-to-Be-Infected.md)
 
 ### Breadth-first Search
@@ -359,6 +362,7 @@ personal leetcode solving record
 * [322. Coin Change](./Algorithms/322.Coin-Change.md)
 * [323. Number of Connected Components in an Undirected Graph](./Algorithms/323.Number-of-Connected-Components-in-an-Undirecte.md)
 * [417. Pacific Atlantic Water Flow](./Algorithms/417.Pacific-Atlantic-Water-Flow.md)
+* [1448. Count Good Nodes in Binary Tree](./Algorithms/1448.Count-Good-Nodes-in-Binary-Tree.md)
 * [2385. Amount of Time for Binary Tree to Be Infected](./Algorithms/2385.Amount-of-Time-for-Binary-Tree-to-Be-Infected.md)
 
 ### Brainteaser
