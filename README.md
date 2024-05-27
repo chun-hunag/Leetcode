@@ -157,6 +157,7 @@ personal leetcode solving record
 * [297. Serialize and Deserialize Binary Tree](./Algorithms/297.Serialize-and-Deserialize-Binary-Tree.md)
 * [572. Subtree of Another Tree](./Algorithms/572.Subtree-of-Another-Tree.md)
 * [543. Diameter of Binary Tree](./Algorithms/543.Diameter-of-Binary-Tree.md)
+* [703. Kth Largest Element in a Stream](./Algorithms/703.Kth-Largest-Element-in-a-Stream.md)
 * [1448. Count Good Nodes in Binary Tree](./Algorithms/1448.Count-Good-Nodes-in-Binary-Tree.md)
 * [2385. Amount of Time for Binary Tree to Be Infected](./Algorithms/2385.Amount-of-Time-for-Binary-Tree-to-Be-Infected.md)
 
@@ -211,14 +212,16 @@ personal leetcode solving record
 * [300. Longest Increasing Subsequence](./Algorithms/300.Longest-Increasing-Subsequence.md)
 * [349. Intersection of Two Arrays](./Algorithms/349.Intersection-of-Two-Arrays.md)
 * [475. Heaters](./Algorithms/475.Heaters.md)
+* [703. Kth Largest Element in a Stream](./Algorithms/703.Kth-Largest-Element-in-a-Stream.md)
 * [718. Maximum Length of Repeated Subarray](./Algorithms\718.Maximum-Length-of-Repeated-Subarray.md)
 * [875. Koko Eating Bananas](./Algorithms/875.Koko-Eating-Bananas.md)
 * [981. Time Based Key-Value Store](./Algorithms/981.Time-Based-Key-Value-Store.md)
 
 ### Binary Search Tree
 * [94. Binary Tree Inorder Traversal](./Algorithms/98.Validate%20Binary-Search-Tree.md)
-* [98. Validate Binary Search Tree](./Algorithms/98.Validate%20Binary-Search-Tree.md)\
+* [98. Validate Binary Search Tree](./Algorithms/98.Validate%20Binary-Search-Tree.md)
 * [230. Kth Smallest Element in a BST](./Algorithms/230.Kth-Smallest-Element-in-a-BST.md)
+* [703. Kth Largest Element in a Stream](./Algorithms/703.Kth-Largest-Element-in-a-Stream.md)
 
 ### Two Pointers
 * [11. Container With Most Water](./Algorithms/11.Container-With-Most-Water.md)
@@ -465,6 +468,7 @@ personal leetcode solving record
 * [253. Meeting Rooms II](./Algorithms/253.Meeting-Rooms-II.md)
 * [295. Find Median from Data Stream](./Algorithms/295.Find-Median-from-Data-Stream.md)
 * [347. Top K Frequent Elements](./Algorithms/347.Top-K-Frequent-Elements.md)
+* [703. Kth Largest Element in a Stream](./Algorithms/703.Kth-Largest-Element-in-a-Stream.md)
 
 ### Memoization
 * [70. Climbing Stairs](./Algorithms/70.Climbing-Stairs.md)
@@ -534,6 +538,7 @@ personal leetcode solving record
 * [211. Design Add and Search Words Data Structure](./Algorithms/211.Design-Add-and-Search-Words-Data-Structure.md)
 * [295. Find Median from Data Stream](./Algorithms/295.Find-Median-from-Data-Stream.md)
 * [297. Serialize and Deserialize Binary Tree](./Algorithms/297.Serialize-and-Deserialize-Binary-Tree.md)
+* [703. Kth Largest Element in a Stream](./Algorithms/703.Kth-Largest-Element-in-a-Stream.md)
 * [981. Time Based Key-Value Store](./Algorithms/981.Time-Based-Key-Value-Store.md)
   
 ### Doubly-Linked List
@@ -541,6 +546,7 @@ personal leetcode solving record
 
 ### Data Stream
 * [295. Find Median from Data Stream](./Algorithms/295.Find-Median-from-Data-Stream.md)
+* [703. Kth Largest Element in a Stream](./Algorithms/703.Kth-Largest-Element-in-a-Stream.md)
 
 ## Database
 
