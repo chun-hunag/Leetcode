@@ -70,6 +70,7 @@ personal leetcode solving record
 * [853. Car Fleet](./Algorithms/853.Car-Fleet.md)
 * [875. Koko Eating Bananas](./Algorithms/875.Koko-Eating-Bananas.md)
 * [918. Maximum Sum Circular Subarray](./Algorithms/918.Maximum-Sum-Circular-Subarray.md)
+* [1046. Last Stone Weight](./Algorithms/1046.Last-Stone-Weight.md)
 * [1287. Element Appearing More Than 25% In Sorted Array](./Algorithms/1287.Element-Appearing-More-Than-25%25-In-Sorted-Arr.md)
 * [1512. Number of Good Pairs](./Algorithms/1512.Number-of-Good-Pairs.md)
 
@@ -469,6 +470,7 @@ personal leetcode solving record
 * [295. Find Median from Data Stream](./Algorithms/295.Find-Median-from-Data-Stream.md)
 * [347. Top K Frequent Elements](./Algorithms/347.Top-K-Frequent-Elements.md)
 * [703. Kth Largest Element in a Stream](./Algorithms/703.Kth-Largest-Element-in-a-Stream.md)
+* [1046. Last Stone Weight](./Algorithms/1046.Last-Stone-Weight.md)
 
 ### Memoization
 * [70. Climbing Stairs](./Algorithms/70.Climbing-Stairs.md)
