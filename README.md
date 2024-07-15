@@ -70,6 +70,7 @@ personal leetcode solving record
 * [853. Car Fleet](./Algorithms/853.Car-Fleet.md)
 * [875. Koko Eating Bananas](./Algorithms/875.Koko-Eating-Bananas.md)
 * [918. Maximum Sum Circular Subarray](./Algorithms/918.Maximum-Sum-Circular-Subarray.md)
+* [973. K Closest Points to Origin](./Algorithms/973.K-Closest-Points-to-Origin.md)
 * [1046. Last Stone Weight](./Algorithms/1046.Last-Stone-Weight.md)
 * [1287. Element Appearing More Than 25% In Sorted Array](./Algorithms/1287.Element-Appearing-More-Than-25%25-In-Sorted-Arr.md)
 * [1512. Number of Good Pairs](./Algorithms/1512.Number-of-Good-Pairs.md)
@@ -267,6 +268,7 @@ personal leetcode solving record
 * [371. Sum of Two Integers](./Algorithms/371.Sum-of-Two-Integers.md)
 * [372. Super Pow](./Algorithms/372.Super-Pow.md)
 * [628. Maximum Product of Three Numbers](./Algorithms/628.Maximum-Product-of-Three-Numbers.md)
+* [973. K Closest Points to Origin](./Algorithms/973.K-Closest-Points-to-Origin.md)
 * [1512. Number of Good Pairs](./Algorithms/1512.Number-of-Good-Pairs.md)
 
 ### Recursion
@@ -302,6 +304,7 @@ personal leetcode solving record
 * [628. Maximum Product of Three Numbers](./Algorithms/628.Maximum-Product-of-Three-Numbers.md)
 * [747. Largest Number At Least Twice of Others](./Algorithms/747.Largest-Number-At-Least-Twice-of-Others.md)
 * [853. Car Fleet](./Algorithms/853.Car-Fleet.md)
+* [973. K Closest Points to Origin](./Algorithms/973.K-Closest-Points-to-Origin.md)
 
 ### Counting Sort
 * [561. Array Partition I](./Algorithms/561.Array-Partition-I.md)
@@ -394,6 +397,7 @@ personal leetcode solving record
 * [347. Top K Frequent Elements](./Algorithms/347.Top-K-Frequent-Elements.md)
 * [372. Super Pow](./Algorithms/372.Super-Pow.md)
 * [918. Maximum Sum Circular Subarray](./Algorithms/918.Maximum-Sum-Circular-Subarray.md)
+* [973. K Closest Points to Origin](./Algorithms/973.K-Closest-Points-to-Origin.md)
 
 ### Dynamic Programming
 * [5. Longest Palindromic Substring](./Algorithms/5.Longest-Palindromic-Substring.md)
@@ -470,6 +474,7 @@ personal leetcode solving record
 * [295. Find Median from Data Stream](./Algorithms/295.Find-Median-from-Data-Stream.md)
 * [347. Top K Frequent Elements](./Algorithms/347.Top-K-Frequent-Elements.md)
 * [703. Kth Largest Element in a Stream](./Algorithms/703.Kth-Largest-Element-in-a-Stream.md)
+* [973. K Closest Points to Origin](./Algorithms/973.K-Closest-Points-to-Origin.md)
 * [1046. Last Stone Weight](./Algorithms/1046.Last-Stone-Weight.md)
 
 ### Memoization
@@ -526,6 +531,7 @@ personal leetcode solving record
 
 ### Quickselect
 * [347. Top K Frequent Elements](./Algorithms/347.Top-K-Frequent-Elements.md)
+* [973. K Closest Points to Origin](./Algorithms/973.K-Closest-Points-to-Origin.md)
 
 ### String Matching
 * [572. Subtree of Another Tree](./Algorithms/572.Subtree-of-Another-Tree.md)
@@ -549,6 +555,9 @@ personal leetcode solving record
 ### Data Stream
 * [295. Find Median from Data Stream](./Algorithms/295.Find-Median-from-Data-Stream.md)
 * [703. Kth Largest Element in a Stream](./Algorithms/703.Kth-Largest-Element-in-a-Stream.md)
+
+### Geometry
+* [973. K Closest Points to Origin](./Algorithms/973.K-Closest-Points-to-Origin.md)
 
 ## Database
 
